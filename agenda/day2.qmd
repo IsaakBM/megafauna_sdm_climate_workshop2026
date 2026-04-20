@@ -1,0 +1,11 @@
+---
+title: "Day 2 - Workshop Opening"
+format: html
+---
+
+::: top-banner
+:::
+
+## Opening sessions
+
+Placeholder agenda for workshop kickoff, introductions, and framing.

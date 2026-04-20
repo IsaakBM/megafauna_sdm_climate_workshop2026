@@ -1,0 +1,19 @@
+::: top-banner
+:::
+
+# Workshop overview
+
+This workshop brings together marine megafauna taxonomic experts, climate and ocean modelers, and regional implementation partners participating in Save the Blue Five.
+
+The meeting will build on the technical foundations established in previous workshops and create a shared space to discuss progress, data inputs, uncertainty, information gaps, and next steps for regional collaboration.
+
+The main goal is to review and refine ongoing analyses, including species distribution models, climate vulnerability assessment, and related products that can support science and decision-making in the Southeast Pacific.
+
+## Location and dates
+
+- San Cristobal Island, Galapagos
+- June 8 to June 12, 2026
+
+## About this site
+
+This website was created with Quarto and is structured as a working hub for workshop logistics, agenda, participants, and resources.

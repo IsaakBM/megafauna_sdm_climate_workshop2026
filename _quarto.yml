@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Marine Megafauna and Climate Modeling Workshop – SB5"
+  navbar:
+    left:
+      - text: "Home"
+        file: 01_home.qmd
+      - text: "Agenda"
+        file: agenda/index.qmd
+      - text: "Participants"
+        file: participants/01_participants.qmd
+      - text: "Logistics"
+        file: logistics/01_logistics.qmd
+      - text: "Resources"
+        file: resources/materials.qmd
+
+  sidebar:
+    style: docked
+    contents:
+      - section: "Daily Agenda"
+        contents:
+          - agenda/day1.qmd
+          - agenda/day2.qmd
+          - agenda/day3.qmd
+          - agenda/day4.qmd
+          - agenda/day5.qmd
+      - section: "Breakout Groups"
+        contents:
+          - participants/technical-group.qmd
+          - participants/nontechnical-group.qmd
+
+  page-footer:
+    left: "© 2026 Isaac Brito-Morales"
+    right: "Save the Blue Five"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    page-layout: article
+    grid:
+      sidebar-width: 280px
+      body-width: 720px
+    lang: en

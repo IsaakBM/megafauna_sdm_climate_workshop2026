@@ -1,0 +1,11 @@
+---
+title: "Day 3 - Megafauna, Models, and Climate Change"
+format: html
+---
+
+::: top-banner
+:::
+
+## Technical discussions
+
+Placeholder agenda for SDMs, model inputs, information gaps, and climate vulnerability discussions.

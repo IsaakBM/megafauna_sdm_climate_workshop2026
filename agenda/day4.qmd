@@ -1,0 +1,11 @@
+---
+title: "Day 4 - Applied Science and Synthesis"
+format: html
+---
+
+::: top-banner
+:::
+
+## Collaborative work
+
+Placeholder agenda for breakout sessions, synthesis, and next steps.

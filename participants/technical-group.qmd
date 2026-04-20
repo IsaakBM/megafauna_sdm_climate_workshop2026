@@ -1,0 +1,13 @@
+::: top-banner
+:::
+
+# Technical Group
+
+This breakout group brings together modelers and taxonomic experts working on the technical dimensions of the workshop.
+
+## Focus areas
+
+- Species distribution models
+- Climate vulnerability assessment
+- Data inputs and information gaps
+- Model interpretation and improvement

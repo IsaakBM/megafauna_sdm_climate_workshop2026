@@ -1,0 +1,17 @@
+::: top-banner
+:::
+
+---
+title: "General Agenda"
+format: html
+---
+
+## Day 1 - Arrival
+
+## Day 2 - Workshop Opening
+
+## Day 3 - Megafauna, Models, and Climate Change
+
+## Day 4 - Applied Science and Synthesis
+
+## Day 5 - Departure

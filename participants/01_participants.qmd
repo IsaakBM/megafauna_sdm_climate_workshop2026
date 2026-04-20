@@ -1,0 +1,28 @@
+::: top-banner
+:::
+
+# Participants
+
+Below is the current working participant list for the workshop.
+
+| Name | Institution |
+|------|-------------|
+| Cesar Penaherrera | MigraMar |
+| Mario Pardo | CICESE |
+| Ariadna Juarez | CICESE |
+| Shaleyla Kelez | ecOceania |
+| Boris DeWitt | CEAZA; IRD France |
+| Yulia Igorova | University of Miami |
+| Ilena Zanella | Mision Tiburon |
+| Luis Vedrinana | Universidad Austral de Chile |
+| Frank Garita | Panacetacea |
+| Gabriel Vianna | Charles Darwin Foundation |
+| Isaac Brito | MCSS |
+| Christian/Marco | CI Mesoamerica |
+| Mariana Vera | CI Ecuador |
+| Lee Hannah | MCSS |
+| Fausto Arias | CI Costa Rica |
+| Damian Pardo | CI Colombia |
+| Dylan Glave | MCSS |
+| Tito Navia | GIZ |
+| Leonardo Marriaga | CPPS |

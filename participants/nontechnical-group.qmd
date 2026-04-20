@@ -1,0 +1,13 @@
+::: top-banner
+:::
+
+# Non-Technical Group
+
+This breakout group includes regional implementation and partner representatives supporting coordination, planning, and uptake.
+
+## Focus areas
+
+- Regional priorities
+- Decision-support relevance
+- Coordination across institutions
+- Project next steps

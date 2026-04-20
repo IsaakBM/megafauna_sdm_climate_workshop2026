@@ -1,0 +1,11 @@
+---
+title: "Day 5 - Departure"
+format: html
+---
+
+::: top-banner
+:::
+
+## Departure
+
+Placeholder agenda for wrap-up and departures.
