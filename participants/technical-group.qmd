@@ -1,13 +1,47 @@
+---
+title: "Technical"
+format: html
+---
+
 ::: top-banner
 :::
 
-# Technical Group
+::: text-center
+*Monday, June 9, 2026*
+:::
 
-This breakout group brings together modelers and taxonomic experts working on the technical dimensions of the workshop.
+::: text-center
+*1:30 pm*
+:::
+
+::: text-center
+*Facilitator: Isaac Brito-Morales*
+:::
+
+This working group brings together modelers, taxonomic experts, and participants contributing to the technical dimensions of the workshop.
+
+## Participants
+
+| Name | Role | Institution |
+|------|------|-------------|
+| Isaac Brito-Morales | Facilitator | MCSS |
+| Cesar Penaherrera | Participant | MigraMar |
+| Mario Pardo | Participant | CICESE |
+| Ariadna Juarez | Participant | CICESE |
+| Shaleyla Kelez | Participant | EcOceánica |
+| Boris DeWitt | Participant | CEAZA; IRD France |
+| Yulia Egorova | Participant | University of Miami |
+| Ilena Zanella | Participant | Misión Tiburón |
+| Luis Vedinana | Participant | Universidad Austral de Chile |
+| Frank Garita | Participant | Panacetacea |
+| Gabriel Vianna | Participant | Charles Darwin Foundation |
+| Lee Hannah | Participant | MCSS |
 
 ## Focus areas
 
 - Species distribution models
+- Climate scenarios and SSPs
 - Climate vulnerability assessment
 - Data inputs and information gaps
 - Model interpretation and improvement
+- Spatial resolution and regional ocean model applications

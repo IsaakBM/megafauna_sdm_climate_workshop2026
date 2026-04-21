@@ -1,13 +1,41 @@
+---
+title: "Stakeholder Engagement and Regional Priorities"
+format: html
+---
+
 ::: top-banner
 :::
 
-# Non-Technical Group
+::: text-center
+*Monday, June 9, 2026*
+:::
 
-This breakout group includes regional implementation and partner representatives supporting coordination, planning, and uptake.
+::: text-center
+*1:30 pm*
+:::
+
+::: text-center
+*Facilitator: Dylan Glave*
+:::
+
+This working group is designed for participants focused on policy relevance, regional coordination, and the practical use of workshop outputs.
+
+## Participants
+
+| Name | Role | Institution |
+|------|------|-------------|
+| Dylan Glave | Facilitator | MCSS |
+| Christian/Marco | Participant | CI Mesoamerica |
+| Mariana Vera | Participant | CI Ecuador |
+| Fausto Arias | Participant | CI Costa Rica |
+| Damian Pardo | Participant | CI Colombia |
+| Tito Navia | Participant | GIZ |
+| Leonardo Marriaga | Participant | CPPS |
 
 ## Focus areas
 
 - Regional priorities
-- Decision-support relevance
+- Stakeholder engagement
+- Policy and decision-support relevance
 - Coordination across institutions
-- Project next steps
+- Project next steps and regional usefulness

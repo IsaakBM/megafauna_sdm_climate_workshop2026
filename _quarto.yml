@@ -27,7 +27,7 @@ website:
           - agenda/day3.qmd
           - agenda/day4.qmd
           - agenda/day5.qmd
-      - section: "Breakout Groups"
+      - section: "Working Groups"
         contents:
           - participants/technical-group.qmd
           - participants/nontechnical-group.qmd
