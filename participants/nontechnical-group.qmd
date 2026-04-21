@@ -24,13 +24,13 @@ This working group is designed for participants focused on policy relevance, reg
 
 | Name | Role | Institution |
 |------|------|-------------|
-| Dylan Glave | Facilitator | MCSS |
-| Christian/Marco | Participant | CI Mesoamerica |
-| Mariana Vera | Participant | CI Ecuador |
-| Fausto Arias | Participant | CI Costa Rica |
-| Damian Pardo | Participant | CI Colombia |
-| Tito Navia | Participant | GIZ |
-| Leonardo Marriaga | Participant | CPPS |
+| <a href="https://example.com" target="_blank">Dylan Glave</a> | Facilitator | MCSS |
+| <a href="https://example.com" target="_blank">Christian/Marco</a> | Participant | CI Mesoamerica |
+| <a href="https://example.com" target="_blank">Mariana Vera</a> | Participant | CI Ecuador |
+| <a href="https://www.researchgate.net/profile/Fausto-Arias-Zumbado" target="_blank">Fausto Arias</a> | Participant | CI Costa Rica |
+| <a href="https://www.linkedin.com/in/dami%C3%A1n-s-pardo-69b658a7/" target="_blank">Damian Pardo</a> | Participant | CI Colombia |
+| <a href="https://www.linkedin.com/in/tito-navia-sol%C3%B3rzano-a1b701120/" target="_blank">Tito Navia</a> | Participant | GIZ |
+| <a href="https://cpps-int.org/index.php/actividades-pda-m/60-quienes-somos/organigrama/213-directorio" target="_blank">Leonardo Marriaga</a> | Participant | CPPS |
 
 ## Focus areas
 

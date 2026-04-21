@@ -7,22 +7,22 @@ Below is the current working participant list for the workshop.
 
 | Name | Institution |
 |------|-------------|
-| Cesar Penaherrera | MigraMar |
-| Mario Pardo | CICESE |
-| Ariadna Juarez | CICESE |
-| Shaleyla Kelez | EcOceánica |
-| Boris DeWitt | CEAZA; IRD France |
-| Yulia Egorova | University of Miami |
-| Ilena Zanella | Misión Tiburón |
-| Luis Vedinana | Universidad Austral de Chile |
-| Frank Garita | Panacetacea |
-| Gabriel Vianna | Charles Darwin Foundation |
-| Isaac Brito | MCSS |
-| Lee Hannah | MCSS |
-| Christian/Marco | CI Mesoamerica |
-| Mariana Vera | CI Ecuador |
-| Fausto Arias | CI Costa Rica |
-| Damian Pardo | CI Colombia |
-| Dylan Glave | MCSS |
-| Tito Navia | GIZ |
-| Leonardo Marriaga | CPPS |
+| <a href="https://www.linkedin.com/in/crpenaherrera/" target="_blank">César Peñaherrera</a> | MigraMar |
+| <a href="https://www.linkedin.com/in/mario-a-pardo-cicese/" target="_blank">Mario Pardo</a> | CICESE |
+| <a href="https://scholar.google.com/citations?user=NE7puCcAAAAJ&hl=es" target="_blank">Ariadna Juarez</a> | CICESE |
+| <a href="https://www.ecoceanica.org/shaleyla" target="_blank">Shaleyla Kelez</a> | EcOceánica |
+| <a href="https://scholar.google.com/citations?user=82f1hx0AAAAJ&hl=fr" target="_blank">Boris DeWitt</a> | CEAZA; IRD France |
+| <a href="https://people.miami.edu/profile/4fd08a9092e08f6da5b330184ade8d86" target="_blank">Yulia Egorova</a> | University of Miami |
+| <a href="https://www.misiontiburon.org/" target="_blank">Ilena Zanella</a> | Misión Tiburón |
+| <a href="https://scholar.google.com/citations?hl=es&user=aVvkju8AAAAJ&view_op=list_works" target="_blank">Luis Bedriñana</a> | Universidad Austral de Chile |
+| <a href="https://www.linkedin.com/in/frank-garita-05321072/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Frank Garita</a> | Panacetacea |
+| <a href="https://www.darwinfoundation.org/es/conocenos/our-people2/meet-our-team/gabriel-vianna/" target="_blank">Gabriel Vianna</a> | Charles Darwin Foundation |
+| <a href="https://isaakbm.github.io/ibm-personalweb/" target="_blank">Isaac Brito-Morales</a> | MCSS |
+| <a href="https://www.conservation.org/experts-list/dr-lee-hannah" target="_blank">Lee Hannah</a> | MCSS |
+| <a href="https://example.com" target="_blank">Christian/Marco</a> | CI Mesoamerica |
+| <a href="https://example.com" target="_blank">Mariana Vera</a> | CI Ecuador |
+| <a href="https://www.researchgate.net/profile/Fausto-Arias-Zumbado" target="_blank">Fausto Arias</a> | CI Costa Rica |
+| <a href="https://www.linkedin.com/in/dami%C3%A1n-s-pardo-69b658a7/" target="_blank">Damian Pardo</a> | CI Colombia |
+| <a href="https://example.com" target="_blank">Dylan Glave</a> | MCSS |
+| <a href="https://www.linkedin.com/in/tito-navia-sol%C3%B3rzano-a1b701120/" target="_blank">Tito Navia</a> | GIZ |
+| <a href="https://cpps-int.org/index.php/actividades-pda-m/60-quienes-somos/organigrama/213-directorio" target="_blank">Leonardo Marriaga</a> | CPPS |

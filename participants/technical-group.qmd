@@ -24,18 +24,18 @@ This working group brings together modelers, taxonomic experts, and participants
 
 | Name | Role | Institution |
 |------|------|-------------|
-| Isaac Brito-Morales | Facilitator | MCSS |
-| Cesar Penaherrera | Participant | MigraMar |
-| Mario Pardo | Participant | CICESE |
-| Ariadna Juarez | Participant | CICESE |
-| Shaleyla Kelez | Participant | EcOceánica |
-| Boris DeWitt | Participant | CEAZA; IRD France |
-| Yulia Egorova | Participant | University of Miami |
-| Ilena Zanella | Participant | Misión Tiburón |
-| Luis Vedinana | Participant | Universidad Austral de Chile |
-| Frank Garita | Participant | Panacetacea |
-| Gabriel Vianna | Participant | Charles Darwin Foundation |
-| Lee Hannah | Participant | MCSS |
+| <a href="https://isaakbm.github.io/ibm-personalweb/" target="_blank">Isaac Brito-Morales</a> | Facilitator | MCSS |
+| <a href="https://www.linkedin.com/in/crpenaherrera/" target="_blank">César Peñaherrera</a> | Participant | MigraMar |
+| <a href="https://www.linkedin.com/in/mario-a-pardo-cicese/" target="_blank">Mario Pardo</a> | Participant | CICESE |
+| <a href="https://scholar.google.com/citations?user=NE7puCcAAAAJ&hl=es" target="_blank">Ariadna Juarez</a> | Participant | CICESE |
+| <a href="https://www.ecoceanica.org/shaleyla" target="_blank">Shaleyla Kelez</a> | Participant | EcOceánica |
+| <a href="https://scholar.google.com/citations?user=82f1hx0AAAAJ&hl=fr" target="_blank">Boris DeWitt</a> | Participant | CEAZA; IRD France |
+| <a href="https://people.miami.edu/profile/4fd08a9092e08f6da5b330184ade8d86" target="_blank">Yulia Egorova</a> | Participant | University of Miami |
+| <a href="https://www.misiontiburon.org/" target="_blank">Ilena Zanella</a> | Participant | Misión Tiburón |
+| <a href="https://scholar.google.com/citations?hl=es&user=aVvkju8AAAAJ&view_op=list_works" target="_blank">Luis Bedriñana</a> | Participant | Universidad Austral de Chile |
+| <a href="https://www.linkedin.com/in/frank-garita-05321072/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Frank Garita</a> | Participant | Panacetacea |
+| <a href="https://www.darwinfoundation.org/es/conocenos/our-people2/meet-our-team/gabriel-vianna/" target="_blank">Gabriel Vianna</a> | Participant | Charles Darwin Foundation |
+| <a href="https://www.conservation.org/experts-list/dr-lee-hannah" target="_blank">Lee Hannah</a> | Participant | MCSS |
 
 ## Focus areas
 
