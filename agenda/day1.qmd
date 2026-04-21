@@ -6,6 +6,22 @@ format: html
 ::: top-banner
 :::
 
-## San Cristobal, Galapagos
+::: {.text-center}
+# **San Cristobal, Galapagos, Ecuador**
+### *June 8, 2026*
+:::
 
-Placeholder agenda for arrival and check-in.
+::: {.callout-note appearance="simple"}
+- **5:00 - 5:30 pm**  
+  Transfer from **San Cristobal Airport (SCY)** to the hotel  
+  *Transportation coordinated by Isaac and Dylan*
+
+- **6:00 pm**  
+  Hotel check-in  
+  *Depending on your room assignment, please check your email for hotel instructions*  
+  *Address: TBD*
+
+- **7:30 - 9:00 pm**  
+  Dinner and workshop objectives  
+  *Location: TBD*
+:::
