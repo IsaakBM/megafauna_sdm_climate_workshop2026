@@ -15,5 +15,5 @@ This repository contains the Quarto website and workshop materials for the inter
 
 ## Location and dates
 
-- San Cristobal Island, Galápagos
+- San Cristóbal Island, Galápagos
 - June 8 to June 12, 2026

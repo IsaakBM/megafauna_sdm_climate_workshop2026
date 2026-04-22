@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Marine Megafauna and Climate Modeling Workshop – SB5"
+  site-url: "https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/"
   navbar:
     left:
       - text: "🏠 Home"
