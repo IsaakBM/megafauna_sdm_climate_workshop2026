@@ -6,15 +6,15 @@ website:
   title: "Marine Megafauna and Climate Modeling Workshop – SB5"
   navbar:
     left:
-      - text: "Home"
+      - text: "🏠 Home"
         file: 01_home.qmd
-      - text: "Agenda"
+      - text: "📅 Agenda"
         file: agenda/index.qmd
-      - text: "Participants"
+      - text: "👥 Participants"
         file: participants/01_participants.qmd
-      - text: "Logistics"
+      - text: "📍 Logistics"
         file: logistics/01_logistics.qmd
-      - text: "Resources"
+      - text: "📁 Resources"
         file: resources/materials.qmd
 
   sidebar:
