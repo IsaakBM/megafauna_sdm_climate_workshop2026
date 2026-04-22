@@ -2,9 +2,7 @@
 :::
 
 ::: {.home-hero}
-# Marine Megafauna  
-and Climate Change  
-Modeling Workshop
+## Marine Megafauna<br>and Climate Change<br>Modeling Workshop
 
 ::: {.home-subtitle}
 Save the Blue Five | Santa Cruz, Galápagos | June 8-12, 2026
