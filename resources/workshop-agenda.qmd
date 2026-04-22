@@ -5,6 +5,7 @@ format:
     pdf-engine: typst
     toc: false
     number-sections: false
+    mainfont: "Helvetica Neue"
 ---
 
 Save the Blue Five | Santa Cruz, Galápagos | June 8-12, 2026
