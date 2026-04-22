@@ -7,13 +7,13 @@ format: html
 :::
 
 ::: {.text-center}
-# **San Cristóbal, Galápagos, Ecuador**
+# **Santa Cruz, Galápagos, Ecuador**
 ### *June 8, 2026*
 :::
 
 ::: {.callout-note appearance="simple"}
 - **5:00 - 5:30 pm**  
-  Transfer from **San Cristóbal Airport (SCY)** to the hotel  
+  Transfer from the airport to **Santa Cruz Island**  
   *Transportation coordinated by Isaac and Dylan*
 
 - **6:00 pm**  

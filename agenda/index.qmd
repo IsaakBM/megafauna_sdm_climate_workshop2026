@@ -8,7 +8,7 @@ format: html
 
 ## [Day 1 - Arrival](day1.qmd)
 
-- Arrival in San Cristóbal, Galápagos
+- Arrival in Santa Cruz, Galápagos
 - Airport transfer and hotel check-in
 - Dinner and workshop objectives
 
@@ -35,4 +35,4 @@ format: html
 
 ## [Day 5 - Departure](day5.qmd)
 
-- Departure from San Cristóbal, Galápagos
+- Departure from Santa Cruz, Galápagos
