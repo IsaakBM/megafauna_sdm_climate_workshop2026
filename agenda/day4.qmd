@@ -6,6 +6,121 @@ format: html
 ::: top-banner
 :::
 
-## Collaborative work
+::: text-center
+*Thursday, June 11, 2026*
+:::
 
-Placeholder agenda for breakout sessions, synthesis, and next steps.
+## Objective
+
+Bring together the main outcomes from the workshop, translate them into concrete outputs, and define a clear path forward for collaboration and regional impact.
+
+# Session 5: Synthesis of key insights and applied perspectives (09.00 - 10.30)
+
+::: {.callout-note appearance="simple"}
+- **Focus**: This session connects the scientific and modeling work from Day 2 with the alignment discussions from Day 3, with a focus on how these results can inform conservation and regional planning.
+
+- **Discussion topics**
+
+    - **From modeling to application**  
+      What outputs are ready to inform conservation, and what still needs development?
+    - **Relevance for regional planning**  
+      How do these results connect to current priorities in the Eastern Tropical Pacific?
+    - **Handling uncertainty**  
+      How should uncertainty be considered when using models for decision-making?
+    - **Cross-taxa insights**  
+      What common patterns or priorities emerge across species groups?
+    - **Regional coordination**  
+      How can this work support ongoing efforts *(SB5, CPPS, GIZ, etc.)*?
+
+- **Expected outcome**  
+  A shared view of how workshop results translate into applied conservation and regional priorities.
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Coffee break (10.30 - 11.00)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Session 6: Defining outputs and next steps (11.00 - 12.30)
+
+::: {.callout-note appearance="simple"}
+- **Focus**: Move from discussion to definition. Identify the key products coming out of the workshop and what is needed to deliver them.
+
+- **Outputs to define**
+
+    - **Scientific outputs**  
+      Papers, datasets, modeling workflows
+    - **Applied outputs**  
+      Maps, policy-relevant products, regional inputs
+
+- **For each output, define**
+
+    - Lead
+    - Contributors
+    - Timeline
+
+- **Timeline discussion**
+
+    - **Short-term (0–3 months)**  
+      Share results, follow-up coordination, initial analyses
+    - **Medium-term (3–6 months)**  
+      Draft papers, develop outputs, strengthen collaboration
+    - **Long-term (6–12 months)**  
+      Publications, policy engagement, new proposals
+
+- **Guiding question**  
+  What are we actually committing to after this workshop?
+
+- **Expected outcome**  
+  Clear outputs with identified leads and realistic timelines.
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Lunch break (12.30 - 14.00)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Session 7: Roadmap and coordination (14.00 - 16.00)
+
+::: {.callout-note appearance="simple"}
+- **Focus**: Define how the work continues beyond the workshop.
+
+- **Key points**
+
+    - Priority actions for the next months
+    - Coordination across teams and institutions
+    - How to maintain momentum *(working groups, follow-ups)*
+    - How outputs connect to regional and global processes
+
+- **Expected outcome**  
+  A simple, shared roadmap for the next phase of the project.
+:::
+
+------------------------------------------------------------------------
+
+# Final discussion and closing (16.00 - 16.30)
+
+::: {.callout-note appearance="simple"}
+- **Final reflections**
+
+- **Confirmation of next steps**
+
+- **Closing remarks**  
+  Isaac, Lee, CI team
+:::
+
+------------------------------------------------------------------------
+
+::: {.callout-note appearance="simple"}
+- **Evening**: Group dinner
+:::
