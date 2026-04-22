@@ -1,5 +1,5 @@
 ---
-title: "Day 4 - Applied Science and Synthesis"
+title: "Day 4 - Applied Science, Synthesis, and Next Steps"
 format: html
 ---
 
