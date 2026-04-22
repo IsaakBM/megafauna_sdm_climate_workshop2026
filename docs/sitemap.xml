@@ -1,40 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/01_home.html</loc>
-    <lastmod>2026-04-22T21:02:26.880Z</lastmod>
-  </url>
-  <url>
-    <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/logistics/01_logistics.html</loc>
-    <lastmod>2026-04-22T16:32:40.383Z</lastmod>
-  </url>
-  <url>
-    <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/agenda/day3.html</loc>
-    <lastmod>2026-04-22T16:05:50.780Z</lastmod>
-  </url>
-  <url>
-    <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/agenda/day5.html</loc>
-    <lastmod>2026-04-20T17:28:56.624Z</lastmod>
-  </url>
-  <url>
-    <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/agenda/index.html</loc>
-    <lastmod>2026-04-22T16:32:40.429Z</lastmod>
+    <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/resources/materials.html</loc>
+    <lastmod>2026-04-22T21:07:16.957Z</lastmod>
   </url>
   <url>
     <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/participants/nontechnical-group.html</loc>
     <lastmod>2026-04-22T16:16:40.546Z</lastmod>
   </url>
   <url>
-    <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/participants/technical-group.html</loc>
-    <lastmod>2026-04-22T16:16:40.501Z</lastmod>
+    <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/logistics/01_logistics.html</loc>
+    <lastmod>2026-04-22T21:02:27.071Z</lastmod>
   </url>
   <url>
-    <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/participants/01_participants.html</loc>
-    <lastmod>2026-04-21T16:45:57.187Z</lastmod>
-  </url>
-  <url>
-    <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/resources/materials.html</loc>
-    <lastmod>2026-04-22T17:47:10.980Z</lastmod>
+    <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/agenda/index.html</loc>
+    <lastmod>2026-04-22T21:02:27.026Z</lastmod>
   </url>
   <url>
     <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/agenda/day4.html</loc>
@@ -45,11 +25,31 @@
     <lastmod>2026-04-22T17:47:11.026Z</lastmod>
   </url>
   <url>
+    <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/01_home.html</loc>
+    <lastmod>2026-04-22T21:02:26.880Z</lastmod>
+  </url>
+  <url>
     <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/agenda/day1.html</loc>
-    <lastmod>2026-04-22T16:32:40.224Z</lastmod>
+    <lastmod>2026-04-22T21:02:26.978Z</lastmod>
+  </url>
+  <url>
+    <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/agenda/day3.html</loc>
+    <lastmod>2026-04-22T16:05:50.780Z</lastmod>
+  </url>
+  <url>
+    <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/agenda/day5.html</loc>
+    <lastmod>2026-04-20T17:28:56.624Z</lastmod>
   </url>
   <url>
     <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/index.html</loc>
-    <lastmod>2026-04-22T17:17:26.875Z</lastmod>
+    <lastmod>2026-04-22T21:02:26.929Z</lastmod>
+  </url>
+  <url>
+    <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/participants/01_participants.html</loc>
+    <lastmod>2026-04-21T16:45:57.187Z</lastmod>
+  </url>
+  <url>
+    <loc>https://isaakbm.github.io/megafauna_sdm_climate_workshop2026/participants/technical-group.html</loc>
+    <lastmod>2026-04-22T16:16:40.501Z</lastmod>
   </url>
 </urlset>

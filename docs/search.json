@@ -1,111 +1,24 @@
 [
   {
-    "objectID": "01_home.html#location-and-dates",
-    "href": "01_home.html#location-and-dates",
-    "title": "Marine Megafauna and Climate Modeling Workshop",
-    "section": "Location and dates",
-    "text": "Location and dates\n\nSanta Cruz Island, Galápagos\nJune 8 to June 12, 2026"
+    "objectID": "resources/materials.html#documents",
+    "href": "resources/materials.html#documents",
+    "title": "Workshop Materials",
+    "section": "📄 Documents",
+    "text": "📄 Documents\n\n📎 Workshop Agenda (PDF)\n📎 Save the Blue Five Project Summary (PDF)\n📎 Workshop Overview Presentation (PDF)"
   },
   {
-    "objectID": "01_home.html#workshop-guidelines-and-confidentiality",
-    "href": "01_home.html#workshop-guidelines-and-confidentiality",
-    "title": "Marine Megafauna and Climate Modeling Workshop",
-    "section": "Workshop guidelines and confidentiality",
-    "text": "Workshop guidelines and confidentiality\nWe aim for this workshop to be a space for open and transparent discussion. All conversations will follow the Chatham House Rule. If you choose to use social media, we ask that you remain mindful of the sensitivity of the topics discussed and be selective about what you share.\nIf you are presenting and prefer that your material is not shared on social media, please make this clear at the beginning of your presentation or in your slides.\n\n\n\n\n\n\nCautionChatham House Rule\n\n\n\n\n\n“When a meeting, or part of it, is held under the Chatham House Rule, participants are free to use the information received, but neither the identity nor the affiliation of the speaker, nor that of any other participant, may be revealed.”"
+    "objectID": "resources/materials.html#technical-resources",
+    "href": "resources/materials.html#technical-resources",
+    "title": "Workshop Materials",
+    "section": "🧰 Technical Resources",
+    "text": "🧰 Technical Resources\n\n🔗 CESM Large Ensemble ocean downscaling workflow Workflow and notes related to ocean-variable extraction, climate-model handling, and downscaling-oriented preparation relevant to the workshop’s physical modeling discussions."
   },
   {
-    "objectID": "01_home.html#acknowledgements",
-    "href": "01_home.html#acknowledgements",
-    "title": "Marine Megafauna and Climate Modeling Workshop",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nThe Moore Center for Science and Solutions of Conservation International acknowledges the support of the German Government through the IKI program, as well as the consortium partners involved in the Save the Blue Five project (CPPS, GIZ, and MarViva) for making this workshop possible."
-  },
-  {
-    "objectID": "logistics/01_logistics.html#location",
-    "href": "logistics/01_logistics.html#location",
-    "title": "Workshop logistics",
-    "section": "Location",
-    "text": "Location\nSan Cristóbal Island, Galápagos"
-  },
-  {
-    "objectID": "logistics/01_logistics.html#dates",
-    "href": "logistics/01_logistics.html#dates",
-    "title": "Workshop logistics",
-    "section": "Dates",
-    "text": "Dates\nJune 8 to June 12, 2026"
-  },
-  {
-    "objectID": "logistics/01_logistics.html#venue",
-    "href": "logistics/01_logistics.html#venue",
-    "title": "Workshop logistics",
-    "section": "Venue",
-    "text": "Venue\nThe workshop will be hosted at Universidad San Francisco de Quito (USFQ) - San Cristóbal Campus.\nThe main working space is currently planned to be Classroom 2, which includes a screen, air conditioning, student desks, and a whiteboard. Additional venue instructions and access details will be shared closer to the workshop date."
-  },
-  {
-    "objectID": "logistics/01_logistics.html#travel-note",
-    "href": "logistics/01_logistics.html#travel-note",
-    "title": "Workshop logistics",
-    "section": "Travel note",
-    "text": "Travel note\nParticipants may need to stay overnight on mainland Ecuador on June 7, 2026 before flying to San Cristóbal on June 8, 2026, depending on their travel itinerary.\nAdditional travel instructions, hotel details, and local transportation information will be shared by email."
-  },
-  {
-    "objectID": "agenda/day3.html#objective",
-    "href": "agenda/day3.html#objective",
-    "title": "Day 3 - From Models to Decisions: Bridging Science and Regional Needs",
-    "section": "Objective",
-    "text": "Objective\nTranslate scientific and modeling progress into concrete next steps, aligning technical development with regional priorities and decision-making needs.",
-    "crumbs": [
-      "🏠 Home",
-      "Daily Agenda",
-      "Day 3 - From Models to Decisions: Bridging Science and Regional Needs"
-    ]
-  },
-  {
-    "objectID": "agenda/day5.html#departure",
-    "href": "agenda/day5.html#departure",
-    "title": "Day 5 - Departure",
-    "section": "Departure",
-    "text": "Departure\nPlaceholder agenda for wrap-up and departures.",
-    "crumbs": [
-      "🏠 Home",
-      "Daily Agenda",
-      "Day 5 - Departure"
-    ]
-  },
-  {
-    "objectID": "agenda/index.html#day-1---arrival",
-    "href": "agenda/index.html#day-1---arrival",
-    "title": "General Agenda",
-    "section": "Day 1 - Arrival",
-    "text": "Day 1 - Arrival\n\nArrival in San Cristóbal, Galápagos\nAirport transfer and hotel check-in\nDinner and workshop objectives"
-  },
-  {
-    "objectID": "agenda/index.html#day-2---scientific-progress-and-modeling-integration",
-    "href": "agenda/index.html#day-2---scientific-progress-and-modeling-integration",
-    "title": "General Agenda",
-    "section": "Day 2 - Scientific Progress and Modeling Integration",
-    "text": "Day 2 - Scientific Progress and Modeling Integration\n\nSession 1: Welcome and framing of progress since 2025\nSession 2: Scientific and modeling advances since 2025\nSession 3: Synthesis across taxa and systems\nSession 4: Strategic discussion and next steps"
-  },
-  {
-    "objectID": "agenda/index.html#day-3---from-models-to-decisions-bridging-science-and-regional-needs",
-    "href": "agenda/index.html#day-3---from-models-to-decisions-bridging-science-and-regional-needs",
-    "title": "General Agenda",
-    "section": "Day 3 - From Models to Decisions: Bridging Science and Regional Needs",
-    "text": "Day 3 - From Models to Decisions: Bridging Science and Regional Needs\n\nSession 3: Working Groups - Technical Development and Regional Priorities\nSession 3 (cont.): Plenary Synthesis - Aligning Technical Capacity and Regional Needs\nSession 4: Discussion and agreement on next steps\nAfternoon social activity and evening group dinner"
-  },
-  {
-    "objectID": "agenda/index.html#day-4---applied-science-synthesis-and-next-steps",
-    "href": "agenda/index.html#day-4---applied-science-synthesis-and-next-steps",
-    "title": "General Agenda",
-    "section": "Day 4 - Applied Science, Synthesis, and Next Steps",
-    "text": "Day 4 - Applied Science, Synthesis, and Next Steps\n\nSession 5: Synthesis of key insights and applied perspectives\nSession 6: Defining outputs and next steps\nSession 7: Roadmap and coordination\nFinal discussion, closing, and group dinner"
-  },
-  {
-    "objectID": "agenda/index.html#day-5---departure",
-    "href": "agenda/index.html#day-5---departure",
-    "title": "General Agenda",
-    "section": "Day 5 - Departure",
-    "text": "Day 5 - Departure\n\nDeparture from San Cristóbal, Galápagos"
+    "objectID": "resources/materials.html#presentations",
+    "href": "resources/materials.html#presentations",
+    "title": "Workshop Materials",
+    "section": "🎤 Presentations",
+    "text": "🎤 Presentations\n\n🎞 Isaac Brito-Morales - Project progress and integration overview\n🎞 Lee Hannah / Sarayu Ramnath - Climate change vulnerability assessment\n🎞 Mario Pardo / Ariadna Juarez - Dolphins\n🎞 Yulia Egorova - Mesopelagic systems\n🎞 Boris DeWitt - Physical modeling and regional context\n🎞 Shaleyla Kelez - Sea turtles\n🎞 Gabriel Vianna - Sharks and rays\n🎞 Frank Garita - Marine mammals\n\n\n\n📥 Looking for something?\nParticipants may continue to share presentations and documents for inclusion in this section. To add more files, please contact Isaac Brito-Morales."
   },
   {
     "objectID": "participants/nontechnical-group.html",
@@ -144,6 +57,171 @@
     ]
   },
   {
+    "objectID": "logistics/01_logistics.html#location",
+    "href": "logistics/01_logistics.html#location",
+    "title": "Workshop logistics",
+    "section": "Location",
+    "text": "Location\nSanta Cruz Island, Galápagos"
+  },
+  {
+    "objectID": "logistics/01_logistics.html#dates",
+    "href": "logistics/01_logistics.html#dates",
+    "title": "Workshop logistics",
+    "section": "Dates",
+    "text": "Dates\nJune 8 to June 12, 2026"
+  },
+  {
+    "objectID": "logistics/01_logistics.html#venue",
+    "href": "logistics/01_logistics.html#venue",
+    "title": "Workshop logistics",
+    "section": "Venue",
+    "text": "Venue\nThe workshop will be hosted on Santa Cruz Island, Galápagos.\nThe main working space and venue details are still being finalized. Additional venue instructions and access details will be shared closer to the workshop date."
+  },
+  {
+    "objectID": "logistics/01_logistics.html#travel-note",
+    "href": "logistics/01_logistics.html#travel-note",
+    "title": "Workshop logistics",
+    "section": "Travel note",
+    "text": "Travel note\nParticipants may need to stay overnight on mainland Ecuador on June 7, 2026 before flying to Galápagos on June 8, 2026, depending on their travel itinerary.\nAdditional travel instructions, hotel details, and local transportation information will be shared by email."
+  },
+  {
+    "objectID": "agenda/index.html#day-1---arrival",
+    "href": "agenda/index.html#day-1---arrival",
+    "title": "General Agenda",
+    "section": "Day 1 - Arrival",
+    "text": "Day 1 - Arrival\n\nArrival in Santa Cruz, Galápagos\nAirport transfer and hotel check-in\nDinner and workshop objectives"
+  },
+  {
+    "objectID": "agenda/index.html#day-2---scientific-progress-and-modeling-integration",
+    "href": "agenda/index.html#day-2---scientific-progress-and-modeling-integration",
+    "title": "General Agenda",
+    "section": "Day 2 - Scientific Progress and Modeling Integration",
+    "text": "Day 2 - Scientific Progress and Modeling Integration\n\nSession 1: Welcome and framing of progress since 2025\nSession 2: Scientific and modeling advances since 2025\nSession 3: Synthesis across taxa and systems\nSession 4: Strategic discussion and next steps"
+  },
+  {
+    "objectID": "agenda/index.html#day-3---from-models-to-decisions-bridging-science-and-regional-needs",
+    "href": "agenda/index.html#day-3---from-models-to-decisions-bridging-science-and-regional-needs",
+    "title": "General Agenda",
+    "section": "Day 3 - From Models to Decisions: Bridging Science and Regional Needs",
+    "text": "Day 3 - From Models to Decisions: Bridging Science and Regional Needs\n\nSession 3: Working Groups - Technical Development and Regional Priorities\nSession 3 (cont.): Plenary Synthesis - Aligning Technical Capacity and Regional Needs\nSession 4: Discussion and agreement on next steps\nAfternoon social activity and evening group dinner"
+  },
+  {
+    "objectID": "agenda/index.html#day-4---applied-science-synthesis-and-next-steps",
+    "href": "agenda/index.html#day-4---applied-science-synthesis-and-next-steps",
+    "title": "General Agenda",
+    "section": "Day 4 - Applied Science, Synthesis, and Next Steps",
+    "text": "Day 4 - Applied Science, Synthesis, and Next Steps\n\nSession 5: Synthesis of key insights and applied perspectives\nSession 6: Defining outputs and next steps\nSession 7: Roadmap and coordination\nFinal discussion, closing, and group dinner"
+  },
+  {
+    "objectID": "agenda/index.html#day-5---departure",
+    "href": "agenda/index.html#day-5---departure",
+    "title": "General Agenda",
+    "section": "Day 5 - Departure",
+    "text": "Day 5 - Departure\n\nDeparture from Santa Cruz, Galápagos"
+  },
+  {
+    "objectID": "agenda/day4.html#objective",
+    "href": "agenda/day4.html#objective",
+    "title": "Day 4 - Applied Science, Synthesis, and Next Steps",
+    "section": "Objective",
+    "text": "Objective\nBring together the main outcomes from the workshop, translate them into concrete outputs, and define a clear path forward for collaboration and regional impact.",
+    "crumbs": [
+      "🏠 Home",
+      "Daily Agenda",
+      "Day 4 - Applied Science, Synthesis, and Next Steps"
+    ]
+  },
+  {
+    "objectID": "agenda/day2.html#objective",
+    "href": "agenda/day2.html#objective",
+    "title": "Day 2 - Scientific Progress and Modeling Integration",
+    "section": "Objective",
+    "text": "Objective\nConsolidate scientific and modeling progress since the 2025 workshop, assess readiness for climate projections, and identify key gaps to advance the project.",
+    "crumbs": [
+      "🏠 Home",
+      "Daily Agenda",
+      "Day 2 - Scientific Progress and Modeling Integration"
+    ]
+  },
+  {
+    "objectID": "01_home.html#workshop-overview",
+    "href": "01_home.html#workshop-overview",
+    "title": "Marine Megafauna and Climate Modeling Workshop",
+    "section": "Workshop overview",
+    "text": "Workshop overview\nThe objective of this workshop is to bring together regional experts and international collaborators to advance the implementation of the Save the Blue Five project, an initiative funded by IKI focused on the conservation of marine megafauna in the Eastern Tropical Pacific. The project focuses on whales, dolphins, sharks, rays, and sea turtles, ecologically important species facing increasing threats from both human pressures and climate change.\nThe workshop is structured as a progressive process that integrates scientific advances, model development, and practical applications. Throughout the sessions, participants will review the current state of knowledge, including biological datasets, species distribution models, and climate projections, as well as recent developments in oceanographic modeling and downscaling approaches.\nBuilding on this foundation, the workshop aims to align technical capacity with regional needs, identifying which results are both feasible and useful for decision-making. This includes assessing climate vulnerability, identifying priority areas for conservation, and exploring approaches that account for dynamic ocean processes and the highly migratory nature of these species.\nFinally, the workshop places a strong emphasis on defining concrete outputs and a clear roadmap for the next phase of the project. The goal is to strengthen collaboration, define research priorities, and develop scientific and applied products that can directly support marine spatial planning, regional coordination, and long-term biodiversity conservation in the Eastern Tropical Pacific."
+  },
+  {
+    "objectID": "01_home.html#location-and-dates",
+    "href": "01_home.html#location-and-dates",
+    "title": "Marine Megafauna and Climate Modeling Workshop",
+    "section": "Location and dates",
+    "text": "Location and dates\n\nSanta Cruz Island, Galápagos\nJune 8 to June 12, 2026"
+  },
+  {
+    "objectID": "01_home.html#workshop-guidelines-and-confidentiality",
+    "href": "01_home.html#workshop-guidelines-and-confidentiality",
+    "title": "Marine Megafauna and Climate Modeling Workshop",
+    "section": "Workshop guidelines and confidentiality",
+    "text": "Workshop guidelines and confidentiality\nWe aim for this workshop to be a space for open and transparent discussion. All conversations will follow the Chatham House Rule. If you choose to use social media, we ask that you remain mindful of the sensitivity of the topics discussed and be selective about what you share.\nIf you are presenting and prefer that your material is not shared on social media, please make this clear at the beginning of your presentation or in your slides.\n\n\n\n\n\n\nCautionChatham House Rule\n\n\n\n\n\n“When a meeting, or part of it, is held under the Chatham House Rule, participants are free to use the information received, but neither the identity nor the affiliation of the speaker, nor that of any other participant, may be revealed.”"
+  },
+  {
+    "objectID": "01_home.html#acknowledgements",
+    "href": "01_home.html#acknowledgements",
+    "title": "Marine Megafauna and Climate Modeling Workshop",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThe Moore Center for Science and Solutions of Conservation International acknowledges the support of the German Government through the IKI program, as well as the consortium partners involved in the Save the Blue Five project (CPPS, GIZ, and MarViva) for making this workshop possible."
+  },
+  {
+    "objectID": "agenda/day1.html",
+    "href": "agenda/day1.html",
+    "title": "Day 1 - Arrival",
+    "section": "",
+    "text": "Santa Cruz, Galápagos, Ecuador\n\nJune 8, 2026\n\n\n\n\n\n\n\n\n\n5:00 - 5:30 pm\nTransfer from the airport to Santa Cruz Island\nTransportation coordinated by Isaac and Dylan\n6:00 pm\nHotel check-in\nDepending on your room assignment, please check your email for hotel instructions\nAddress: TBD\n7:30 - 9:00 pm\nDinner and workshop objectives\nLocation: TBD",
+    "crumbs": [
+      "🏠 Home",
+      "Daily Agenda",
+      "Day 1 - Arrival"
+    ]
+  },
+  {
+    "objectID": "agenda/day3.html#objective",
+    "href": "agenda/day3.html#objective",
+    "title": "Day 3 - From Models to Decisions: Bridging Science and Regional Needs",
+    "section": "Objective",
+    "text": "Objective\nTranslate scientific and modeling progress into concrete next steps, aligning technical development with regional priorities and decision-making needs.",
+    "crumbs": [
+      "🏠 Home",
+      "Daily Agenda",
+      "Day 3 - From Models to Decisions: Bridging Science and Regional Needs"
+    ]
+  },
+  {
+    "objectID": "agenda/day5.html#departure",
+    "href": "agenda/day5.html#departure",
+    "title": "Day 5 - Departure",
+    "section": "Departure",
+    "text": "Departure\nPlaceholder agenda for wrap-up and departures.",
+    "crumbs": [
+      "🏠 Home",
+      "Daily Agenda",
+      "Day 5 - Departure"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marine Megafauna and Climate Modeling Workshop",
+    "section": "",
+    "text": "Marine Megafauna and Climate Modeling Workshop\n\nSave the Blue Five | Santa Cruz, Galápagos | June 8-12, 2026"
+  },
+  {
+    "objectID": "participants/01_participants.html",
+    "href": "participants/01_participants.html",
+    "title": "Participants",
+    "section": "",
+    "text": "Participants\nBelow is the current working participant list for the workshop.\n\n\n\n\n\n\n\nName\nInstitution\n\n\n\n\nCésar Peñaherrera\nMigraMar\n\n\nMario Pardo\nCICESE\n\n\nAriadna Juarez\nCICESE\n\n\nShaleyla Kelez\nEcOceánica\n\n\nBoris DeWitt\nCEAZA; IRD France\n\n\nYulia Egorova\nUniversity of Miami\n\n\nIlena Zanella\nMisión Tiburón\n\n\nLuis Bedriñana\nUniversidad Austral de Chile\n\n\nFrank Garita\nPanacetacea\n\n\nGabriel Vianna\nCharles Darwin Foundation\n\n\nIsaac Brito-Morales\nMCSS\n\n\nLee Hannah\nMCSS\n\n\nChristian/Marco\nCI Mesoamerica\n\n\nMariana Vera\nCI Ecuador\n\n\nFausto Arias\nCI Costa Rica\n\n\nDamian Pardo\nCI Colombia\n\n\nDylan Glave\nMCSS\n\n\nTito Navia\nGIZ\n\n\nLeonardo Marriaga\nCPPS"
+  },
+  {
     "objectID": "participants/technical-group.html",
     "href": "participants/technical-group.html",
     "title": "Technical",
@@ -178,104 +256,5 @@
       "Working Groups",
       "Technical"
     ]
-  },
-  {
-    "objectID": "participants/01_participants.html",
-    "href": "participants/01_participants.html",
-    "title": "Participants",
-    "section": "",
-    "text": "Participants\nBelow is the current working participant list for the workshop.\n\n\n\n\n\n\n\nName\nInstitution\n\n\n\n\nCésar Peñaherrera\nMigraMar\n\n\nMario Pardo\nCICESE\n\n\nAriadna Juarez\nCICESE\n\n\nShaleyla Kelez\nEcOceánica\n\n\nBoris DeWitt\nCEAZA; IRD France\n\n\nYulia Egorova\nUniversity of Miami\n\n\nIlena Zanella\nMisión Tiburón\n\n\nLuis Bedriñana\nUniversidad Austral de Chile\n\n\nFrank Garita\nPanacetacea\n\n\nGabriel Vianna\nCharles Darwin Foundation\n\n\nIsaac Brito-Morales\nMCSS\n\n\nLee Hannah\nMCSS\n\n\nChristian/Marco\nCI Mesoamerica\n\n\nMariana Vera\nCI Ecuador\n\n\nFausto Arias\nCI Costa Rica\n\n\nDamian Pardo\nCI Colombia\n\n\nDylan Glave\nMCSS\n\n\nTito Navia\nGIZ\n\n\nLeonardo Marriaga\nCPPS"
-  },
-  {
-    "objectID": "resources/materials.html",
-    "href": "resources/materials.html",
-    "title": "Workshop Materials",
-    "section": "",
-    "text": "This section will host workshop documents, presentations, and shared reference materials."
-  },
-  {
-    "objectID": "agenda/day4.html#objective",
-    "href": "agenda/day4.html#objective",
-    "title": "Day 4 - Applied Science, Synthesis, and Next Steps",
-    "section": "Objective",
-    "text": "Objective\nBring together the main outcomes from the workshop, translate them into concrete outputs, and define a clear path forward for collaboration and regional impact.",
-    "crumbs": [
-      "🏠 Home",
-      "Daily Agenda",
-      "Day 4 - Applied Science, Synthesis, and Next Steps"
-    ]
-  },
-  {
-    "objectID": "agenda/day2.html#objective",
-    "href": "agenda/day2.html#objective",
-    "title": "Day 2 - Scientific Progress and Modeling Integration",
-    "section": "Objective",
-    "text": "Objective\nConsolidate scientific and modeling progress since the 2025 workshop, assess readiness for climate projections, and identify key gaps to advance the project.",
-    "crumbs": [
-      "🏠 Home",
-      "Daily Agenda",
-      "Day 2 - Scientific Progress and Modeling Integration"
-    ]
-  },
-  {
-    "objectID": "agenda/day1.html",
-    "href": "agenda/day1.html",
-    "title": "Day 1 - Arrival",
-    "section": "",
-    "text": "San Cristóbal, Galápagos, Ecuador\n\nJune 8, 2026\n\n\n\n\n\n\n\n\n\n5:00 - 5:30 pm\nTransfer from San Cristóbal Airport (SCY) to the hotel\nTransportation coordinated by Isaac and Dylan\n6:00 pm\nHotel check-in\nDepending on your room assignment, please check your email for hotel instructions\nAddress: TBD\n7:30 - 9:00 pm\nDinner and workshop objectives\nLocation: TBD",
-    "crumbs": [
-      "🏠 Home",
-      "Daily Agenda",
-      "Day 1 - Arrival"
-    ]
-  },
-  {
-    "objectID": "resources/materials.html#documents",
-    "href": "resources/materials.html#documents",
-    "title": "Workshop Materials",
-    "section": "📄 Documents",
-    "text": "📄 Documents\n\n📎 Workshop Agenda (PDF)\n📎 Save the Blue Five Project Summary (PDF)\n📎 Workshop Overview Presentation (PDF)"
-  },
-  {
-    "objectID": "resources/materials.html#presentations",
-    "href": "resources/materials.html#presentations",
-    "title": "Workshop Materials",
-    "section": "🎤 Presentations",
-    "text": "🎤 Presentations\n\n🎞 Isaac Brito-Morales - Project progress and integration overview\n🎞 Lee Hannah / Sarayu Ramnath - Climate change vulnerability assessment\n🎞 Mario Pardo / Ariadna Juarez - Dolphins\n🎞 Yulia Egorova - Mesopelagic systems\n🎞 Boris DeWitt - Physical modeling and regional context\n🎞 Shaleyla Kelez - Sea turtles\n🎞 Gabriel Vianna - Sharks and rays\n🎞 Frank Garita - Marine mammals\n\n\n\n📥 Looking for something?\nParticipants may continue to share presentations and documents for inclusion in this section. To add more files, please contact Isaac Brito-Morales."
-  },
-  {
-    "objectID": "01_home.html#save-the-blue-five-san-cristóbal-galápagos-june-8-12-2026",
-    "href": "01_home.html#save-the-blue-five-san-cristóbal-galápagos-june-8-12-2026",
-    "title": "Marine Megafauna and Climate Modeling Workshop",
-    "section": "Save the Blue Five | San Cristóbal, Galápagos | June 8-12, 2026",
-    "text": "Save the Blue Five | San Cristóbal, Galápagos | June 8-12, 2026"
-  },
-  {
-    "objectID": "01_home.html#workshop-overview",
-    "href": "01_home.html#workshop-overview",
-    "title": "Marine Megafauna and Climate Modeling Workshop",
-    "section": "Workshop overview",
-    "text": "Workshop overview\nThe objective of this workshop is to bring together regional experts and international collaborators to advance the implementation of the Save the Blue Five project, an initiative funded by IKI focused on the conservation of marine megafauna in the Eastern Tropical Pacific. The project focuses on whales, dolphins, sharks, rays, and sea turtles, ecologically important species facing increasing threats from both human pressures and climate change.\nThe workshop is structured as a progressive process that integrates scientific advances, model development, and practical applications. Throughout the sessions, participants will review the current state of knowledge, including biological datasets, species distribution models, and climate projections, as well as recent developments in oceanographic modeling and downscaling approaches.\nBuilding on this foundation, the workshop aims to align technical capacity with regional needs, identifying which results are both feasible and useful for decision-making. This includes assessing climate vulnerability, identifying priority areas for conservation, and exploring approaches that account for dynamic ocean processes and the highly migratory nature of these species.\nFinally, the workshop places a strong emphasis on defining concrete outputs and a clear roadmap for the next phase of the project. The goal is to strengthen collaboration, define research priorities, and develop scientific and applied products that can directly support marine spatial planning, regional coordination, and long-term biodiversity conservation in the Eastern Tropical Pacific."
-  },
-  {
-    "objectID": "index.html#save-the-blue-five",
-    "href": "index.html#save-the-blue-five",
-    "title": "Marine Megafauna and Climate Modeling Workshop",
-    "section": "Save the Blue Five",
-    "text": "Save the Blue Five\n\nSan Cristóbal, Galápagos | June 8-12, 2026"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Marine Megafauna and Climate Modeling Workshop",
-    "section": "",
-    "text": "Marine Megafauna and Climate Modeling Workshop\n\nSave the Blue Five | San Cristóbal, Galápagos | June 8-12, 2026"
-  },
-  {
-    "objectID": "resources/materials.html#technical-resources",
-    "href": "resources/materials.html#technical-resources",
-    "title": "Workshop Materials",
-    "section": "🧰 Technical Resources",
-    "text": "🧰 Technical Resources\n\n🔗 CESM Large Ensemble ocean downscaling workflow Workflow and notes related to ocean-variable extraction, climate-model handling, and downscaling-oriented preparation relevant to the workshop’s physical modeling discussions."
   }
 ]

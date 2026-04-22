@@ -1,0 +1,169 @@
+---
+title: "Workshop Agenda"
+format:
+  pdf:
+    pdf-engine: typst
+    toc: false
+    number-sections: false
+---
+
+Save the Blue Five | Santa Cruz, Galápagos | June 8-12, 2026
+
+# Day 1 - Arrival
+
+Santa Cruz, Galápagos, Ecuador  
+June 8, 2026
+
+- 5:00 - 5:30 pm: Transfer from the airport to Santa Cruz Island. Transportation coordinated by Isaac and Dylan.
+- 6:00 pm: Hotel check-in. Depending on your room assignment, please check your email for hotel instructions. Address: TBD.
+- 7:30 - 9:00 pm: Dinner and workshop objectives. Location: TBD.
+
+# Day 2 - Scientific Progress and Modeling Integration
+
+Tuesday, June 9, 2026
+
+## Objective
+
+Consolidate scientific and modeling progress since the 2025 workshop, assess readiness for climate projections, and identify key gaps to advance the project.
+
+## Session 1: Welcome and framing of progress since 2025
+
+09.00 - 10.30
+
+- Opening remarks. Isaac Brito-Morales and Lee Hannah. Brief welcome and overview of the workshop goals and expected outcomes.
+- Participant introductions. Short introductions to align expertise across participants and ongoing contributions to the project.
+- Overview of progress since the 2025 workshop.
+- Key achievements. Summary of major milestones reached across data, modeling, and coordination efforts.
+- Current status of the project. Where we stand today across workstreams and collaborations.
+- Goals for Day 2. Framing the focus on scientific integration and modeling readiness.
+
+Coffee break: 10.30 - 11.00
+
+## Session 2: Scientific and modeling advances since 2025
+
+11.00 - 13.00
+
+This session presents key advances in data, modeling, and climate assessments across the project.
+
+- Climate change vulnerability assessment. Lee Hannah, presented by Sarayu Ramnath. Overview of the assessment framework, datasets, and initial results across taxa.
+- Status of biological data for species distribution modeling (SDMs). Isaac Brito-Morales and Sarayu Ramnath. Current state of compiled datasets, data gaps, and readiness for modeling.
+- Physical modeling and downscaling framework. Isaac Brito-Morales, including outcomes from Toulouse 2025. Summary of oceanographic datasets, downscaling approaches, and integration with biological data.
+- Species modeling updates. Dolphins: Mario Pardo and Ariadna Juarez. Mesopelagic systems: Yulia Egorova. First generation of SDMs: Isaac Brito-Morales.
+
+Lunch break: 13.00 - 14.30
+
+## Session 3: Synthesis across taxa and systems
+
+14.30 - 16.00
+
+This session integrates insights across species, models, and environmental drivers to build a regional perspective.
+
+- Cross-taxa patterns and emerging insights.
+- Key environmental drivers and habitat use.
+- Integration of biological and physical processes.
+- Discussion: What are we learning at the regional scale? Where are the main knowledge gaps? What limits our current ability to move toward projections?
+
+Coffee break: 16.00 - 16.30
+
+## Session 4: Strategic discussion and next steps
+
+16.30 - 17.00
+
+- Priority gaps to address.
+- Short-term actions and next steps.
+- Alignment across teams and workstreams.
+- Preparation for upcoming project milestones.
+
+# Day 3 - From Models to Decisions: Bridging Science and Regional Needs
+
+Wednesday, June 10, 2026
+
+## Objective
+
+Translate scientific and modeling progress into concrete next steps, aligning technical development with regional priorities and decision-making needs.
+
+## Session 3: Working Groups - Technical Development and Regional Priorities
+
+09.00 - 12.30
+
+This session is structured around parallel working groups, bringing together participants to focus on complementary aspects of the project and define priorities for the next phase.
+
+- 09:00 - 09:30: Introduction and framing of the working groups. Overview of objectives for the session, explanation of group structure and expected outcomes, and key questions to guide discussions.
+- 09:30 - 10:45: Parallel working groups. Technical group: modeling development, climate scenarios, data integration, and defining what is realistically achievable in the next phase of the project. Stakeholder Engagement and Regional Priorities group: regional needs, policy relevance, expected outputs, and how results can support decision-making across institutions.
+
+Coffee break: 10.45 - 11.00
+
+## Session 3 (cont.): Plenary Synthesis - Aligning Technical Capacity and Regional Needs
+
+11.00 - 12.00
+
+- Technical group: What we can do. Feasible modeling approaches, selected climate scenarios, data readiness, and key constraints.
+- Stakeholder Engagement and Regional Priorities group: What we need. Priority outputs, regional needs, and expectations from a policy and implementation perspective.
+- Discussion: Where do technical capabilities meet stakeholder needs? Where are the main gaps or mismatches? What adjustments are needed to move forward effectively?
+
+## Session 4: Discussion and agreement on next steps
+
+12.00 - 12.30
+
+- Identification of priority actions.
+- Alignment across teams and workstreams.
+- Definition of short-term deliverables.
+
+Lunch break: 12.30 - 14.30
+
+## Afternoon social activity and networking
+
+- 14:30 - 17:30: Outdoor activity, snorkeling or local site visit. Designed to encourage informal exchange, strengthen connections among participants, and experience the local environment.
+- 19:00 - 21:00: Group dinner, location to be confirmed.
+
+# Day 4 - Applied Science, Synthesis, and Next Steps
+
+Thursday, June 11, 2026
+
+## Objective
+
+Bring together the main outcomes from the workshop, translate them into concrete outputs, and define a clear path forward for collaboration and regional impact.
+
+## Session 5: Synthesis of key insights and applied perspectives
+
+09.00 - 10.30
+
+- Focus: connect the scientific and modeling work from Day 2 with the alignment discussions from Day 3, with a focus on how these results can inform conservation and regional planning.
+- Discussion topics: from modeling to application; relevance for regional planning; handling uncertainty; cross-taxa insights; regional coordination.
+- Expected outcome: a shared view of how workshop results translate into applied conservation and regional priorities.
+
+Coffee break: 10.30 - 11.00
+
+## Session 6: Defining outputs and next steps
+
+11.00 - 12.30
+
+- Focus: move from discussion to definition. Identify the key products coming out of the workshop and what is needed to deliver them.
+- Outputs to define: scientific outputs such as papers, datasets, and modeling workflows; applied outputs such as maps, policy-relevant products, and regional inputs.
+- For each output, define lead, contributors, and timeline.
+- Timeline discussion: short-term 0–3 months, medium-term 3–6 months, and long-term 6–12 months.
+- Guiding question: What are we actually committing to after this workshop?
+- Expected outcome: clear outputs with identified leads and realistic timelines.
+
+Lunch break: 12.30 - 14.00
+
+## Session 7: Roadmap and coordination
+
+14.00 - 16.00
+
+- Focus: define how the work continues beyond the workshop.
+- Key points: priority actions for the next months, coordination across teams and institutions, how to maintain momentum, and how outputs connect to regional and global processes.
+- Expected outcome: a simple, shared roadmap for the next phase of the project.
+
+## Final discussion and closing
+
+16.00 - 16.30
+
+- Final reflections.
+- Confirmation of next steps.
+- Closing remarks by Isaac, Lee, and the CI team.
+- Evening: group dinner.
+
+# Day 5 - Departure
+
+Departure and travel arrangements.

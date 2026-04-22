@@ -16,7 +16,7 @@ This section contains key documents, presentations, and shared reference materia
 
 ## 📄 Documents
 
-- 📎 [Workshop Agenda (PDF)](https://example.com)
+- 📎 [Workshop Agenda (PDF)](workshop-agenda.pdf)
 - 📎 [Save the Blue Five Project Summary (PDF)](https://example.com)
 - 📎 [Workshop Overview Presentation (PDF)](https://example.com)
 

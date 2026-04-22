@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "!resources/workshop-agenda.qmd"
 
 website:
   title: "Marine Megafauna and Climate Modeling Workshop – SB5"
