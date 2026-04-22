@@ -17,28 +17,28 @@ This section contains key documents, presentations, and shared reference materia
 ## 📄 Documents
 
 - 📎 [Workshop Agenda (PDF)](workshop-agenda.pdf)
-- 📎 [Save the Blue Five Project Summary (PDF)](https://example.com)
-- 📎 [Workshop Overview Presentation (PDF)](https://example.com)
+- 📎 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Save the Blue Five Project Summary (PDF)</a>
+- 📎 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Workshop Overview Presentation (PDF)</a>
 
 ------------------------------------------------------------------------
 
 ## 🧰 Technical Resources
 
-- 🔗 [CESM Large Ensemble ocean downscaling workflow](https://github.com/IsaakBM/cesmle-ocn-fetch)
+- 🔗 <a href="https://github.com/IsaakBM/cesmle-ocn-fetch" target="_blank" rel="noopener noreferrer">CESM Large Ensemble ocean downscaling workflow</a>
   Workflow and notes related to ocean-variable extraction, climate-model handling, and downscaling-oriented preparation relevant to the workshop's physical modeling discussions.
 
 ------------------------------------------------------------------------
 
 ## 🎤 Presentations
 
-- 🎞 [Isaac Brito-Morales - Project progress and integration overview](https://example.com)
-- 🎞 [Lee Hannah / Sarayu Ramnath - Climate change vulnerability assessment](https://example.com)
-- 🎞 [Mario Pardo / Ariadna Juarez - Dolphins](https://example.com)
-- 🎞 [Yulia Egorova - Mesopelagic systems](https://example.com)
-- 🎞 [Boris DeWitt - Physical modeling and regional context](https://example.com)
-- 🎞 [Shaleyla Kelez - Sea turtles](https://example.com)
-- 🎞 [Gabriel Vianna - Sharks and rays](https://example.com)
-- 🎞 [Frank Garita - Marine mammals](https://example.com)
+- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales - Project progress and integration overview</a>
+- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Lee Hannah / Sarayu Ramnath - Climate change vulnerability assessment</a>
+- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Mario Pardo / Ariadna Juarez - Dolphins</a>
+- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Yulia Egorova - Mesopelagic systems</a>
+- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Boris DeWitt - Physical modeling and regional context</a>
+- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Shaleyla Kelez - Sea turtles</a>
+- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Gabriel Vianna - Sharks and rays</a>
+- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Frank Garita - Marine mammals</a>
 
 ------------------------------------------------------------------------
 

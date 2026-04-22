@@ -259,29 +259,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="documents">📄 Documents</h2>
 <ul>
 <li>📎 <a href="workshop-agenda.pdf">Workshop Agenda (PDF)</a></li>
-<li>📎 <a href="https://example.com">Save the Blue Five Project Summary (PDF)</a></li>
-<li>📎 <a href="https://example.com">Workshop Overview Presentation (PDF)</a></li>
+<li>📎 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Save the Blue Five Project Summary (PDF)</a></li>
+<li>📎 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Workshop Overview Presentation (PDF)</a></li>
 </ul>
 <hr>
 </section>
 <section id="technical-resources" class="level2">
 <h2 class="anchored" data-anchor-id="technical-resources">🧰 Technical Resources</h2>
 <ul>
-<li>🔗 <a href="https://github.com/IsaakBM/cesmle-ocn-fetch">CESM Large Ensemble ocean downscaling workflow</a> Workflow and notes related to ocean-variable extraction, climate-model handling, and downscaling-oriented preparation relevant to the workshop’s physical modeling discussions.</li>
+<li>🔗 <a href="https://github.com/IsaakBM/cesmle-ocn-fetch" target="_blank" rel="noopener noreferrer">CESM Large Ensemble ocean downscaling workflow</a> Workflow and notes related to ocean-variable extraction, climate-model handling, and downscaling-oriented preparation relevant to the workshop’s physical modeling discussions.</li>
 </ul>
 <hr>
 </section>
 <section id="presentations" class="level2">
 <h2 class="anchored" data-anchor-id="presentations">🎤 Presentations</h2>
 <ul>
-<li>🎞 <a href="https://example.com">Isaac Brito-Morales - Project progress and integration overview</a></li>
-<li>🎞 <a href="https://example.com">Lee Hannah / Sarayu Ramnath - Climate change vulnerability assessment</a></li>
-<li>🎞 <a href="https://example.com">Mario Pardo / Ariadna Juarez - Dolphins</a></li>
-<li>🎞 <a href="https://example.com">Yulia Egorova - Mesopelagic systems</a></li>
-<li>🎞 <a href="https://example.com">Boris DeWitt - Physical modeling and regional context</a></li>
-<li>🎞 <a href="https://example.com">Shaleyla Kelez - Sea turtles</a></li>
-<li>🎞 <a href="https://example.com">Gabriel Vianna - Sharks and rays</a></li>
-<li>🎞 <a href="https://example.com">Frank Garita - Marine mammals</a></li>
+<li>🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales - Project progress and integration overview</a></li>
+<li>🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Lee Hannah / Sarayu Ramnath - Climate change vulnerability assessment</a></li>
+<li>🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Mario Pardo / Ariadna Juarez - Dolphins</a></li>
+<li>🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Yulia Egorova - Mesopelagic systems</a></li>
+<li>🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Boris DeWitt - Physical modeling and regional context</a></li>
+<li>🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Shaleyla Kelez - Sea turtles</a></li>
+<li>🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Gabriel Vianna - Sharks and rays</a></li>
+<li>🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Frank Garita - Marine mammals</a></li>
 </ul>
 <hr>
 <section id="looking-for-something" class="level3">
@@ -293,22 +293,6 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
-document.addEventListener("DOMContentLoaded", () =&gt; {
-  const links = document.querySelectorAll("a[href]");
-
-  links.forEach((link) =&gt; {
-    const href = link.getAttribute("href");
-    if (!href) return;
-
-    const isExternal =
-      href.startsWith("http://") || href.startsWith("https://");
-
-    if (isExternal) {
-      link.setAttribute("target", "_blank");
-      link.setAttribute("rel", "noopener noreferrer");
-    }
-  });
-});
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

@@ -392,22 +392,6 @@ Isaac, Lee, CI team</p></li>
 </section>
 
 </main> <!-- /main -->
-document.addEventListener("DOMContentLoaded", () =&gt; {
-  const links = document.querySelectorAll("a[href]");
-
-  links.forEach((link) =&gt; {
-    const href = link.getAttribute("href");
-    if (!href) return;
-
-    const isExternal =
-      href.startsWith("http://") || href.startsWith("https://");
-
-    if (isExternal) {
-      link.setAttribute("target", "_blank");
-      link.setAttribute("rel", "noopener noreferrer");
-    }
-  });
-});
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

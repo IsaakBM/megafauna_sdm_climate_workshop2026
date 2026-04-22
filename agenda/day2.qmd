@@ -61,7 +61,7 @@ This session presents key advances in data, modeling, and climate assessments ac
 
 - **Physical modeling and downscaling framework**  
   Isaac Brito-Morales *(including outcomes from Toulouse 2025)*  
-  Summary of oceanographic datasets, downscaling approaches, and integration with biological data. Related workflow materials are available in the [CESM Large Ensemble ocean downscaling repository](https://github.com/IsaakBM/cesmle-ocn-fetch).
+  Summary of oceanographic datasets, downscaling approaches, and integration with biological data. Related workflow materials are available in the <a href="https://github.com/IsaakBM/cesmle-ocn-fetch" target="_blank" rel="noopener noreferrer">CESM Large Ensemble ocean downscaling repository</a>.
 
 - **Species modeling updates**
 

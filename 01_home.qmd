@@ -2,7 +2,9 @@
 :::
 
 ::: {.home-hero}
-# Marine Megafauna and Climate Modeling Workshop
+# Marine Megafauna  
+and Climate Change  
+Modeling Workshop
 
 ::: {.home-subtitle}
 Save the Blue Five | Santa Cruz, Galápagos | June 8-12, 2026
@@ -42,4 +44,4 @@ If you are presenting and prefer that your material is not shared on social medi
 
 ## Acknowledgements
 
-The [Moore Center for Science and Solutions](https://www.conservation.org/about/betty-and-gordon-moore-center-for-science-and-solutions) of [Conservation International](https://www.conservation.org/) acknowledges the support of the German Government through the IKI program, as well as the consortium partners involved in the [Save the Blue Five](https://savethebluefive.net/) project (CPPS, GIZ, and MarViva) for making this workshop possible.
+The <a href="https://www.conservation.org/about/betty-and-gordon-moore-center-for-science-and-solutions" target="_blank" rel="noopener noreferrer">Moore Center for Science and Solutions</a> of <a href="https://www.conservation.org/" target="_blank" rel="noopener noreferrer">Conservation International</a> acknowledges the support of the German Government through the IKI program, as well as the consortium partners involved in the <a href="https://savethebluefive.net/" target="_blank" rel="noopener noreferrer">Save the Blue Five</a> project (CPPS, GIZ, and MarViva) for making this workshop possible.
