@@ -1,7 +1,13 @@
 ::: top-banner
 :::
 
-# Workshop overview
+::: {.home-hero}
+# Marine Megafauna and Climate Modeling Workshop
+
+## Save the Blue Five | San Cristóbal, Galápagos | June 8-12, 2026
+:::
+
+## Workshop overview
 
 The objective of this workshop is to bring together regional experts and international collaborators to advance the implementation of the Save the Blue Five project, an initiative funded by IKI focused on the conservation of marine megafauna in the Eastern Tropical Pacific. The project focuses on whales, dolphins, sharks, rays, and sea turtles, ecologically important species facing increasing threats from both human pressures and climate change.
 
@@ -11,8 +17,8 @@ Building on this foundation, the workshop aims to align technical capacity with 
 
 Finally, the workshop places a strong emphasis on defining concrete outputs and a clear roadmap for the next phase of the project. The goal is to strengthen collaboration, define research priorities, and develop scientific and applied products that can directly support marine spatial planning, regional coordination, and long-term biodiversity conservation in the Eastern Tropical Pacific.
 
-```{r, out.width = "100%", echo = FALSE}
-  knitr::include_graphics("images/cover.png")
+```{r, out.width = "100%", echo = FALSE, fig.class="home-cover"}
+  knitr::include_graphics("images/logo-horizontal.png")
 ```
 
 ## Location and dates
