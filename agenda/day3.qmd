@@ -1,11 +1,103 @@
 ---
-title: "Day 3 - Megafauna, Models, and Climate Change"
+title: "Day 3 - From Models to Decisions: Bridging Science and Regional Needs"
 format: html
 ---
 
 ::: top-banner
 :::
 
-## Technical discussions
+::: text-center
+*Wednesday, June 10, 2026*
+:::
 
-Placeholder agenda for SDMs, model inputs, information gaps, and climate vulnerability discussions.
+## Objective
+
+Translate scientific and modeling progress into concrete next steps, aligning technical development with regional priorities and decision-making needs.
+
+# Session 3: Working Groups - Technical Development and Regional Priorities (09.00 - 12.30)
+
+::: {.callout-note appearance="simple"}
+This session is structured around parallel working groups, bringing together participants to focus on complementary aspects of the project and define priorities for the next phase.
+
+- **09:00 - 09:30: Introduction and framing of the working groups**
+
+    - Overview of objectives for the session
+    - Explanation of group structure and expected outcomes
+    - Key questions to guide discussions
+
+- **09:30 - 10:45: Parallel Working Groups - Technical Development and Regional Priorities**
+
+    Participants will split into two groups:
+
+    1. **[Technical](../participants/technical-group.html)**  
+       Focus on modeling development, climate scenarios, data integration, and defining what is realistically achievable in the next phase of the project.
+
+    2. **[Stakeholder Engagement and Regional Priorities](../participants/nontechnical-group.html)**  
+       Focus on regional needs, policy relevance, expected outputs, and how results can support decision-making across institutions.
+
+    Each group will work through a set of guiding questions and identify key priorities, gaps, and next steps.
+
+    At the end of the session, each group will prepare a brief synthesis of their discussion.
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Coffee break (10.45 - 11.00)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Session 3 (cont.): Plenary Synthesis - Aligning Technical Capacity and Regional Needs (11.00 - 12.00)
+
+::: {.callout-note appearance="simple"}
+Each group will present a short synthesis of their discussions:
+
+- **[Technical](../participants/technical-group.html) - "What we can do"**  
+  Feasible modeling approaches, selected climate scenarios, data readiness, and key constraints.
+
+- **[Stakeholder Engagement and Regional Priorities](../participants/nontechnical-group.html) - "What we need"**  
+  Priority outputs, regional needs, and expectations from a policy and implementation perspective.
+
+This session will focus on aligning both perspectives:
+
+- Where do technical capabilities meet stakeholder needs?
+- Where are the main gaps or mismatches?
+- What adjustments are needed to move forward effectively?
+:::
+
+------------------------------------------------------------------------
+
+# Session 4: Discussion and agreement on next steps (12.00 - 12.30)
+
+::: {.callout-note appearance="simple"}
+- **Identification of priority actions**
+
+- **Alignment across teams and workstreams**
+
+- **Definition of short-term deliverables**
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Lunch break (12.30 - 14.30)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+::: {.callout-note appearance="simple"}
+- **14:30 - 17:30**: Outdoor activity *(snorkeling or local site visit)*
+- **Description**: Outdoor activity designed to encourage informal exchange, strengthen connections among participants, and experience the local environment. Depending on logistics and weather conditions, this may include snorkeling or a visit to a nearby site of interest.
+:::
+
+------------------------------------------------------------------------
+
+::: {.callout-note appearance="simple"}
+- **19:00 - 21:00**: Group dinner *(location to be confirmed)*
+- **Description**: Dinner outside the workshop venue to continue the day's conversations in a more relaxed setting. This will also be an opportunity to share reflections, strengthen collaborations, and celebrate the progress made during the workshop.
+:::
