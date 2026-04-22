@@ -4,7 +4,7 @@
 
 # Marine Megafauna and Climate Modeling Workshop – SB5 (2026)
 
-This repository contains the Quarto website and workshop materials for the international workshop on marine megafauna and climate modeling in the Galapagos.
+This repository contains the Quarto website and workshop materials for the international workshop on marine megafauna and climate modeling in the Galápagos.
 
 ## Structure
 
@@ -15,5 +15,5 @@ This repository contains the Quarto website and workshop materials for the inter
 
 ## Location and dates
 
-- San Cristobal Island, Galapagos
+- San Cristobal Island, Galápagos
 - June 8 to June 12, 2026

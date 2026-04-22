@@ -7,7 +7,7 @@ format: html
 :::
 
 ::: {.text-center}
-# **San Cristobal, Galapagos, Ecuador**
+# **San Cristobal, Galápagos, Ecuador**
 ### *June 8, 2026*
 :::
 
