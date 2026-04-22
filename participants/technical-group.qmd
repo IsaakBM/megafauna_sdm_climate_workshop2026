@@ -7,7 +7,7 @@ format: html
 :::
 
 ::: text-center
-*Monday, June 9, 2026*
+*Tuesday, June 9, 2026*
 :::
 
 ::: text-center

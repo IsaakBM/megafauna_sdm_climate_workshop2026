@@ -8,9 +8,9 @@ format: html
 
 ## Day 1 - Arrival
 
-## Day 2 - Workshop Opening
+## Day 2 - Scientific Progress and Modeling Integration
 
-## Day 3 - Megafauna, Models, and Climate Change
+## Day 3 - From Models to Decisions: Bridging Science and Regional Needs
 
 ## Day 4 - Applied Science and Synthesis
 
