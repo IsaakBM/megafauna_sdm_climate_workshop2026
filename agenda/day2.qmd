@@ -1,11 +1,131 @@
 ---
-title: "Day 2 - Workshop Opening"
+title: "Day 2 - Scientific Progress and Modeling Integration"
 format: html
 ---
 
 ::: top-banner
 :::
 
-## Opening sessions
+::: text-center
+*Tuesday, June 9, 2026*
+:::
 
-Placeholder agenda for workshop kickoff, introductions, and framing.
+## Objective
+
+Consolidate scientific and modeling progress since the 2025 workshop, assess readiness for climate projections, and identify key gaps to advance the project.
+
+# Session 1: Welcome and framing of progress since 2025 (09.00 - 10.30)
+
+::: {.callout-note appearance="simple"}
+- **Opening remarks**  
+  Isaac Brito-Morales, Lee Hannah  
+  Brief welcome and overview of the workshop goals and expected outcomes.
+
+- **Participant introductions**  
+  Short introductions to align expertise across participants and ongoing contributions to the project.
+
+- **Overview of progress since the 2025 workshop**
+
+- **Key achievements**  
+  Summary of major milestones reached across data, modeling, and coordination efforts.
+
+- **Current status of the project**  
+  Where we stand today across workstreams and collaborations.
+
+- **Goals for Day 2**  
+  Framing the focus on scientific integration and modeling readiness.
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Coffee break (10.30 - 11.00)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Session 2: Scientific and modeling advances since 2025 (11.00 - 13.00)
+
+::: {.callout-note appearance="simple"}
+This session presents key advances in data, modeling, and climate assessments across the project.
+
+- **Climate change vulnerability assessment**  
+  Lee Hannah, presented by Sarayu Ramnath  
+  Overview of the assessment framework, datasets, and initial results across taxa.
+
+- **Status of biological data for species distribution modeling (SDMs)**  
+  Isaac Brito-Morales, Sarayu Ramnath  
+  Current state of compiled datasets, data gaps, and readiness for modeling.
+
+- **Physical modeling and downscaling framework**  
+  Isaac Brito-Morales *(including outcomes from Toulouse 2025)*  
+  Summary of oceanographic datasets, downscaling approaches, and integration with biological data.
+
+- **Species modeling updates**
+
+    1. Dolphins - Mario Pardo, Ariadna Juarez  
+       Progress on species-specific models and ecological insights.
+    2. Mesopelagic systems - Yulia Egorova  
+       Advances in modeling midwater systems and implications for broader ecosystem understanding.
+    3. First generation of SDMs - Isaac Brito-Morales  
+       Presentation of initial model outputs, performance, and limitations.
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Lunch break (13.00 - 14.30)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Session 3: Synthesis across taxa and systems (14.30 - 16.00)
+
+::: {.callout-note appearance="simple"}
+This session integrates insights across species, models, and environmental drivers to build a regional perspective.
+
+- **Cross-taxa patterns and emerging insights**  
+  Identification of shared patterns across species and functional groups.
+
+- **Key environmental drivers and habitat use**  
+  Discussion of dominant physical and biogeochemical drivers shaping distributions.
+
+- **Integration of biological and physical processes**  
+  Linking species responses to oceanographic structure and variability.
+
+- **Discussion**
+
+    - What are we learning at the regional scale?
+    - Where are the main knowledge gaps?
+    - What limits our current ability to move toward projections?
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Coffee break (16.00 - 16.30)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Session 4: Strategic discussion and next steps (16.30 - 17.00)
+
+::: {.callout-note appearance="simple"}
+- **Priority gaps to address**  
+  Key data and modeling limitations that require immediate attention.
+
+- **Short-term actions and next steps**  
+  Concrete steps to advance analyses before the next milestone.
+
+- **Alignment across teams and workstreams**  
+  Ensuring coordination across taxa, models, and regional efforts.
+
+- **Preparation for upcoming project milestones**  
+  Positioning outputs to feed into future projections and decision-making processes.
+:::
