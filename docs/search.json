@@ -270,5 +270,12 @@
     "title": "Marine Megafauna and Climate Modeling Workshop",
     "section": "",
     "text": "Marine Megafauna and Climate Modeling Workshop\n\nSave the Blue Five | San Cristóbal, Galápagos | June 8-12, 2026"
+  },
+  {
+    "objectID": "resources/materials.html#technical-resources",
+    "href": "resources/materials.html#technical-resources",
+    "title": "Workshop Materials",
+    "section": "🧰 Technical Resources",
+    "text": "🧰 Technical Resources\n\n🔗 CESM Large Ensemble ocean downscaling workflow Workflow and notes related to ocean-variable extraction, climate-model handling, and downscaling-oriented preparation relevant to the workshop’s physical modeling discussions."
   }
 ]
