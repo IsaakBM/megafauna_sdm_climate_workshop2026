@@ -6,4 +6,35 @@ title: "Workshop Materials"
 format: html
 ---
 
-This section will host workshop documents, presentations, and shared reference materials.
+::: {.text-center}
+# 📁 Workshop Materials
+:::
+
+::: {.callout-note appearance="simple"}
+This section contains key documents, presentations, and shared reference materials related to the workshop.
+:::
+
+## 📄 Documents
+
+- 📎 [Workshop Agenda (PDF)](https://example.com)
+- 📎 [Save the Blue Five Project Summary (PDF)](https://example.com)
+- 📎 [Workshop Overview Presentation (PDF)](https://example.com)
+
+------------------------------------------------------------------------
+
+## 🎤 Presentations
+
+- 🎞 [Isaac Brito-Morales - Project progress and integration overview](https://example.com)
+- 🎞 [Lee Hannah / Sarayu Ramnath - Climate change vulnerability assessment](https://example.com)
+- 🎞 [Mario Pardo / Ariadna Juarez - Dolphins](https://example.com)
+- 🎞 [Yulia Egorova - Mesopelagic systems](https://example.com)
+- 🎞 [Boris DeWitt - Physical modeling and regional context](https://example.com)
+- 🎞 [Shaleyla Kelez - Sea turtles](https://example.com)
+- 🎞 [Gabriel Vianna - Sharks and rays](https://example.com)
+- 🎞 [Frank Garita - Marine mammals](https://example.com)
+
+------------------------------------------------------------------------
+
+### 📥 Looking for something?
+
+Participants may continue to share presentations and documents for inclusion in this section. To add more files, please contact **[Isaac Brito-Morales](mailto:ibrito@conservation.org)**.
