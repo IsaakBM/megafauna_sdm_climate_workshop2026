@@ -218,7 +218,7 @@ section {
   background: rgba(255, 255, 255, 0.92);
 }
 
-.home-hero h2 {
+.home-subtitle {
   margin-top: 0.7rem;
   font-size: clamp(0.95rem, 1.4vw, 1.15rem);
   font-weight: 600;
@@ -233,6 +233,7 @@ section {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  max-width: fit-content;
 }
 
 .hero-logo {
