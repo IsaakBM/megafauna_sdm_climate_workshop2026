@@ -1,0 +1,12 @@
+::: top-banner
+:::
+
+::: {.front-landing}
+# Marine Megafauna and Climate Modeling Workshop
+
+::: {.front-subtitle}
+Save the Blue Five | San Cristóbal, Galápagos | June 8-12, 2026
+:::
+
+![](images/front-logo.png){.front-logo}
+:::
