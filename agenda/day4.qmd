@@ -14,7 +14,7 @@ format: html
 
 Bring together the main outcomes from the workshop, translate them into concrete outputs, and define a clear path forward for collaboration and regional impact.
 
-# Session 5: Synthesis of key insights and applied perspectives (09.00 - 10.30)
+# Session 8: Synthesis of key insights and applied perspectives (09.00 - 10.30)
 
 ::: {.callout-note appearance="simple"}
 - **Focus**: This session connects the scientific and modeling work from Day 2 with the alignment discussions from Day 3, with a focus on how these results can inform conservation and regional planning.
@@ -46,7 +46,7 @@ Bring together the main outcomes from the workshop, translate them into concrete
 
 ------------------------------------------------------------------------
 
-# Session 6: Defining outputs and next steps (11.00 - 12.30)
+# Session 9: Defining outputs and next steps (11.00 - 12.30)
 
 ::: {.callout-note appearance="simple"}
 - **Focus**: Move from discussion to definition. Identify the key products coming out of the workshop and what is needed to deliver them.
@@ -90,7 +90,7 @@ Bring together the main outcomes from the workshop, translate them into concrete
 
 ------------------------------------------------------------------------
 
-# Session 7: Roadmap and coordination (14.00 - 16.00)
+# Session 10: Roadmap and coordination (14.00 - 16.00)
 
 ::: {.callout-note appearance="simple"}
 - **Focus**: Define how the work continues beyond the workshop.

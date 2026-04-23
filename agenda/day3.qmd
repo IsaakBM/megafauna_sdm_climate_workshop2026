@@ -14,7 +14,7 @@ format: html
 
 Translate scientific and modeling progress into concrete next steps, aligning technical development with regional priorities and decision-making needs.
 
-# Session 3: Working Groups - Technical Development and Regional Priorities (09.00 - 12.30)
+# Session 5: Working Groups - Technical Development and Regional Priorities (09.00 - 12.30)
 
 ::: {.callout-note appearance="simple"}
 This session is structured around parallel working groups, bringing together participants to focus on complementary aspects of the project and define priorities for the next phase.
@@ -50,7 +50,7 @@ This session is structured around parallel working groups, bringing together par
 
 ------------------------------------------------------------------------
 
-# Session 3 (cont.): Plenary Synthesis - Aligning Technical Capacity and Regional Needs (11.00 - 12.00)
+# Session 6: Plenary Synthesis - Aligning Technical Capacity and Regional Needs (11.00 - 12.00)
 
 ::: {.callout-note appearance="simple"}
 Each group will present a short synthesis of their discussions:
@@ -70,7 +70,7 @@ This session will focus on aligning both perspectives:
 
 ------------------------------------------------------------------------
 
-# Session 4: Discussion and agreement on next steps (12.00 - 12.30)
+# Session 7: Discussion and agreement on next steps (12.00 - 12.30)
 
 ::: {.callout-note appearance="simple"}
 - **Identification of priority actions**
