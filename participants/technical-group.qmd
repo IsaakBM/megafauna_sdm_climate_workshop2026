@@ -24,7 +24,7 @@ This working group brings together modelers, taxonomic experts, and participants
 
 | Name | Role | Institution |
 |------|------|-------------|
-| <a href="https://isaakbm.github.io/ibm-personalweb/" target="_blank">Isaac Brito-Morales</a> | Facilitator | MCSS |
+| <a href="https://isaakbm.github.io/ibm-personalweb/" target="_blank">Isaac Brito-Morales</a> | Facilitator | CI Moore Center for Science and Solutions |
 | <a href="https://www.linkedin.com/in/crpenaherrera/" target="_blank">César Peñaherrera</a> | Participant | MigraMar |
 | <a href="https://www.linkedin.com/in/mario-a-pardo-cicese/" target="_blank">Mario Pardo</a> | Participant | CICESE |
 | <a href="https://scholar.google.com/citations?user=NE7puCcAAAAJ&hl=es" target="_blank">Ariadna Juarez</a> | Participant | CICESE |
@@ -35,7 +35,7 @@ This working group brings together modelers, taxonomic experts, and participants
 | <a href="https://scholar.google.com/citations?hl=es&user=aVvkju8AAAAJ&view_op=list_works" target="_blank">Luis Bedriñana</a> | Participant | Universidad Austral de Chile |
 | <a href="https://www.linkedin.com/in/frank-garita-05321072/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Frank Garita</a> | Participant | Panacetacea |
 | <a href="https://www.darwinfoundation.org/es/conocenos/our-people2/meet-our-team/gabriel-vianna/" target="_blank">Gabriel Vianna</a> | Participant | Charles Darwin Foundation |
-| <a href="https://www.conservation.org/experts-list/dr-lee-hannah" target="_blank">Lee Hannah</a> | Participant | MCSS |
+| <a href="https://www.conservation.org/experts-list/dr-lee-hannah" target="_blank">Lee Hannah</a> | Participant | CI Moore Center for Science and Solutions |
 ## Focus areas
 
 - Species distribution models
