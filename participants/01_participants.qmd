@@ -19,6 +19,7 @@ Below is the current working participant list for the workshop.
 | <a href="https://www.darwinfoundation.org/es/conocenos/our-people2/meet-our-team/gabriel-vianna/" target="_blank">Gabriel Vianna</a> | Charles Darwin Foundation |
 | <a href="https://isaakbm.github.io/ibm-personalweb/" target="_blank">Isaac Brito-Morales</a> | MCSS |
 | <a href="https://www.conservation.org/experts-list/dr-lee-hannah" target="_blank">Lee Hannah</a> | MCSS |
+| <a href="https://example.com" target="_blank">Cynthia Cespedes</a> | CI Peru |
 | <a href="https://example.com" target="_blank">Christian/Marco</a> | CI Mesoamerica |
 | <a href="https://example.com" target="_blank">Mariana Vera</a> | CI Ecuador |
 | <a href="https://www.researchgate.net/profile/Fausto-Arias-Zumbado" target="_blank">Fausto Arias</a> | CI Costa Rica |
