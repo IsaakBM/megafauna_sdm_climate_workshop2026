@@ -36,8 +36,6 @@ This working group brings together modelers, taxonomic experts, and participants
 | <a href="https://www.linkedin.com/in/frank-garita-05321072/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Frank Garita</a> | Participant | Panacetacea |
 | <a href="https://www.darwinfoundation.org/es/conocenos/our-people2/meet-our-team/gabriel-vianna/" target="_blank">Gabriel Vianna</a> | Participant | Charles Darwin Foundation |
 | <a href="https://www.conservation.org/experts-list/dr-lee-hannah" target="_blank">Lee Hannah</a> | Participant | MCSS |
-| <a href="https://example.com" target="_blank">Cynthia Cespedes</a> | Participant | CI Peru |
-
 ## Focus areas
 
 - Species distribution models
