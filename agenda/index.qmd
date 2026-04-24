@@ -21,16 +21,16 @@ format: html
 
 ## [Day 3 - From Models to Decisions: Bridging Science and Regional Needs](day3.qmd)
 
-- **Session 3**: Working Groups - Technical Development and Regional Priorities
-- **Session 3 (cont.)**: Plenary Synthesis - Aligning Technical Capacity and Regional Needs
-- **Session 4**: Discussion and agreement on next steps
+- **Session 5**: Working Groups - Technical Development and Regional Priorities
+- **Session 6**: Plenary Synthesis - Aligning Technical Capacity and Regional Needs
+- **Session 7**: Discussion and agreement on next steps
 - Afternoon social activity and evening group dinner
 
 ## [Day 4 - Applied Science, Synthesis, and Next Steps](day4.qmd)
 
-- **Session 5**: Synthesis of key insights and applied perspectives
-- **Session 6**: Defining outputs and next steps
-- **Session 7**: Roadmap and coordination
+- **Session 8**: Synthesis of key insights and applied perspectives
+- **Session 9**: Defining outputs and next steps
+- **Session 10**: Roadmap and coordination
 - Final discussion, closing, and group dinner
 
 ## [Day 5 - Departure](day5.qmd)

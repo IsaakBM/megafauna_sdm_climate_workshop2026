@@ -13,6 +13,10 @@ Save the Blue Five | Santa Cruz, Galápagos | June 8-12, 2026
 ![](images/sbf-logo-color.jpg){.hero-logo}
 :::
 
+::: {.site-counter}
+**Site visits:** <img alt="Site visits" src="https://hits.sh/isaakbm.github.io/megafauna_sdm_climate_workshop2026.svg?style=flat&label=&color=1F6FA8&labelColor=17324D" referrerpolicy="no-referrer-when-downgrade">
+:::
+
 ## Workshop overview
 
 The objective of this workshop is to bring together regional experts and international collaborators to advance the implementation of the Save the Blue Five project, an initiative funded by IKI focused on the conservation of marine megafauna in the Eastern Tropical Pacific. The project focuses on whales, dolphins, sharks, rays, and sea turtles, ecologically important species facing increasing threats from both human pressures and climate change.

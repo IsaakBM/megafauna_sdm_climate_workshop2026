@@ -124,6 +124,29 @@ p, li {
   margin-left: 0.35rem;
 }
 
+.site-counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin: -0.2rem 0 1.5rem;
+  padding: 0.7rem 1rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.78);
+  border: 1px solid rgba(23, 50, 77, 0.08);
+  box-shadow: 0 10px 22px rgba(17, 38, 56, 0.08);
+  width: fit-content;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  color: var(--sb5-navy);
+  font-weight: 600;
+}
+
+.site-counter img {
+  vertical-align: middle;
+}
+
 .map-embed {
   margin: 1rem 0 0.75rem;
   border-radius: 18px;
