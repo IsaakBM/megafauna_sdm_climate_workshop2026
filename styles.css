@@ -124,6 +124,18 @@ p, li {
   margin-left: 0.35rem;
 }
 
+.map-embed {
+  margin: 1rem 0 0.75rem;
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 14px 30px rgba(20, 43, 64, 0.12);
+  background: rgba(255, 255, 255, 0.88);
+}
+
+.map-embed iframe {
+  display: block;
+}
+
 main.content {
   padding-top: 1.1rem;
 }
