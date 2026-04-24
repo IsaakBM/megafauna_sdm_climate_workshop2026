@@ -11,4 +11,8 @@ Save the Blue Five | Santa Cruz, Galápagos | June 8-12, 2026
 :::
 
 ![](images/front-logo.png){.front-logo}
+
+::: {.site-counter}
+**Site visits:** <img alt="Site visits" src="https://hits.sh/isaakbm.github.io/megafauna_sdm_climate_workshop2026.svg?style=flat&label=&color=1F6FA8&labelColor=17324D" referrerpolicy="no-referrer-when-downgrade">
+:::
 :::
