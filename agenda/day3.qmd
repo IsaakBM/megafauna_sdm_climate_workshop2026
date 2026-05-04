@@ -71,11 +71,16 @@ This session will focus on aligning both perspectives:
 # Session 7: Discussion and agreement on next steps (12.00 - 12.30)
 
 ::: {.callout-note appearance="simple"}
-- **Identification of priority actions**
+This closing discussion will be used to identify the most important actions to carry forward, align priorities across teams, and clarify short-term deliverables. Participants will contribute ideas in plenary, and priorities will be consolidated and grouped into shared themes.
 
-- **Alignment across teams and workstreams**
+- **Identification of priority actions**  
+  Ideas will be collected and clustered into key themes emerging from the discussion.
 
-- **Definition of short-term deliverables**
+- **Alignment across teams and workstreams**  
+  Participants will help identify where scientific, technical, and regional priorities overlap most clearly.
+
+- **Definition of short-term deliverables**  
+  The session will aim to highlight the most immediate and broadly supported next steps.
 :::
 
 ------------------------------------------------------------------------
