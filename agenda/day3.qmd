@@ -17,13 +17,11 @@ Translate scientific and modeling progress into concrete next steps, aligning te
 # Session 5: Working Groups - Technical Development and Regional Priorities (09.00 - 12.30)
 
 ::: {.callout-note appearance="simple"}
-This session is structured around parallel working groups, bringing together participants to focus on complementary aspects of the project and define priorities for the next phase.
+This session is structured around parallel working groups, bringing together participants to focus on complementary aspects of the project and define priorities for the next phase. The breakout discussions will be facilitated by <a href="https://www.researchgate.net/profile/Fausto-Arias-Zumbado" target="_blank" rel="noopener noreferrer">Fausto Arias</a> and <a href="https://example.com" target="_blank" rel="noopener noreferrer">Dylan Glave</a>.
 
 - **09:00 - 09:30: Introduction and framing of the working groups**
 
-    - Overview of objectives for the session
-    - Explanation of group structure and expected outcomes
-    - Key questions to guide discussions
+    <a href="https://www.researchgate.net/profile/Fausto-Arias-Zumbado" target="_blank" rel="noopener noreferrer">Fausto Arias</a> and <a href="https://example.com" target="_blank" rel="noopener noreferrer">Dylan Glave</a> will introduce the objectives of the working groups, explain the structure of the breakout discussions, and highlight the key questions that will guide the session.
 
 - **09:30 - 10:45: Parallel Working Groups - Technical Development and Regional Priorities**
 
