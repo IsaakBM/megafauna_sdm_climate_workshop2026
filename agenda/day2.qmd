@@ -12,11 +12,15 @@ format: html
 
 ## Objective
 
-Consolidate scientific and modeling progress since the 2025 workshop, assess readiness for climate projections, and identify key gaps to advance the project.
+Review the scientific and modeling progress made since the 2025 workshop, identify what is ready to move forward, clarify the most important gaps and uncertainties, and gather targeted feedback to help strengthen the work over the next year.
 
 # Session 1: Welcome and framing of progress since 2025 (09.00 - 10.30)
 
 ::: {.callout-note appearance="simple"}
+- **Welcome from Charles Darwin Foundation**  
+  Rakan Zahawi or María José Barragán  
+  Brief welcome to Galápagos and the hosting facility.
+
 - **Opening remarks**  
   Isaac Brito-Morales, Lee Hannah  
   Brief welcome and overview of the workshop goals and expected outcomes.
@@ -33,7 +37,10 @@ Consolidate scientific and modeling progress since the 2025 workshop, assess rea
   Where we stand today across workstreams and collaborations.
 
 - **Goals for Day 2**  
-  Framing the focus on scientific integration and modeling readiness.
+  Build a shared understanding of the progress made since the 2025 workshop, identify the most important scientific and technical gaps, and generate focused feedback to strengthen the work over the coming year.
+
+- **Goals for the workshop**  
+  Strengthen the scientific foundation of the project while helping ensure that its outputs are relevant, actionable, and useful for regional coordination, conservation planning, and policy-oriented decision-making.
 :::
 
 ------------------------------------------------------------------------
@@ -49,21 +56,25 @@ Consolidate scientific and modeling progress since the 2025 workshop, assess rea
 # Session 2: Scientific and modeling advances since 2025 (11.00 - 13.00)
 
 ::: {.callout-note appearance="simple"}
-This session presents key advances in data, modeling, and climate assessments across the project.
+This session presents key advances in climate vulnerability assessment, physical modeling, biological datasets, and species distribution modeling across the project. Together, these components help define both what has already been achieved and where focused improvements are needed to strengthen the next phase of work.
+
+As you listen, please note which findings seem most useful for conservation planning, regional coordination, or policy-relevant decision-making, and what additional information would make these outputs more actionable. These reflections will help inform the breakout discussions later in the workshop.
 
 - **Climate change vulnerability assessment**  
   Lee Hannah, presented by Sarayu Ramnath  
   Overview of the assessment framework, datasets, and initial results across taxa.
 
-- **Status of biological data for species distribution modeling (SDMs)**  
-  Isaac Brito-Morales, Sarayu Ramnath  
-  Current state of compiled datasets, data gaps, and readiness for modeling.
-
 - **Physical modeling and downscaling framework**  
   Isaac Brito-Morales *(including outcomes from Toulouse 2025)*  
   Summary of oceanographic datasets, downscaling approaches, and integration with biological data. Related workflow materials are available in the <a href="https://github.com/IsaakBM/cesmle-ocn-fetch" target="_blank" rel="noopener noreferrer">CESM Large Ensemble ocean downscaling repository</a>.
 
+- **Status of biological data for species distribution modeling (SDMs)**  
+  Isaac Brito-Morales, Sarayu Ramnath  
+  Current state of compiled datasets, data gaps, and readiness for modeling.
+
 - **Species modeling updates**
+
+  These updates present preliminary to intermediate results and are intended to guide the next phase of model improvement. Given the project timeline, the goal is to identify the most important and realistic improvements needed to strengthen the final outputs. Participants are encouraged to focus feedback on what is most important to improve over the next year.
 
     1. Dolphins - Mario Pardo, Ariadna Juarez  
        Progress on species-specific models and ecological insights.
@@ -86,7 +97,7 @@ This session presents key advances in data, modeling, and climate assessments ac
 # Session 3: Synthesis across taxa and systems (14.30 - 16.00)
 
 ::: {.callout-note appearance="simple"}
-This session integrates insights across species, models, and environmental drivers to build a regional perspective.
+This session integrates insights across species, models, and environmental drivers to build a regional perspective. It will begin with a brief synthesis of key patterns and emerging insights, followed by small-group discussion to reflect on what is most relevant, what remains unclear, and how these findings could be used in practice.
 
 - **Cross-taxa patterns and emerging insights**  
   Identification of shared patterns across species and functional groups.
@@ -100,8 +111,8 @@ This session integrates insights across species, models, and environmental drive
 - **Discussion**
 
     - What are we learning at the regional scale?
-    - Where are the main knowledge gaps?
-    - What limits our current ability to move toward projections?
+    - What are the main knowledge gaps or uncertainties?
+    - Which findings seem most relevant for conservation, planning, or regional coordination?
 :::
 
 ------------------------------------------------------------------------
