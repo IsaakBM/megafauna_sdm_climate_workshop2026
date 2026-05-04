@@ -24,7 +24,7 @@ This working group brings together modelers, taxonomic experts, and participants
 
 | Name | Role | Institution |
 |------|------|-------------|
-| <a href="https://isaakbm.github.io/ibm-personalweb/" target="_blank">Isaac Brito-Morales</a> | Facilitator | CI Moore Center for Science and Solutions |
+| <a href="https://isaakbm.github.io/" target="_blank">Isaac Brito-Morales</a> | Facilitator | CI Moore Center for Science and Solutions |
 | <a href="https://www.linkedin.com/in/crpenaherrera/" target="_blank">César Peñaherrera</a> | Participant | MigraMar |
 | <a href="https://www.linkedin.com/in/mario-a-pardo-cicese/" target="_blank">Mario Pardo</a> | Participant | CICESE |
 | <a href="https://scholar.google.com/citations?user=NE7puCcAAAAJ&hl=es" target="_blank">Ariadna Juarez</a> | Participant | CICESE |
