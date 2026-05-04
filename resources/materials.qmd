@@ -35,7 +35,7 @@ This section contains key documents, presentations, and shared reference materia
 - 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Lee Hannah / Sarayu Ramnath - Climate change vulnerability assessment</a>
 - 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Mario Pardo / Ariadna Juarez - Dolphins</a>
 - 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Yulia Egorova - Mesopelagic systems</a>
-- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Boris DeWitt - Physical modeling and regional context</a>
+- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Sebastien Villon - Physical modeling and regional context</a>
 - 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Shaleyla Kelez - Sea turtles</a>
 - 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Gabriel Vianna - Sharks and rays</a>
 - 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Frank Garita - Marine mammals</a>
