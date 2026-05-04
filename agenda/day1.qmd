@@ -14,7 +14,7 @@ format: html
 ::: {.callout-note appearance="simple"}
 - **5:00 - 5:30 pm**  
   Transfer from the airport to **Santa Cruz Island**  
-  *Transportation coordinated by Isaac and Dylan*
+  *Transportation coordinated by <a href="https://isaakbm.github.io/" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales</a> and <a href="https://example.com" target="_blank" rel="noopener noreferrer">Dylan Glave</a>*
 
 - **6:00 pm**  
   Hotel check-in  

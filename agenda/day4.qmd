@@ -116,7 +116,7 @@ Bring together the main outcomes from the workshop, translate them into concrete
 - **Confirmation of next steps**
 
 - **Closing remarks**  
-  Isaac, Lee, CI team
+  <a href="https://isaakbm.github.io/" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales</a>, <a href="https://www.conservation.org/experts-list/dr-lee-hannah" target="_blank" rel="noopener noreferrer">Lee Hannah</a>, CI team
 :::
 
 ------------------------------------------------------------------------

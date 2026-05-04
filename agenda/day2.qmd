@@ -18,11 +18,11 @@ Review the scientific and modeling progress made since the 2025 workshop, identi
 
 ::: {.callout-note appearance="simple"}
 - **Welcome from Charles Darwin Foundation**  
-  Rakan Zahawi or María José Barragán  
+  <a href="https://example.com" target="_blank" rel="noopener noreferrer">Rakan Zahawi</a> or <a href="https://example.com" target="_blank" rel="noopener noreferrer">María José Barragán</a>  
   Brief welcome to Galápagos and the hosting facility.
 
 - **Opening remarks**  
-  Isaac Brito-Morales, Lee Hannah  
+  <a href="https://isaakbm.github.io/" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales</a>, <a href="https://www.conservation.org/experts-list/dr-lee-hannah" target="_blank" rel="noopener noreferrer">Lee Hannah</a>  
   Brief welcome and overview of the workshop goals and expected outcomes.
 
 - **Participant introductions**  
@@ -61,26 +61,26 @@ This session presents key advances in climate vulnerability assessment, physical
 As you listen, please note which findings seem most useful for conservation planning, regional coordination, or policy-relevant decision-making, and what additional information would make these outputs more actionable. These reflections will help inform the breakout discussions later in the workshop.
 
 - **Climate change vulnerability assessment**  
-  Lee Hannah, presented by Sarayu Ramnath  
+  <a href="https://www.conservation.org/experts-list/dr-lee-hannah" target="_blank" rel="noopener noreferrer">Lee Hannah</a>, presented by <a href="https://example.com" target="_blank" rel="noopener noreferrer">Sarayu Ramnath</a>  
   Overview of the assessment framework, datasets, and initial results across taxa.
 
 - **Physical modeling and downscaling framework**  
-  Isaac Brito-Morales *(including outcomes from Toulouse 2025)*  
+  <a href="https://isaakbm.github.io/" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales</a> *(including outcomes from Toulouse 2025)*  
   Summary of oceanographic datasets, downscaling approaches, and integration with biological data. Related workflow materials are available in the <a href="https://github.com/IsaakBM/cesmle-ocn-fetch" target="_blank" rel="noopener noreferrer">CESM Large Ensemble ocean downscaling repository</a>.
 
 - **Status of biological data for species distribution modeling (SDMs)**  
-  Isaac Brito-Morales, Sarayu Ramnath  
+  <a href="https://isaakbm.github.io/" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales</a>, <a href="https://example.com" target="_blank" rel="noopener noreferrer">Sarayu Ramnath</a>  
   Current state of compiled datasets, data gaps, and readiness for modeling.
 
 - **Species modeling updates**
 
   These updates present preliminary to intermediate results and are intended to guide the next phase of model improvement. Given the project timeline, the goal is to identify the most important and realistic improvements needed to strengthen the final outputs. Participants are encouraged to focus feedback on what is most important to improve over the next year.
 
-    1. Dolphins - Mario Pardo, Ariadna Juarez  
+    1. Dolphins - <a href="https://www.linkedin.com/in/mario-a-pardo-cicese/" target="_blank" rel="noopener noreferrer">Mario Pardo</a>, <a href="https://scholar.google.com/citations?user=NE7puCcAAAAJ&hl=es" target="_blank" rel="noopener noreferrer">Ariadna Juarez</a>  
        Progress on species-specific models and ecological insights.
-    2. Mesopelagic systems - Yulia Egorova  
+    2. Mesopelagic systems - <a href="https://people.miami.edu/profile/4fd08a9092e08f6da5b330184ade8d86" target="_blank" rel="noopener noreferrer">Yulia Egorova</a>  
        Advances in modeling midwater systems and implications for broader ecosystem understanding.
-    3. First generation of SDMs - Isaac Brito-Morales  
+    3. First generation of SDMs - <a href="https://isaakbm.github.io/" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales</a>  
        Presentation of initial model outputs, performance, and limitations.
 :::
 

@@ -15,7 +15,7 @@ format: html
 :::
 
 ::: text-center
-*Facilitators: Dylan Glave and Fausto Arias*
+*Facilitators: <a href="https://example.com" target="_blank">Dylan Glave</a> and <a href="https://www.researchgate.net/profile/Fausto-Arias-Zumbado" target="_blank">Fausto Arias</a>*
 :::
 
 This working group is designed for participants focused on policy relevance, regional coordination, and the practical use of workshop outputs.

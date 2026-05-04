@@ -15,7 +15,7 @@ format: html
 :::
 
 ::: text-center
-*Facilitator: Isaac Brito-Morales*
+*Facilitator: <a href="https://isaakbm.github.io/" target="_blank">Isaac Brito-Morales</a>*
 :::
 
 This working group brings together modelers, taxonomic experts, and participants contributing to the technical dimensions of the workshop.
