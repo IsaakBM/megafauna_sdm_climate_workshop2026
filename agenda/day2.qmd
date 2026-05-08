@@ -14,6 +14,10 @@ format: html
 
 Review the scientific and modeling progress made since the 2025 workshop, identify what is ready to move forward, clarify the most important gaps and uncertainties, and gather targeted feedback to help strengthen the work over the next year.
 
+## Workshop goal
+
+Strengthen the scientific foundation of the project while helping ensure that its outputs are relevant, actionable, and useful for regional coordination, conservation planning, and policy-oriented decision-making.
+
 # Session 1: Welcome and framing of progress since 2025 (09.00 - 10.30)
 
 ::: {.callout-note appearance="simple"}
@@ -23,10 +27,10 @@ Review the scientific and modeling progress made since the 2025 workshop, identi
 
 - **Opening remarks**  
   <a href="https://isaakbm.github.io/" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales</a>, <a href="https://www.conservation.org/experts-list/dr-lee-hannah" target="_blank" rel="noopener noreferrer">Lee Hannah</a>  
-  Brief welcome and overview of the workshop goals and expected outcomes.
+  Brief welcome and overview of the workshop goals and expected outcomes. Participants in this workshop come from diverse scientific, technical, and operational backgrounds, and open discussion and questions across all levels of expertise are encouraged throughout the meeting.
 
 - **Participant introductions**  
-  Short introductions to align expertise across participants and ongoing contributions to the project.
+  Short introductions to align expertise across participants, ongoing contributions to the project, and national or regional perspectives relevant to the workshop themes.
 
 - **Overview of progress since the 2025 workshop**
 
@@ -39,8 +43,17 @@ Review the scientific and modeling progress made since the 2025 workshop, identi
 - **Goals for Day 2**  
   Build a shared understanding of the progress made since the 2025 workshop, identify the most important scientific and technical gaps, and generate focused feedback to strengthen the work over the coming year.
 
-- **Goals for the workshop**  
-  Strengthen the scientific foundation of the project while helping ensure that its outputs are relevant, actionable, and useful for regional coordination, conservation planning, and policy-oriented decision-making.
+- **Shared framing: climate projections, uncertainty, and interpretation**  
+  Short introductory discussion to align terminology, expectations, and interpretation across participants with different backgrounds and areas of expertise.
+
+  Topics may include:
+
+    - Climate projections vs predictions
+    - Interpretation of uncertainty
+    - Limitations and assumptions associated with SDMs
+    - Interpretation and appropriate use of model outputs in conservation planning
+
+  The objective is not to provide technical training, but rather to establish a common framing for discussions throughout the workshop.
 :::
 
 ------------------------------------------------------------------------
