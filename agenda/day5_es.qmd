@@ -11,7 +11,7 @@ format: html
 [Agenda](index_es.qmd) > Día 5 - Salida
 :::
 
- # Día 5 - Salida
+# Día 5 - Salida
 
 ::: {.lang-switch}
 [EN](day5.qmd) <span class="active-lang">ES</span>

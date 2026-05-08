@@ -11,7 +11,7 @@ format: html
 [Participantes](01_participants_es.qmd) > Técnico
 :::
 
- # Técnico
+# Técnico
 
 ::: {.lang-switch}
 [EN](technical-group.qmd) <span class="active-lang">ES</span>

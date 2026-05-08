@@ -11,7 +11,7 @@ format: html
 [Agenda](index_es.qmd) > Día 4 - Ciencia aplicada, síntesis y próximos pasos
 :::
 
- # Día 4 - Ciencia aplicada, síntesis y próximos pasos
+# Día 4 - Ciencia aplicada, síntesis y próximos pasos
 
 ::: {.lang-switch}
 [EN](day4.qmd) <span class="active-lang">ES</span>

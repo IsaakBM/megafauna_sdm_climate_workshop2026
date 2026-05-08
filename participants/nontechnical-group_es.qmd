@@ -11,7 +11,7 @@ format: html
 [Participantes](01_participants_es.qmd) > Participación de actores y prioridades regionales
 :::
 
- # Participación de actores y prioridades regionales
+# Participación de actores y prioridades regionales
 
 ::: {.lang-switch}
 [EN](nontechnical-group.qmd) <span class="active-lang">ES</span>
