@@ -234,7 +234,7 @@ ul.task-list li input[type="checkbox"] {
 
 </main> <!-- /main -->
 <script>
-document.addEventListener("DOMContentLoaded", () => {
+(() => {
   document
     .querySelectorAll(".quarto-secondary-nav .quarto-page-breadcrumbs")
     .forEach((nav) => {
@@ -301,7 +301,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   nav.appendChild(ol);
   header.prepend(nav);
-});
+})();
 </script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
