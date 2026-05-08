@@ -1,0 +1,59 @@
+---
+title: "Participación de actores y prioridades regionales"
+lang: es
+format: html
+---
+
+::: top-banner
+:::
+
+::: {.lang-switch}
+[EN](nontechnical-group.qmd) <span class="active-lang">ES</span>
+:::
+
+::: text-center
+*Miércoles, 10 de junio de 2026*
+:::
+
+::: text-center
+*9:30 am*
+:::
+
+::: text-center
+*Facilitadores: <a href="https://example.com" target="_blank">Dylan Glave</a> y <a href="https://www.researchgate.net/profile/Fausto-Arias-Zumbado" target="_blank">Fausto Arias</a>*
+:::
+
+Este grupo de trabajo está diseñado para participantes enfocados en la relevancia para políticas, la coordinación regional y el uso práctico de los productos del taller.
+
+## Enfoque de la discusión
+
+Este grupo discutirá cómo los productos del taller y los enfoques de modelación informados por el clima pueden apoyar la planificación de la conservación, las prioridades institucionales, las necesidades de comunicación y los procesos de toma de decisiones en contextos nacionales y regionales.
+
+## Preguntas orientadoras
+
+- ¿Qué información o productos serían más útiles para las instituciones nacionales y los procesos de planificación de la conservación?
+- ¿Cuáles son las principales barreras para interpretar o aplicar resultados de modelación informados por el clima?
+- ¿Cómo pueden comunicarse mejor los productos científicos a tomadores de decisión y actores clave?
+- ¿Dónde se alinean o difieren las prioridades nacionales a lo largo de la región?
+- ¿Qué oportunidades existen para la coordinación y colaboración regional?
+
+## Áreas de enfoque
+
+- Prioridades regionales
+- Participación de actores
+- Relevancia para políticas y apoyo a decisiones
+- Coordinación entre instituciones
+- Próximos pasos del proyecto y utilidad regional
+
+## Participantes
+
+| Nombre | Rol | Institución |
+|------|------|-------------|
+| <a href="https://example.com" target="_blank">Dylan Glave</a> | Facilitador | CI Moore Center for Science and Solutions |
+| <a href="https://www.researchgate.net/profile/Fausto-Arias-Zumbado" target="_blank">Fausto Arias</a> | Facilitador | CI Costa Rica |
+| <a href="https://example.com" target="_blank">Christian Lavoie</a> | Participante | CI Americas |
+| <a href="https://example.com" target="_blank">Mariana Vera</a> | Participante | CI Ecuador |
+| <a href="https://www.linkedin.com/in/dami%C3%A1n-s-pardo-69b658a7/" target="_blank">Damian Pardo</a> | Participante | CI Colombia |
+| <a href="https://example.com" target="_blank">Cynthia Cespedes</a> | Participante | CI Peru |
+| <a href="https://www.linkedin.com/in/tito-navia-sol%C3%B3rzano-a1b701120/" target="_blank">Tito Navia</a> | Participante | GIZ |
+| <a href="https://cpps-int.org/index.php/actividades-pda-m/60-quienes-somos/organigrama/213-directorio" target="_blank">Leonardo Marriaga</a> | Participante | CPPS |

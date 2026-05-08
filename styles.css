@@ -399,6 +399,35 @@ hr {
   opacity: 0.95;
 }
 
+.lang-switch {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 0.55rem;
+  margin: 0.25rem 0 1rem;
+  font-size: 0.88rem;
+  color: var(--sb5-muted);
+}
+
+.lang-switch a {
+  color: var(--sb5-ocean);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.lang-switch a:hover {
+  text-decoration: underline;
+}
+
+.lang-switch .active-lang {
+  display: inline-block;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  background: rgba(31, 111, 168, 0.1);
+  color: var(--sb5-navy);
+  font-weight: 700;
+}
+
 #quarto-margin-sidebar,
 .quarto-margin-sidebar {
   font-size: 0.9rem;

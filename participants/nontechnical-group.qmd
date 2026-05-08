@@ -6,6 +6,10 @@ format: html
 ::: top-banner
 :::
 
+::: {.lang-switch}
+<span class="active-lang">EN</span> [ES](nontechnical-group_es.qmd)
+:::
+
 ::: text-center
 *Wednesday, June 10, 2026*
 :::

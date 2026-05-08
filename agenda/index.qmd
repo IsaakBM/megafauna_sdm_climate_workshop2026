@@ -1,6 +1,10 @@
 ::: top-banner
 :::
 
+::: {.lang-switch}
+<span class="active-lang">EN</span> [ES](index_es.qmd)
+:::
+
 ---
 title: "General Agenda"
 format: html

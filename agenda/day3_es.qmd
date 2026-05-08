@@ -1,0 +1,111 @@
+---
+title: "Día 3 - De los modelos a las decisiones: articulando ciencia y necesidades regionales"
+lang: es
+format: html
+---
+
+::: top-banner
+:::
+
+::: {.lang-switch}
+[EN](day3.qmd) <span class="active-lang">ES</span>
+:::
+
+::: text-center
+*Miércoles, 10 de junio de 2026*
+:::
+
+## Objetivo
+
+Traducir los avances científicos y de modelación en próximos pasos concretos, alineando el desarrollo técnico con las prioridades regionales y las necesidades de toma de decisiones.
+
+# Sesión 5: Grupos de trabajo - Desarrollo técnico y prioridades regionales (09.00 - 12.30)
+
+::: {.callout-note appearance="simple"}
+Esta sesión se estructura en grupos de trabajo paralelos, reuniendo a los participantes para enfocarse en aspectos complementarios del proyecto y definir prioridades para la siguiente fase. Las discusiones de los grupos serán facilitadas por <a href="https://www.researchgate.net/profile/Fausto-Arias-Zumbado" target="_blank" rel="noopener noreferrer">Fausto Arias</a> y <a href="https://example.com" target="_blank" rel="noopener noreferrer">Dylan Glave</a>.
+
+- **09:00 - 09:30: Introducción y marco de los grupos de trabajo**
+
+    <a href="https://www.researchgate.net/profile/Fausto-Arias-Zumbado" target="_blank" rel="noopener noreferrer">Fausto Arias</a> y <a href="https://example.com" target="_blank" rel="noopener noreferrer">Dylan Glave</a> presentarán los objetivos de los grupos, explicarán la estructura de las discusiones y destacarán las preguntas clave que guiarán la sesión.
+
+- **09:30 - 10:45: Grupos de trabajo paralelos - Desarrollo técnico y prioridades regionales**
+
+    Los participantes se dividirán en dos grupos:
+
+    1. **[Técnico](../participants/technical-group_es.qmd)**  
+       Enfocado en desarrollo de modelos, escenarios climáticos, integración de datos y definición de lo que es realísticamente alcanzable en la siguiente fase del proyecto.
+
+    2. **[Participación de actores y prioridades regionales](../participants/nontechnical-group_es.qmd)**  
+       Enfocado en necesidades regionales, relevancia para políticas, productos esperados y cómo los resultados pueden apoyar la toma de decisiones en distintas instituciones.
+
+    Cada grupo trabajará sobre un conjunto de preguntas orientadoras e identificará prioridades clave, vacíos y próximos pasos.
+
+    Al final de la sesión, cada grupo preparará una breve síntesis de su discusión.
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Pausa para café (10.45 - 11.00)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Sesión 6: Síntesis plenaria - Alineando capacidades técnicas y necesidades regionales (11.00 - 12.00)
+
+::: {.callout-note appearance="simple"}
+Cada grupo presentará una breve síntesis de sus discusiones:
+
+- **[Técnico](../participants/technical-group_es.qmd) - "Lo que podemos hacer"**  
+  Enfoques de modelación viables, escenarios climáticos seleccionados, preparación de datos y principales restricciones.
+
+- **[Participación de actores y prioridades regionales](../participants/nontechnical-group_es.qmd) - "Lo que necesitamos"**  
+  Productos prioritarios, necesidades regionales y expectativas desde una perspectiva de política e implementación.
+
+Esta sesión se centrará en alinear ambas perspectivas:
+
+- ¿Dónde se encuentran las capacidades técnicas con las necesidades de los actores?
+- ¿Cuáles son las principales brechas o desajustes?
+- ¿Qué ajustes se requieren para avanzar de manera efectiva?
+:::
+
+------------------------------------------------------------------------
+
+# Sesión 7: Discusión y acuerdo sobre próximos pasos (12.00 - 12.30)
+
+::: {.callout-note appearance="simple"}
+Esta discusión de cierre se utilizará para identificar las acciones más importantes a seguir, alinear prioridades entre equipos y aclarar entregables de corto plazo. Los participantes aportarán ideas en plenaria y las prioridades se consolidarán y agruparán en temas compartidos.
+
+- **Identificación de acciones prioritarias**  
+  Las ideas se recopilarán y agruparán en temas clave que emerjan de la discusión.
+
+- **Alineación entre equipos y líneas de trabajo**  
+  Los participantes ayudarán a identificar dónde se superponen con mayor claridad las prioridades científicas, técnicas y regionales.
+
+- **Definición de entregables de corto plazo**  
+  La sesión buscará resaltar los próximos pasos más inmediatos y con mayor apoyo compartido.
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Almuerzo (12.30 - 14.30)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+::: {.callout-note appearance="simple"}
+- **14:30 - 17:30**: Actividad al aire libre *(snorkeling o visita a un sitio local)*
+- **Descripción**: Actividad diseñada para fomentar el intercambio informal, fortalecer las conexiones entre participantes y conocer el entorno local. Dependiendo de la logística y de las condiciones climáticas, puede incluir snorkeling o una visita a un sitio de interés cercano.
+:::
+
+------------------------------------------------------------------------
+
+::: {.callout-note appearance="simple"}
+- **19:00 - 21:00**: Cena grupal *(lugar por confirmar)*
+- **Descripción**: Cena fuera de la sede del taller para continuar las conversaciones del día en un ambiente más relajado. También será una oportunidad para compartir reflexiones, fortalecer colaboraciones y celebrar los avances logrados durante el taller.
+:::

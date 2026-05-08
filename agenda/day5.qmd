@@ -6,6 +6,10 @@ format: html
 ::: top-banner
 :::
 
+::: {.lang-switch}
+<span class="active-lang">EN</span> [ES](day5_es.qmd)
+:::
+
 ## Departure
 
 Placeholder agenda for wrap-up and departures.

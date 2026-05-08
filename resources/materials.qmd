@@ -1,6 +1,10 @@
 ::: top-banner
 :::
 
+::: {.lang-switch}
+<span class="active-lang">EN</span> [ES](materials_es.qmd)
+:::
+
 ---
 title: "Workshop Materials"
 format: html

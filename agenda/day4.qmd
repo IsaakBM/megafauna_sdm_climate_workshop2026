@@ -6,6 +6,10 @@ format: html
 ::: top-banner
 :::
 
+::: {.lang-switch}
+<span class="active-lang">EN</span> [ES](day4_es.qmd)
+:::
+
 ::: text-center
 *Thursday, June 11, 2026*
 :::

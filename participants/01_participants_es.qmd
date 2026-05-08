@@ -1,15 +1,21 @@
+---
+title: "Participantes"
+lang: es
+format: html
+---
+
 ::: top-banner
 :::
 
 ::: {.lang-switch}
-<span class="active-lang">EN</span> [ES](01_participants_es.qmd)
+[EN](01_participants.qmd) <span class="active-lang">ES</span>
 :::
 
-# Participants
+# Participantes
 
-Below is the current working participant list for the workshop.
+A continuación se presenta la lista de trabajo actual de participantes del taller.
 
-| Name | Institution |
+| Nombre | Institución |
 |------|-------------|
 | <a href="https://www.linkedin.com/in/crpenaherrera/" target="_blank">César Peñaherrera</a> | MigraMar |
 | <a href="https://www.linkedin.com/in/mario-a-pardo-cicese/" target="_blank">Mario Pardo</a> | CICESE |

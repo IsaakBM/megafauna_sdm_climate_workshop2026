@@ -1,0 +1,52 @@
+---
+title: "Logística"
+lang: es
+format: html
+---
+
+::: top-banner
+:::
+
+::: {.lang-switch}
+[EN](01_logistics.qmd) <span class="active-lang">ES</span>
+:::
+
+# Logística del taller
+
+Esta sección está reservada para detalles del lugar, instrucciones de viaje, transporte local, información de contacto y orientación para participación en línea.
+
+## Ubicación
+
+Isla Santa Cruz, Galápagos
+
+## Fechas
+
+Del 8 al 12 de junio de 2026
+
+## Sede
+
+El taller se llevará a cabo en **Santa Cruz, Galápagos**.
+
+La sede actual es la **Fundación Charles Darwin**, Santa Cruz, Galápagos. Más adelante se compartirán detalles adicionales de acceso e instrucciones para las reuniones.
+
+## Mapa de la sede
+
+El mapa a continuación muestra la ubicación actual de la sede en la isla Santa Cruz. Más adelante se podrán añadir los alojamientos una vez que se confirmen los hoteles.
+
+<div class="map-embed">
+<iframe
+  title="Mapa de la sede del taller"
+  src="https://maps.google.com/maps?q=Charles%20Darwin%20Research%20Station%2C%20Puerto%20Ayora%2C%20Santa%20Cruz%2C%20Gal%C3%A1pagos&z=15&output=embed"
+  width="100%"
+  height="360"
+  style="border:0;"
+  allowfullscreen=""
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+## Nota de viaje
+
+Es posible que los participantes deban pernoctar en el Ecuador continental el **7 de junio de 2026** antes de volar a **Galápagos** el **8 de junio de 2026**, dependiendo de su itinerario de viaje.
+
+Se compartirán por correo electrónico instrucciones adicionales de viaje, detalles de hotel e información sobre transporte local.

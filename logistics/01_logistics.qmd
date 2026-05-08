@@ -1,6 +1,10 @@
 ::: top-banner
 :::
 
+::: {.lang-switch}
+<span class="active-lang">EN</span> [ES](01_logistics_es.qmd)
+:::
+
 # Workshop logistics
 
 This section is reserved for venue details, travel instructions, local transportation, contact information, and online participation guidance.

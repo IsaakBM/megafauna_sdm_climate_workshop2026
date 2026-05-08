@@ -1,0 +1,32 @@
+---
+title: "Día 1 - Llegada"
+lang: es
+format: html
+---
+
+::: top-banner
+:::
+
+::: {.lang-switch}
+[EN](day1.qmd) <span class="active-lang">ES</span>
+:::
+
+::: {.text-center}
+# **Santa Cruz, Galápagos, Ecuador**
+### *8 de junio de 2026*
+:::
+
+::: {.callout-note appearance="simple"}
+- **5:00 - 5:30 pm**  
+  Traslado desde el aeropuerto a **la isla Santa Cruz**  
+  *Transporte coordinado por <a href="https://isaakbm.github.io/" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales</a> y <a href="https://example.com" target="_blank" rel="noopener noreferrer">Dylan Glave</a>*
+
+- **6:00 pm**  
+  Registro en el hotel  
+  *Dependiendo de la asignación de su habitación, por favor revise su correo electrónico para las instrucciones del hotel*  
+  *Dirección: por definir*
+
+- **7:30 - 9:00 pm**  
+  Cena y objetivos del taller  
+  *Lugar: por definir*
+:::

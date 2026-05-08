@@ -1,0 +1,161 @@
+---
+title: "Día 2 - Avances científicos e integración de modelos"
+lang: es
+format: html
+---
+
+::: top-banner
+:::
+
+::: {.lang-switch}
+[EN](day2.qmd) <span class="active-lang">ES</span>
+:::
+
+::: text-center
+*Martes, 9 de junio de 2026*
+:::
+
+## Objetivo
+
+Revisar los avances científicos y de modelación realizados desde el taller de 2025, identificar qué elementos están listos para avanzar, aclarar las brechas e incertidumbres más importantes, y recoger retroalimentación focalizada para fortalecer el trabajo durante el próximo año.
+
+## Objetivo del taller
+
+Fortalecer la base científica del proyecto, ayudando al mismo tiempo a garantizar que sus productos sean pertinentes, aplicables y útiles para la coordinación regional, la planificación de la conservación y la toma de decisiones orientada a políticas.
+
+# Sesión 1: Bienvenida y marco de los avances desde 2025 (09.00 - 10.30)
+
+::: {.callout-note appearance="simple"}
+- **Bienvenida de la Charles Darwin Foundation**  
+  <a href="https://example.com" target="_blank" rel="noopener noreferrer">Rakan Zahawi</a> o <a href="https://example.com" target="_blank" rel="noopener noreferrer">María José Barragán</a>  
+  Breve bienvenida a Galápagos y a las instalaciones anfitrionas.
+
+- **Palabras de apertura**  
+  <a href="https://isaakbm.github.io/" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales</a>, <a href="https://www.conservation.org/experts-list/dr-lee-hannah" target="_blank" rel="noopener noreferrer">Lee Hannah</a>  
+  Breve bienvenida y panorama general de los objetivos y resultados esperados del taller. Los participantes provienen de contextos científicos, técnicos y operativos diversos, y se alienta la discusión abierta y las preguntas desde todos los niveles de experiencia a lo largo de la reunión.
+
+- **Presentación de participantes**  
+  Presentaciones breves para alinear la experiencia de los participantes, sus contribuciones en curso al proyecto y las perspectivas nacionales o regionales relevantes para los temas del taller.
+
+- **Panorama de los avances desde el taller de 2025**
+
+- **Logros clave**  
+  Resumen de los principales hitos alcanzados en datos, modelación y coordinación.
+
+- **Estado actual del proyecto**  
+  Dónde nos encontramos hoy en los distintos componentes de trabajo y colaboraciones.
+
+- **Objetivos del Día 2**  
+  Construir una comprensión compartida de los avances logrados desde el taller de 2025, identificar las brechas científicas y técnicas más importantes y generar retroalimentación focalizada para fortalecer el trabajo durante el próximo año.
+
+- **Marco compartido: proyecciones climáticas, incertidumbre e interpretación**  
+  Breve discusión introductoria para alinear terminología, expectativas e interpretación entre participantes con distintos antecedentes y áreas de experiencia.
+
+  Los temas pueden incluir:
+
+    - Proyecciones climáticas versus predicciones
+    - Interpretación de la incertidumbre
+    - Limitaciones y supuestos asociados con los SDMs
+    - Interpretación y uso apropiado de los resultados de los modelos en la planificación de la conservación
+
+  El objetivo no es ofrecer una capacitación técnica, sino establecer un marco común para las discusiones a lo largo del taller.
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Pausa para café (10.30 - 11.00)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Sesión 2: Avances científicos y de modelación desde 2025 (11.00 - 13.00)
+
+::: {.callout-note appearance="simple"}
+Esta sesión presenta avances clave en evaluación de vulnerabilidad climática, modelación física, conjuntos de datos biológicos y modelación de distribución de especies a lo largo del proyecto. En conjunto, estos componentes ayudan a definir tanto lo que ya se ha logrado como dónde se necesitan mejoras focalizadas para fortalecer la siguiente fase del trabajo.
+
+Mientras escucha, por favor tome nota de qué hallazgos parecen más útiles para la planificación de la conservación, la coordinación regional o la toma de decisiones orientada a políticas, y qué información adicional haría que estos productos fueran más aplicables. Estas reflexiones ayudarán a informar las discusiones de los grupos de trabajo más adelante.
+
+- **Evaluación de vulnerabilidad al cambio climático**  
+  <a href="https://www.conservation.org/experts-list/dr-lee-hannah" target="_blank" rel="noopener noreferrer">Lee Hannah</a>, presentada por <a href="https://example.com" target="_blank" rel="noopener noreferrer">Sarayu Ramnath</a>  
+  Panorama del marco de evaluación, los conjuntos de datos y los resultados iniciales entre taxones.
+
+- **Marco de modelación física y downscaling**  
+  <a href="https://isaakbm.github.io/" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales</a> *(incluyendo resultados de Toulouse 2025)*  
+  Resumen de los conjuntos de datos oceanográficos, los enfoques de downscaling y la integración con los datos biológicos. Los materiales relacionados están disponibles en el <a href="https://github.com/IsaakBM/cesmle-ocn-fetch" target="_blank" rel="noopener noreferrer">repositorio de downscaling oceánico CESM Large Ensemble</a>.
+
+- **Estado de los datos biológicos para la modelación de distribución de especies (SDMs)**  
+  <a href="https://isaakbm.github.io/" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales</a>, <a href="https://example.com" target="_blank" rel="noopener noreferrer">Sarayu Ramnath</a>  
+  Estado actual de los conjuntos de datos compilados, vacíos de información y preparación para la modelación.
+
+- **Avances en modelos de especies**
+
+  Estas actualizaciones presentan resultados preliminares a intermedios y buscan orientar la siguiente fase de mejora de los modelos. Dado el cronograma del proyecto, el objetivo es identificar las mejoras más importantes y realistas para fortalecer los productos finales. Se invita a los participantes a concentrar su retroalimentación en lo más importante de mejorar durante el próximo año.
+
+    1. Delfines - <a href="https://www.linkedin.com/in/mario-a-pardo-cicese/" target="_blank" rel="noopener noreferrer">Mario Pardo</a>, <a href="https://scholar.google.com/citations?user=NE7puCcAAAAJ&hl=es" target="_blank" rel="noopener noreferrer">Ariadna Juarez</a>  
+       Avances en modelos específicos por especie y hallazgos ecológicos.
+    2. Sistemas mesopelágicos - <a href="https://people.miami.edu/profile/4fd08a9092e08f6da5b330184ade8d86" target="_blank" rel="noopener noreferrer">Yulia Egorova</a>  
+       Avances en la modelación de sistemas de media agua e implicaciones para una comprensión más amplia del ecosistema.
+    3. Primera generación de SDMs - <a href="https://isaakbm.github.io/" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales</a>  
+       Presentación de resultados iniciales de los modelos, desempeño y limitaciones.
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Almuerzo (13.00 - 14.30)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Sesión 3: Síntesis entre taxones y sistemas (14.30 - 16.00)
+
+::: {.callout-note appearance="simple"}
+Esta sesión integra hallazgos entre especies, modelos y variables ambientales para construir una perspectiva regional. Comenzará con una breve síntesis de patrones clave e ideas emergentes, seguida de una discusión en grupos pequeños para reflexionar sobre qué es más relevante, qué sigue siendo incierto y cómo podría utilizarse esta información en la práctica.
+
+- **Patrones entre taxones e ideas emergentes**  
+  Identificación de patrones compartidos entre especies y grupos funcionales.
+
+- **Principales impulsores ambientales y uso del hábitat**  
+  Discusión de los principales impulsores físicos y biogeoquímicos que configuran las distribuciones.
+
+- **Integración de procesos biológicos y físicos**  
+  Vinculación de las respuestas de las especies con la estructura y variabilidad oceanográfica.
+
+- **Discusión**
+
+    - ¿Qué estamos aprendiendo a escala regional?
+    - ¿Cuáles son las principales brechas o incertidumbres?
+    - ¿Qué hallazgos parecen más relevantes para la conservación, la planificación o la coordinación regional?
+    - ¿Qué estamos infiriendo o entendiendo actualmente sobre la vulnerabilidad de la megafauna y las necesidades de conservación a escalas nacionales, y cómo se conectan estas perspectivas a nivel regional?
+:::
+
+------------------------------------------------------------------------
+
+:::: text-center
+::: section-small
+*Pausa para café (16.00 - 16.30)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Sesión 4: Discusión estratégica y próximos pasos (16.30 - 17.00)
+
+::: {.callout-note appearance="simple"}
+- **Brechas prioritarias a abordar**  
+  Principales limitaciones de datos y modelación que requieren atención inmediata.
+
+- **Acciones de corto plazo y próximos pasos**  
+  Pasos concretos para avanzar los análisis antes del siguiente hito.
+
+- **Alineación entre equipos y líneas de trabajo**  
+  Asegurar la coordinación entre taxones, modelos y esfuerzos regionales.
+
+- **Preparación para los próximos hitos del proyecto**  
+  Posicionar los productos para alimentar futuras proyecciones y procesos de toma de decisiones.
+:::

@@ -1,0 +1,43 @@
+---
+title: "Agenda general"
+lang: es
+format: html
+---
+
+::: top-banner
+:::
+
+::: {.lang-switch}
+[EN](index.qmd) <span class="active-lang">ES</span>
+:::
+
+## [Día 1 - Llegada](day1_es.qmd)
+
+- Llegada a Santa Cruz, Galápagos
+- Traslado desde el aeropuerto y registro en el hotel
+- Cena y objetivos del taller
+
+## [Día 2 - Avances científicos e integración de modelos](day2_es.qmd)
+
+- **Sesión 1**: Bienvenida y marco de los avances desde 2025
+- **Sesión 2**: Avances científicos y de modelación desde 2025
+- **Sesión 3**: Síntesis entre taxones y sistemas
+- **Sesión 4**: Discusión estratégica y próximos pasos
+
+## [Día 3 - De los modelos a las decisiones: articulando ciencia y necesidades regionales](day3_es.qmd)
+
+- **Sesión 5**: Grupos de trabajo - Desarrollo técnico y prioridades regionales
+- **Sesión 6**: Síntesis plenaria - Alineando capacidades técnicas y necesidades regionales
+- **Sesión 7**: Discusión y acuerdo sobre próximos pasos
+- Actividad social en la tarde y cena grupal en la noche
+
+## [Día 4 - Ciencia aplicada, síntesis y próximos pasos](day4_es.qmd)
+
+- **Sesión 8**: Síntesis de hallazgos clave y perspectivas aplicadas
+- **Sesión 9**: Definición de productos y próximos pasos
+- **Sesión 10**: Hoja de ruta y coordinación
+- Discusión final, cierre y cena grupal
+
+## [Día 5 - Salida](day5_es.qmd)
+
+- Salida desde Santa Cruz, Galápagos

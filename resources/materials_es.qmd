@@ -1,0 +1,52 @@
+---
+title: "Materiales del Taller"
+lang: es
+format: html
+---
+
+::: top-banner
+:::
+
+::: {.lang-switch}
+[EN](materials.qmd) <span class="active-lang">ES</span>
+:::
+
+::: {.text-center}
+# 📁 Materiales del Taller
+:::
+
+::: {.callout-note appearance="simple"}
+Esta sección contiene documentos clave, presentaciones y materiales de referencia compartidos relacionados con el taller.
+:::
+
+## 📄 Documentos
+
+- 📎 [Agenda del taller (PDF)](workshop-agenda.pdf)
+- 📎 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Resumen del proyecto Save the Blue Five (PDF)</a>
+- 📎 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Presentación general del taller (PDF)</a>
+
+------------------------------------------------------------------------
+
+## 🧰 Recursos técnicos
+
+- 🔗 <a href="https://github.com/IsaakBM/cesmle-ocn-fetch" target="_blank" rel="noopener noreferrer">Flujo de trabajo de downscaling oceánico del CESM Large Ensemble</a>  
+  Flujo de trabajo y notas relacionadas con la extracción de variables oceánicas, el manejo de modelos climáticos y la preparación orientada al downscaling, relevantes para las discusiones de modelación física del taller.
+
+------------------------------------------------------------------------
+
+## 🎤 Presentaciones
+
+- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales - Avances del proyecto e integración general</a>
+- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Lee Hannah / Sarayu Ramnath - Evaluación de vulnerabilidad al cambio climático</a>
+- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Mario Pardo / Ariadna Juarez - Delfines</a>
+- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Yulia Egorova - Sistemas mesopelágicos</a>
+- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Sebastien Villon - Modelación física y contexto regional</a>
+- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Shaleyla Kelez - Tortugas marinas</a>
+- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Gabriel Vianna - Tiburones y rayas</a>
+- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Frank Garita - Mamíferos marinos</a>
+
+------------------------------------------------------------------------
+
+### 📥 ¿Busca algo más?
+
+Los participantes pueden seguir compartiendo presentaciones y documentos para su inclusión en esta sección. Para añadir más archivos, por favor contacte a **[Isaac Brito-Morales](mailto:ibrito@conservation.org)**.

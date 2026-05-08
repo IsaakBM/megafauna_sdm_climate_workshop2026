@@ -1,0 +1,16 @@
+---
+title: "Día 5 - Salida"
+lang: es
+format: html
+---
+
+::: top-banner
+:::
+
+::: {.lang-switch}
+[EN](day5.qmd) <span class="active-lang">ES</span>
+:::
+
+## Salida
+
+Agenda provisional para cierre y salidas.
