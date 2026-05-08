@@ -341,6 +341,15 @@ ul.task-list li input[type="checkbox"] {
 </main> <!-- /main -->
 <script>
 document.addEventListener("DOMContentLoaded", () => {
+  document
+    .querySelectorAll(".quarto-secondary-nav .quarto-page-breadcrumbs")
+    .forEach((nav) => {
+      const items = nav.querySelectorAll(".breadcrumb > .breadcrumb-item");
+      if (items.length === 1) {
+        nav.remove();
+      }
+    });
+
   if (document.documentElement.lang !== "es") return;
 
   const header = document.querySelector("#title-block-header.quarto-title-block");
