@@ -2,6 +2,7 @@
 title: "Agenda general"
 lang: es
 format: html
+body-classes: es-overview-page
 ---
 
 ::: top-banner
