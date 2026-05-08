@@ -32,10 +32,6 @@ body {
   line-height: 1.65;
 }
 
-html[lang="es"] #title-block-header.quarto-title-block {
-  display: none;
-}
-
 a {
   color: var(--sb5-ocean);
   text-decoration: none;
@@ -432,43 +428,9 @@ hr {
   font-weight: 700;
 }
 
-.page-crumbs {
-  margin: 0.2rem 0 0.65rem;
-  font-size: 0.95rem;
-  color: var(--sb5-muted);
-}
-
-.page-crumbs a {
-  color: var(--sb5-ocean);
-  text-decoration: none;
-}
-
-.page-crumbs a:hover {
-  text-decoration: underline;
-}
-
 .spanish-hero-title {
   font-size: clamp(2.55rem, 7.2vw, 5rem) !important;
   line-height: 1.08 !important;
-}
-
-html[lang="es"] main.content > h1:first-of-type {
-  margin-top: 0.2rem;
-  margin-bottom: 0.35rem;
-}
-
-html[lang="es"] .page-crumbs + h1 {
-  margin-top: 0.15rem;
-  margin-bottom: 0.2rem;
-}
-
-html[lang="es"] .page-crumbs + h1 + .lang-switch {
-  margin-top: 0.05rem;
-  margin-bottom: 0.45rem;
-}
-
-html[lang="es"] .lang-switch + .text-center {
-  margin-top: 0;
 }
 
 #quarto-margin-sidebar,
