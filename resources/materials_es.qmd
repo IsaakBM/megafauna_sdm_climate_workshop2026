@@ -1,4 +1,5 @@
 ---
+title: "Materiales del Taller"
 lang: es
 format: html
 ---
@@ -8,10 +9,6 @@ format: html
 
 ::: {.lang-switch}
 [EN](materials.qmd) <span class="active-lang">ES</span>
-:::
-
-::: {.text-center}
-# 📁 Materiales del Taller
 :::
 
 ::: {.callout-note appearance="simple"}

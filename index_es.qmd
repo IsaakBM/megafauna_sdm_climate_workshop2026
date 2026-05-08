@@ -12,7 +12,7 @@ format: html
 
 ::: {.front-landing}
 ::: {.front-hero-title .spanish-hero-title}
-<span class="hero-line">Megafauna Marina</span><span class="hero-line">y Modelación Climática</span><span class="hero-line">Taller</span>
+<span class="hero-line">Taller de Megafauna Marina</span><span class="hero-line">y Modelación Climática</span>
 :::
 
 ::: {.front-subtitle}

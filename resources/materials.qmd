@@ -10,10 +10,6 @@ title: "Workshop Materials"
 format: html
 ---
 
-::: {.text-center}
-# 📁 Workshop Materials
-:::
-
 ::: {.callout-note appearance="simple"}
 This section contains key documents, presentations, and shared reference materials related to the workshop.
 :::
