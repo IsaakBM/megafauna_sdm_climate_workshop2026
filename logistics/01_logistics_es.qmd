@@ -1,5 +1,4 @@
 ---
-title: "Logística"
 lang: es
 format: html
 ---

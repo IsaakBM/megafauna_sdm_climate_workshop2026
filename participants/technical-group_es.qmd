@@ -11,6 +11,10 @@ format: html
 [EN](technical-group.qmd) <span class="active-lang">ES</span>
 :::
 
+::: {.page-crumbs}
+[Participantes](01_participants_es.qmd) > Técnico
+:::
+
 ::: text-center
 *Miércoles, 10 de junio de 2026*
 :::

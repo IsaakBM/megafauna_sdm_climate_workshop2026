@@ -11,6 +11,10 @@ format: html
 [EN](day1.qmd) <span class="active-lang">ES</span>
 :::
 
+::: {.page-crumbs}
+[Agenda](index_es.qmd) > Día 1 - Llegada
+:::
+
 ::: {.text-center}
 # **Santa Cruz, Galápagos, Ecuador**
 ### *8 de junio de 2026*

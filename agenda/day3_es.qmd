@@ -11,6 +11,10 @@ format: html
 [EN](day3.qmd) <span class="active-lang">ES</span>
 :::
 
+::: {.page-crumbs}
+[Agenda](index_es.qmd) > Día 3 - De los modelos a las decisiones
+:::
+
 ::: text-center
 *Miércoles, 10 de junio de 2026*
 :::

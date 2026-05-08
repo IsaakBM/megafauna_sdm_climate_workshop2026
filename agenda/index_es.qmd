@@ -11,6 +11,10 @@ format: html
 [EN](index.qmd) <span class="active-lang">ES</span>
 :::
 
+::: {.page-crumbs}
+[Agenda](index.qmd) > Agenda general
+:::
+
 ## [Día 1 - Llegada](day1_es.qmd)
 
 - Llegada a Santa Cruz, Galápagos

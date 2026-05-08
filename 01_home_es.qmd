@@ -1,5 +1,4 @@
 ---
-title: "Inicio"
 lang: es
 format: html
 ---
@@ -12,8 +11,8 @@ format: html
 :::
 
 ::: {.home-hero}
-::: {.home-hero-title}
-<span class="hero-line">Megafauna Marina</span><span class="hero-line">y Modelación del Cambio Climático</span><span class="hero-line">Taller</span>
+::: {.home-hero-title .spanish-hero-title}
+<span class="hero-line">Megafauna Marina</span><span class="hero-line">y Modelación Climática</span><span class="hero-line">Taller</span>
 :::
 
 ::: {.home-subtitle}

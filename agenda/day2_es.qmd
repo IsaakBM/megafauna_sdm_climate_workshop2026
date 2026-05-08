@@ -11,6 +11,10 @@ format: html
 [EN](day2.qmd) <span class="active-lang">ES</span>
 :::
 
+::: {.page-crumbs}
+[Agenda](index_es.qmd) > Día 2 - Avances científicos e integración de modelos
+:::
+
 ::: text-center
 *Martes, 9 de junio de 2026*
 :::

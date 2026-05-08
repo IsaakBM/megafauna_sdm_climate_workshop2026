@@ -11,6 +11,10 @@ format: html
 [EN](day4.qmd) <span class="active-lang">ES</span>
 :::
 
+::: {.page-crumbs}
+[Agenda](index_es.qmd) > Día 4 - Ciencia aplicada, síntesis y próximos pasos
+:::
+
 ::: text-center
 *Jueves, 11 de junio de 2026*
 :::

@@ -428,6 +428,26 @@ hr {
   font-weight: 700;
 }
 
+.page-crumbs {
+  margin: 0.2rem 0 1rem;
+  font-size: 0.95rem;
+  color: var(--sb5-muted);
+}
+
+.page-crumbs a {
+  color: var(--sb5-ocean);
+  text-decoration: none;
+}
+
+.page-crumbs a:hover {
+  text-decoration: underline;
+}
+
+.spanish-hero-title {
+  font-size: clamp(2.55rem, 7.2vw, 5rem) !important;
+  line-height: 1.08 !important;
+}
+
 #quarto-margin-sidebar,
 .quarto-margin-sidebar {
   font-size: 0.9rem;
