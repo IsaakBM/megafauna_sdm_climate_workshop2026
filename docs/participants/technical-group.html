@@ -354,6 +354,67 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  if (document.documentElement.lang !== "es") return;
+
+  const header = document.querySelector("#title-block-header.quarto-title-block");
+  const title = header?.querySelector(".title");
+  if (!header || !title) return;
+  if (header.querySelector(".quarto-title-breadcrumbs")) return;
+
+  const path = window.location.pathname;
+  const currentTitle = title.textContent.trim();
+
+  const makeLink = (href, text) => {
+    const a = document.createElement("a");
+    a.href = href;
+    a.textContent = text;
+    return a;
+  };
+
+  const nav = document.createElement("nav");
+  nav.className = "quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block";
+  nav.setAttribute("aria-label", "breadcrumb");
+
+  const ol = document.createElement("ol");
+  ol.className = "breadcrumb";
+
+  const parentMap = [
+    {
+      test: /\/agenda\/day[1-5]_es\.html$/,
+      href: "../agenda/index_es.html",
+      text: "Agenda"
+    },
+    {
+      test: /\/participants\/technical-group_es\.html$/,
+      href: "../participants/technical-group_es.html",
+      text: "Grupos de trabajo"
+    },
+    {
+      test: /\/participants\/nontechnical-group_es\.html$/,
+      href: "../participants/technical-group_es.html",
+      text: "Grupos de trabajo"
+    }
+  ];
+
+  const matchedParent = parentMap.find((entry) => entry.test.test(path));
+  if (matchedParent) {
+    const parentLi = document.createElement("li");
+    parentLi.className = "breadcrumb-item";
+    parentLi.appendChild(makeLink(matchedParent.href, matchedParent.text));
+    ol.appendChild(parentLi);
+  }
+
+  const currentLi = document.createElement("li");
+  currentLi.className = "breadcrumb-item";
+  currentLi.textContent = currentTitle;
+  ol.appendChild(currentLi);
+
+  nav.appendChild(ol);
+  header.prepend(nav);
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

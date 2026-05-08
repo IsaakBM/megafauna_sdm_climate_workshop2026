@@ -44,6 +44,7 @@ format:
   html:
     theme: flatly
     css: styles.css
+    include-after-body: scripts/es-breadcrumbs.html
     toc: true
     page-layout: article
     grid:
