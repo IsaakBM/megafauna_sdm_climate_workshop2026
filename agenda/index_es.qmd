@@ -15,6 +15,8 @@ format: html
 [Agenda](index.qmd) > Agenda general
 :::
 
+# Agenda general
+
 ## [Día 1 - Llegada](day1_es.qmd)
 
 - Llegada a Santa Cruz, Galápagos

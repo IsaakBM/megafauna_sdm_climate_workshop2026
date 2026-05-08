@@ -25,7 +25,7 @@
     "href": "participants/technical-group_es.html",
     "title": "Técnico",
     "section": "",
-    "text": "Este grupo de trabajo reúne a modeladores, expertos taxonómicos y participantes que contribuyen a las dimensiones técnicas del taller."
+    "text": "# Técnico\nEste grupo de trabajo reúne a modeladores, expertos taxonómicos y participantes que contribuyen a las dimensiones técnicas del taller."
   },
   {
     "objectID": "participants/technical-group_es.html#enfoque-de-la-discusión",
@@ -60,7 +60,7 @@
     "href": "participants/nontechnical-group_es.html",
     "title": "Participación de actores y prioridades regionales",
     "section": "",
-    "text": "Este grupo de trabajo está diseñado para participantes enfocados en la relevancia para políticas, la coordinación regional y el uso práctico de los productos del taller."
+    "text": "# Participación de actores y prioridades regionales\nEste grupo de trabajo está diseñado para participantes enfocados en la relevancia para políticas, la coordinación regional y el uso práctico de los productos del taller."
   },
   {
     "objectID": "participants/nontechnical-group_es.html#enfoque-de-la-discusión",
@@ -175,11 +175,25 @@
     "text": "Día 5 - Salida\n\nSalida desde Santa Cruz, Galápagos"
   },
   {
+    "objectID": "agenda/day5_es.html",
+    "href": "agenda/day5_es.html",
+    "title": "Día 5 - Salida",
+    "section": "",
+    "text": "# Día 5 - Salida"
+  },
+  {
     "objectID": "agenda/day5_es.html#salida",
     "href": "agenda/day5_es.html#salida",
     "title": "Día 5 - Salida",
     "section": "Salida",
     "text": "Salida\nAgenda provisional para cierre y salidas."
+  },
+  {
+    "objectID": "agenda/day4_es.html",
+    "href": "agenda/day4_es.html",
+    "title": "Día 4 - Ciencia aplicada, síntesis y próximos pasos",
+    "section": "",
+    "text": "# Día 4 - Ciencia aplicada, síntesis y próximos pasos"
   },
   {
     "objectID": "agenda/day4_es.html#objetivo",
@@ -189,11 +203,25 @@
     "text": "Objetivo\nReunir los principales resultados del taller, traducirlos en productos concretos y definir una ruta clara para la colaboración y el impacto regional."
   },
   {
+    "objectID": "agenda/day3_es.html",
+    "href": "agenda/day3_es.html",
+    "title": "Día 3 - De los modelos a las decisiones: articulando ciencia y necesidades regionales",
+    "section": "",
+    "text": "# Día 3 - De los modelos a las decisiones: articulando ciencia y necesidades regionales"
+  },
+  {
     "objectID": "agenda/day3_es.html#objetivo",
     "href": "agenda/day3_es.html#objetivo",
     "title": "Día 3 - De los modelos a las decisiones: articulando ciencia y necesidades regionales",
     "section": "Objetivo",
     "text": "Objetivo\nTraducir los avances científicos y de modelación en próximos pasos concretos, alineando el desarrollo técnico con las prioridades regionales y las necesidades de toma de decisiones."
+  },
+  {
+    "objectID": "agenda/day2_es.html",
+    "href": "agenda/day2_es.html",
+    "title": "Día 2 - Avances científicos e integración de modelos",
+    "section": "",
+    "text": "# Día 2 - Avances científicos e integración de modelos"
   },
   {
     "objectID": "agenda/day2_es.html#objetivo",
@@ -214,7 +242,7 @@
     "href": "agenda/day1_es.html",
     "title": "Día 1 - Llegada",
     "section": "",
-    "text": "EN ES\n\n\nAgenda &gt; Día 1 - Llegada\n\n\nSanta Cruz, Galápagos, Ecuador\n\n8 de junio de 2026\n\n\n\n\n\n\n\n\n\n5:00 - 5:30 pm\nTraslado desde el aeropuerto a la isla Santa Cruz\nTransporte coordinado por Isaac Brito-Morales y Dylan Glave\n6:00 pm\nRegistro en el hotel\nDependiendo de la asignación de su habitación, por favor revise su correo electrónico para las instrucciones del hotel\nDirección: por definir\n7:30 - 9:00 pm\nCena y objetivos del taller\nLugar: por definir"
+    "text": "Agenda &gt; Día 1 - Llegada\n\n# Día 1 - Llegada\n\nEN ES\n\n\nSanta Cruz, Galápagos, Ecuador\n\n8 de junio de 2026\n\n\n\n\n\n\n\n\n\n5:00 - 5:30 pm\nTraslado desde el aeropuerto a la isla Santa Cruz\nTransporte coordinado por Isaac Brito-Morales y Dylan Glave\n6:00 pm\nRegistro en el hotel\nDependiendo de la asignación de su habitación, por favor revise su correo electrónico para las instrucciones del hotel\nDirección: por definir\n7:30 - 9:00 pm\nCena y objetivos del taller\nLugar: por definir"
   },
   {
     "objectID": "01_home_es.html#descripción-general-del-taller",

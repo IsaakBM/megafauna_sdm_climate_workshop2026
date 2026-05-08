@@ -32,6 +32,10 @@ body {
   line-height: 1.65;
 }
 
+html[lang="es"] #title-block-header.quarto-title-block {
+  display: none;
+}
+
 a {
   color: var(--sb5-ocean);
   text-decoration: none;

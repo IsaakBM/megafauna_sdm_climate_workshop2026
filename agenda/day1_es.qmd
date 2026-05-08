@@ -7,12 +7,14 @@ format: html
 ::: top-banner
 :::
 
-::: {.lang-switch}
-[EN](day1.qmd) <span class="active-lang">ES</span>
-:::
-
 ::: {.page-crumbs}
 [Agenda](index_es.qmd) > Día 1 - Llegada
+:::
+
+ # Día 1 - Llegada
+
+::: {.lang-switch}
+[EN](day1.qmd) <span class="active-lang">ES</span>
 :::
 
 ::: {.text-center}

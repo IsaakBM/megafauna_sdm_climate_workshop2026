@@ -7,12 +7,14 @@ format: html
 ::: top-banner
 :::
 
-::: {.lang-switch}
-[EN](technical-group.qmd) <span class="active-lang">ES</span>
-:::
-
 ::: {.page-crumbs}
 [Participantes](01_participants_es.qmd) > Técnico
+:::
+
+ # Técnico
+
+::: {.lang-switch}
+[EN](technical-group.qmd) <span class="active-lang">ES</span>
 :::
 
 ::: text-center

@@ -7,12 +7,14 @@ format: html
 ::: top-banner
 :::
 
-::: {.lang-switch}
-[EN](day2.qmd) <span class="active-lang">ES</span>
-:::
-
 ::: {.page-crumbs}
 [Agenda](index_es.qmd) > Día 2 - Avances científicos e integración de modelos
+:::
+
+ # Día 2 - Avances científicos e integración de modelos
+
+::: {.lang-switch}
+[EN](day2.qmd) <span class="active-lang">ES</span>
 :::
 
 ::: text-center
