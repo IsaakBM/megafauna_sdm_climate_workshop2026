@@ -428,6 +428,10 @@ hr {
   font-weight: 700;
 }
 
+.quarto-secondary-nav:has(.breadcrumb > .breadcrumb-item:only-child) .quarto-page-breadcrumbs {
+  display: none;
+}
+
 .spanish-hero-title {
   font-size: clamp(2.55rem, 7.2vw, 5rem) !important;
   line-height: 1.08 !important;
