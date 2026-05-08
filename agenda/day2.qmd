@@ -126,6 +126,7 @@ This session integrates insights across species, models, and environmental drive
     - What are we learning at the regional scale?
     - What are the main knowledge gaps or uncertainties?
     - Which findings seem most relevant for conservation, planning, or regional coordination?
+    - What are we currently inferring or understanding about megafauna vulnerability and conservation needs at national scales, and how do these perspectives connect regionally?
 :::
 
 ------------------------------------------------------------------------

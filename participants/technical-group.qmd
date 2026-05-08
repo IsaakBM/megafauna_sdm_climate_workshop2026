@@ -7,11 +7,11 @@ format: html
 :::
 
 ::: text-center
-*Tuesday, June 9, 2026*
+*Wednesday, June 10, 2026*
 :::
 
 ::: text-center
-*1:30 pm*
+*9:30 am*
 :::
 
 ::: text-center
@@ -35,6 +35,18 @@ This working group brings together modelers, taxonomic experts, and participants
 | <a href="https://www.linkedin.com/in/frank-garita-05321072/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Frank Garita</a> | Participant | Panacetacea |
 | <a href="https://www.darwinfoundation.org/es/conocenos/our-people2/meet-our-team/gabriel-vianna/" target="_blank">Gabriel Vianna</a> | Participant | Charles Darwin Foundation |
 | <a href="https://www.conservation.org/experts-list/dr-lee-hannah" target="_blank">Lee Hannah</a> | Participant | CI Moore Center for Science and Solutions |
+
+## Discussion focus
+
+This group will focus on technical and methodological aspects of climate-informed megafauna modeling, including environmental predictors, uncertainty, interpretation of outputs, data integration, national datasets and expertise, model limitations, and identification of scientific and technical gaps relevant for future analyses.
+
+## Guiding questions
+
+- What are the main scientific and technical uncertainties currently limiting interpretation?
+- What national datasets or expertise could strengthen future analyses?
+- What assumptions and limitations should be considered when interpreting outputs?
+- Which outputs are currently robust enough to support broader conservation discussions?
+
 ## Focus areas
 
 - Species distribution models

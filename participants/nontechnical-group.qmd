@@ -7,11 +7,11 @@ format: html
 :::
 
 ::: text-center
-*Tuesday, June 9, 2026*
+*Wednesday, June 10, 2026*
 :::
 
 ::: text-center
-*1:30 pm*
+*9:30 am*
 :::
 
 ::: text-center
@@ -32,6 +32,18 @@ This working group is designed for participants focused on policy relevance, reg
 | <a href="https://example.com" target="_blank">Cynthia Cespedes</a> | Participant | CI Peru |
 | <a href="https://www.linkedin.com/in/tito-navia-sol%C3%B3rzano-a1b701120/" target="_blank">Tito Navia</a> | Participant | GIZ |
 | <a href="https://cpps-int.org/index.php/actividades-pda-m/60-quienes-somos/organigrama/213-directorio" target="_blank">Leonardo Marriaga</a> | Participant | CPPS |
+
+## Discussion focus
+
+This group will discuss how workshop outputs and climate-informed modeling approaches can support conservation planning, institutional priorities, communication needs, and decision-making processes across national and regional contexts.
+
+## Guiding questions
+
+- What information or products would be most useful for national institutions and conservation planning processes?
+- What are the main barriers for interpreting or applying climate-informed modeling outputs?
+- How can scientific outputs be communicated more effectively to decision-makers and stakeholders?
+- Where do national priorities align or differ across the region?
+- What opportunities exist for regional coordination and collaboration?
 
 ## Focus areas
 
