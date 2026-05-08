@@ -422,6 +422,8 @@ The session will aim to highlight the most immediate and broadly supported next 
   ];
 
   const matchedParent = parentMap.find((entry) => entry.test.test(path));
+  if (!matchedParent) return;
+
   if (matchedParent) {
     const parentLi = document.createElement("li");
     parentLi.className = "breadcrumb-item";

@@ -449,6 +449,8 @@ Una hoja de ruta simple y compartida para la siguiente fase del proyecto.</p></l
   ];
 
   const matchedParent = parentMap.find((entry) => entry.test.test(path));
+  if (!matchedParent) return;
+
   if (matchedParent) {
     const parentLi = document.createElement("li");
     parentLi.className = "breadcrumb-item";
