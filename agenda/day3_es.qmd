@@ -64,13 +64,11 @@ Cada grupo presentará una breve síntesis de sus discusiones:
 - **[Participación de actores y prioridades regionales](../participants/nontechnical-group_es.qmd) - "Lo que necesitamos"**  
   Productos prioritarios, necesidades regionales y expectativas desde una perspectiva de política e implementación.
 
-- **Formato**
-
-    - **Insumos de los grupos**: grupo [Técnico](../participants/technical-group_es.qmd) y grupo de [Participación de actores y prioridades regionales](../participants/nontechnical-group_es.qmd)
-    - **Moderador**: <a href="https://www.researchgate.net/profile/Fausto-Arias-Zumbado" target="_blank" rel="noopener noreferrer">Fausto Arias</a>
-    - **Panel de política y prioridades regionales**: <a href="https://www.linkedin.com/in/tito-navia-sol%C3%B3rzano-a1b701120/" target="_blank" rel="noopener noreferrer">Tito Navia</a>, GIZ; <a href="https://cpps-int.org/index.php/actividades-pda-m/60-quienes-somos/organigrama/213-directorio" target="_blank" rel="noopener noreferrer">Leonardo Marriaga</a>, CPPS
-
 Después de las presentaciones de los grupos, el moderador y el panel de política y prioridades regionales ayudarán a alinear ambas perspectivas:
+
+- **Insumos de los grupos**: grupos [Técnico](../participants/technical-group_es.qmd) y de [Participación de actores](../participants/nontechnical-group_es.qmd)
+- **Moderador**: <a href="https://www.researchgate.net/profile/Fausto-Arias-Zumbado" target="_blank" rel="noopener noreferrer">Fausto Arias</a>
+- **Panel de política y prioridades regionales**: <a href="https://www.linkedin.com/in/tito-navia-sol%C3%B3rzano-a1b701120/" target="_blank" rel="noopener noreferrer">Tito Navia</a>, GIZ; <a href="https://cpps-int.org/index.php/actividades-pda-m/60-quienes-somos/organigrama/213-directorio" target="_blank" rel="noopener noreferrer">Leonardo Marriaga</a>, CPPS
 
 - ¿Dónde se encuentran las capacidades técnicas con las necesidades de los actores y de política?
 - ¿Cuáles son las principales brechas o desajustes?
