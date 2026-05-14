@@ -1,5 +1,5 @@
 ---
-title: "Día 4 - Ciencia aplicada, síntesis y próximos pasos"
+title: "Día 3 - Ciencia aplicada, síntesis y próximos pasos"
 lang: es
 format: html
 ---
@@ -22,7 +22,7 @@ Reunir los principales resultados del taller, traducirlos en productos concretos
 # Sesión 8: Síntesis de hallazgos clave y perspectivas aplicadas (09.00 - 10.30)
 
 ::: {.callout-note appearance="simple"}
-- **Enfoque**: Esta sesión conecta el trabajo científico y de modelación del Día 2 con las discusiones de alineación del Día 3, con énfasis en cómo estos resultados pueden informar la conservación y la planificación regional.
+- **Enfoque**: Esta sesión conecta el trabajo científico y de modelación del Día 1 con las discusiones de alineación del Día 2, con énfasis en cómo estos resultados pueden informar la conservación y la planificación regional.
 
 - **Temas de discusión**
 

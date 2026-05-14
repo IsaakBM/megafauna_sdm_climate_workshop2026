@@ -1,5 +1,5 @@
 ---
-title: "Día 1 - Llegada"
+title: "Llegada"
 lang: es
 format: html
 ---

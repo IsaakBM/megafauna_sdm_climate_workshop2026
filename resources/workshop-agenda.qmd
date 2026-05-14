@@ -10,7 +10,7 @@ format:
 
 Save the Blue Five | Santa Cruz, Galápagos | June 8-12, 2026
 
-# Day 1 - Arrival
+# Arrival
 
 Santa Cruz, Galápagos, Ecuador  
 June 8, 2026
@@ -19,7 +19,7 @@ June 8, 2026
 - 6:00 pm: Hotel check-in. Depending on your room assignment, please check your email for hotel instructions. Address: TBD.
 - 7:30 - 9:00 pm: Dinner and workshop objectives. Location: TBD.
 
-# Day 2 - Scientific Progress and Modeling Integration
+# Day 1 - Scientific Progress and Modeling Integration
 
 Tuesday, June 9, 2026
 
@@ -37,7 +37,7 @@ Review the scientific and modeling progress made since the 2025 workshop, identi
 - Overview of progress since the 2025 workshop.
 - Key achievements. Summary of major milestones reached across data, modeling, and coordination efforts.
 - Current status of the project. Where we stand today across workstreams and collaborations.
-- Goals for Day 2. Build a shared understanding of the progress made since the 2025 workshop, identify the most important scientific and technical gaps, and generate focused feedback to strengthen the work over the coming year.
+- Goals for Day 1. Build a shared understanding of the progress made since the 2025 workshop, identify the most important scientific and technical gaps, and generate focused feedback to strengthen the work over the coming year.
 - Goals for the workshop. Strengthen the scientific foundation of the project while helping ensure that its outputs are relevant, actionable, and useful for regional coordination, conservation planning, and policy-oriented decision-making.
 
 Coffee break: 10.30 - 11.00
@@ -79,7 +79,7 @@ Coffee break: 16.00 - 16.30
 - Alignment across teams and workstreams.
 - Preparation for upcoming project milestones.
 
-# Day 3 - From Models to Decisions: Bridging Science and Regional Needs
+# Day 2 - From Models to Decisions: Bridging Science and Regional Needs
 
 Wednesday, June 10, 2026
 
@@ -123,7 +123,7 @@ Lunch break: 12.30 - 14.30
 - 14:30 - 17:30: Outdoor activity, snorkeling or local site visit. Designed to encourage informal exchange, strengthen connections among participants, and experience the local environment.
 - 19:00 - 21:00: Group dinner, location to be confirmed.
 
-# Day 4 - Applied Science, Synthesis, and Next Steps
+# Day 3 - Applied Science, Synthesis, and Next Steps
 
 Thursday, June 11, 2026
 
@@ -135,7 +135,7 @@ Bring together the main outcomes from the workshop, translate them into concrete
 
 09.00 - 10.30
 
-- Focus: connect the scientific and modeling work from Day 2 with the alignment discussions from Day 3, with a focus on how these results can inform conservation and regional planning.
+- Focus: connect the scientific and modeling work from Day 1 with the alignment discussions from Day 2, with a focus on how these results can inform conservation and regional planning.
 - Discussion topics: from modeling to application; relevance for regional planning; handling uncertainty; cross-taxa insights; regional coordination.
 - Expected outcome: a shared view of how workshop results translate into applied conservation and regional priorities.
 
@@ -171,6 +171,6 @@ Lunch break: 12.30 - 14.00
 - Closing remarks by [Isaac Brito-Morales](https://isaakbm.github.io/), [Lee Hannah](https://www.conservation.org/experts-list/dr-lee-hannah), and the CI team.
 - Evening: group dinner.
 
-# Day 5 - Departure
+# Departure
 
 Departure and travel arrangements.

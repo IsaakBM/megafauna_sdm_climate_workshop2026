@@ -1,5 +1,5 @@
 ---
-title: "Day 2 - Scientific Progress and Modeling Integration"
+title: "Day 1 - Scientific Progress and Modeling Integration"
 format: html
 ---
 
@@ -44,7 +44,7 @@ Strengthen the scientific foundation of the project while helping ensure that it
 - **Current status of the project**  
   Where we stand today across workstreams and collaborations.
 
-- **Goals for Day 2**  
+- **Goals for Day 1**  
   Build a shared understanding of the progress made since the 2025 workshop, identify the most important scientific and technical gaps, and generate focused feedback to strengthen the work over the coming year.
 
 - **Shared framing: climate projections, uncertainty, and interpretation**  

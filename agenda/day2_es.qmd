@@ -1,5 +1,5 @@
 ---
-title: "Día 2 - Avances científicos e integración de modelos"
+title: "Día 1 - Avances científicos e integración de modelación"
 lang: es
 format: html
 ---
@@ -45,7 +45,7 @@ Fortalecer la base científica del proyecto, ayudando al mismo tiempo a garantiz
 - **Estado actual del proyecto**  
   Dónde nos encontramos hoy en los distintos componentes de trabajo y colaboraciones.
 
-- **Objetivos del Día 2**  
+- **Objetivos del Día 1**  
   Construir una comprensión compartida de los avances logrados desde el taller de 2025, identificar las brechas científicas y técnicas más importantes y generar retroalimentación focalizada para fortalecer el trabajo durante el próximo año.
 
 - **Marco compartido: proyecciones climáticas, incertidumbre e interpretación**  

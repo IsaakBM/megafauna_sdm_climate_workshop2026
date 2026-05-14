@@ -1,5 +1,5 @@
 ---
-title: "Día 3 - De los modelos a las decisiones: articulando ciencia y necesidades regionales"
+title: "Día 2 - De los modelos a las decisiones: articulando ciencia y necesidades regionales"
 lang: es
 format: html
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Day 3 - From Models to Decisions: Bridging Science and Regional Needs"
+title: "Day 2 - From Models to Decisions: Bridging Science and Regional Needs"
 format: html
 ---
 
