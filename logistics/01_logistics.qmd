@@ -37,7 +37,7 @@ Participants will be accommodated at the following hotels in Puerto Ayora:
 
 ## Venue and Accommodation Map
 
-The map below shows the workshop venue and accommodation locations in Puerto Ayora. Blue marks the venue, and orange marks accommodation.
+The map below shows the workshop venue and accommodation locations in Puerto Ayora. **<span class="venue-text">Blue marks</span>** the venue, and **<span class="accommodation-text">orange marks</span>** accommodation.
 
 <link
   rel="stylesheet"

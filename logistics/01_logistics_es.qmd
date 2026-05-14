@@ -42,7 +42,7 @@ Los participantes se alojarán en los siguientes hoteles en Puerto Ayora:
 
 ## Mapa del taller y alojamiento
 
-El mapa a continuación muestra la sede del taller y los alojamientos en Puerto Ayora. El punto azul marca la sede y los puntos naranjas marcan los alojamientos.
+El mapa a continuación muestra la sede del taller y los alojamientos en Puerto Ayora. **<span class="venue-text">El azul marca</span>** la sede y **<span class="accommodation-text">el naranja marca</span>** los alojamientos.
 
 <link
   rel="stylesheet"

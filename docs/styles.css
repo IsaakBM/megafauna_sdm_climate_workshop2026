@@ -185,6 +185,14 @@ p, li {
   background: #f28c38;
 }
 
+.venue-text {
+  color: #1f6fa8;
+}
+
+.accommodation-text {
+  color: #f28c38;
+}
+
 main.content {
   padding-top: 1.1rem;
 }
