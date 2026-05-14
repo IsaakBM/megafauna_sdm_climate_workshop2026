@@ -63,15 +63,18 @@ Each group will present a short synthesis of their discussions:
 - **[Stakeholder Engagement and Regional Priorities](../participants/nontechnical-group.html) - "What we need"**  
   Priority outputs, regional needs, and expectations from a policy and implementation perspective.
 
-Following the group presentations, the moderator and policy/regional panel will help align both perspectives:
+Following the group presentations, the moderator and policy/regional panel will use the questions below to guide a discussion that aligns both perspectives:
 
-- **Group inputs**: [Technical](../participants/technical-group.html) and [Stakeholder Engagement](../participants/nontechnical-group.html) groups
-- **Moderator**: <a href="https://www.researchgate.net/profile/Fausto-Arias-Zumbado" target="_blank" rel="noopener noreferrer">Fausto Arias</a>
-- **Policy/regional panel**: <a href="https://www.linkedin.com/in/tito-navia-sol%C3%B3rzano-a1b701120/" target="_blank" rel="noopener noreferrer">Tito Navia</a>, GIZ; <a href="https://cpps-int.org/index.php/actividades-pda-m/60-quienes-somos/organigrama/213-directorio" target="_blank" rel="noopener noreferrer">Leonardo Marriaga</a>, CPPS
+**Format**  
+Group inputs: [Technical](../participants/technical-group.html) and [Stakeholder Engagement](../participants/nontechnical-group.html) groups  
+Moderator: <a href="https://www.researchgate.net/profile/Fausto-Arias-Zumbado" target="_blank" rel="noopener noreferrer">Fausto Arias</a>  
+Policy/regional panel: <a href="https://www.linkedin.com/in/tito-navia-sol%C3%B3rzano-a1b701120/" target="_blank" rel="noopener noreferrer">Tito Navia</a>, GIZ; <a href="https://cpps-int.org/index.php/actividades-pda-m/60-quienes-somos/organigrama/213-directorio" target="_blank" rel="noopener noreferrer">Leonardo Marriaga</a>, CPPS
 
-- Where do technical capabilities meet stakeholder and policy needs?
-- Where are the main gaps or mismatches?
-- What adjustments are needed to move forward effectively?
+**Guiding questions**
+
+a. Where do technical capabilities meet stakeholder and policy needs?  
+b. Where are the main gaps or mismatches?  
+c. What adjustments are needed to move forward effectively?
 :::
 
 ------------------------------------------------------------------------
