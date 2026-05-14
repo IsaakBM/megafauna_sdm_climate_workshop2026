@@ -212,7 +212,8 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#ubicación" id="toc-ubicación" class="nav-link" data-scroll-target="#ubicación">Ubicación</a></li>
   <li><a href="#fechas" id="toc-fechas" class="nav-link" data-scroll-target="#fechas">Fechas</a></li>
   <li><a href="#sede" id="toc-sede" class="nav-link" data-scroll-target="#sede">Sede</a></li>
-  <li><a href="#mapa-de-la-sede" id="toc-mapa-de-la-sede" class="nav-link" data-scroll-target="#mapa-de-la-sede">Mapa de la sede</a></li>
+  <li><a href="#alojamiento" id="toc-alojamiento" class="nav-link" data-scroll-target="#alojamiento">Alojamiento</a></li>
+  <li><a href="#mapa-del-taller-y-alojamiento" id="toc-mapa-del-taller-y-alojamiento" class="nav-link" data-scroll-target="#mapa-del-taller-y-alojamiento">Mapa del taller y alojamiento</a></li>
   <li><a href="#nota-de-viaje" id="toc-nota-de-viaje" class="nav-link" data-scroll-target="#nota-de-viaje">Nota de viaje</a></li>
   </ul></li>
   </ul>
@@ -246,13 +247,90 @@ ul.task-list li input[type="checkbox"] {
 <p>El taller se llevará a cabo en <strong>Santa Cruz, Galápagos</strong>.</p>
 <p>La sede actual es la <strong>Fundación Charles Darwin</strong>, Santa Cruz, Galápagos. Más adelante se compartirán detalles adicionales de acceso e instrucciones para las reuniones.</p>
 </section>
-<section id="mapa-de-la-sede" class="level2">
-<h2 class="anchored" data-anchor-id="mapa-de-la-sede">Mapa de la sede</h2>
-<p>El mapa a continuación muestra la ubicación actual de la sede en la isla Santa Cruz. Más adelante se podrán añadir los alojamientos una vez que se confirmen los hoteles.</p>
+<section id="alojamiento" class="level2">
+<h2 class="anchored" data-anchor-id="alojamiento">Alojamiento</h2>
+<p>Los participantes se alojarán en los siguientes hoteles en Puerto Ayora:</p>
+<ul>
+<li><p><strong>CASA GALÁPAGOS by Hostal Fragata</strong><br>
+Calle Escalecia y Petrel #069<br>
+200102 Puerto Ayora, Ecuador</p></li>
+<li><p><strong>Isla Azul</strong><br>
+Fragata y Floreana<br>
+200350 Puerto Ayora, Ecuador</p></li>
+</ul>
+</section>
+<section id="mapa-del-taller-y-alojamiento" class="level2">
+<h2 class="anchored" data-anchor-id="mapa-del-taller-y-alojamiento">Mapa del taller y alojamiento</h2>
+<p>El mapa a continuación muestra la sede del taller y los alojamientos en Puerto Ayora. El punto azul marca la sede y los puntos naranjas marcan los alojamientos.</p>
+<p><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""></p>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
 <div class="map-embed">
-<iframe title="Mapa de la sede del taller" src="https://maps.google.com/maps?q=Charles%20Darwin%20Research%20Station%2C%20Puerto%20Ayora%2C%20Santa%20Cruz%2C%20Gal%C3%A1pagos&amp;z=15&amp;output=embed" width="100%" height="360" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-</iframe>
+<div id="venue-accommodation-map-es" class="leaflet-map" aria-label="Mapa del taller y alojamiento">
+
 </div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const mapElement = document.getElementById("venue-accommodation-map-es");
+  if (!mapElement || typeof L === "undefined") return;
+
+  const locations = [
+    {
+      name: "Fundación Charles Darwin",
+      type: "Sede",
+      address: "Charles Darwin Research Station, Puerto Ayora, Santa Cruz, Galápagos",
+      lat: -0.7441,
+      lng: -90.3023,
+      markerClass: "venue-marker"
+    },
+    {
+      name: "CASA GALÁPAGOS by Hostal Fragata",
+      type: "Alojamiento",
+      address: "Calle Escalecia y Petrel #069, 200102 Puerto Ayora, Ecuador",
+      lat: -0.7399,
+      lng: -90.3147,
+      markerClass: "accommodation-marker"
+    },
+    {
+      name: "Isla Azul",
+      type: "Alojamiento",
+      address: "Fragata y Floreana, 200350 Puerto Ayora, Ecuador",
+      lat: -0.7446,
+      lng: -90.3144,
+      markerClass: "accommodation-marker"
+    }
+  ];
+
+  const map = L.map(mapElement, { scrollWheelZoom: false });
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+
+  const bounds = [];
+  locations.forEach((location) => {
+    const marker = L.marker([location.lat, location.lng], {
+      icon: L.divIcon({
+        className: `custom-map-marker ${location.markerClass}`,
+        html: '<span></span>',
+        iconSize: [22, 22],
+        iconAnchor: [11, 11]
+      })
+    }).addTo(map);
+
+    const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(location.address)}`;
+    marker.bindPopup(`
+      <strong>${location.name}</strong><br>
+      ${location.type}<br>
+      ${location.address}<br>
+      <a href="${mapsUrl}" target="_blank" rel="noopener noreferrer">Abrir en Google Maps</a>
+    `);
+    bounds.push([location.lat, location.lng]);
+  });
+
+  map.fitBounds(bounds, { padding: [28, 28] });
+});
+</script>
 </section>
 <section id="nota-de-viaje" class="level2">
 <h2 class="anchored" data-anchor-id="nota-de-viaje">Nota de viaje</h2>

@@ -212,7 +212,8 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#location" id="toc-location" class="nav-link" data-scroll-target="#location">Location</a></li>
   <li><a href="#dates" id="toc-dates" class="nav-link" data-scroll-target="#dates">Dates</a></li>
   <li><a href="#venue" id="toc-venue" class="nav-link" data-scroll-target="#venue">Venue</a></li>
-  <li><a href="#venue-map" id="toc-venue-map" class="nav-link" data-scroll-target="#venue-map">Venue map</a></li>
+  <li><a href="#accommodation" id="toc-accommodation" class="nav-link" data-scroll-target="#accommodation">Accommodation</a></li>
+  <li><a href="#venue-and-accommodation-map" id="toc-venue-and-accommodation-map" class="nav-link" data-scroll-target="#venue-and-accommodation-map">Venue and Accommodation Map</a></li>
   <li><a href="#travel-note" id="toc-travel-note" class="nav-link" data-scroll-target="#travel-note">Travel note</a></li>
   </ul></li>
   </ul>
@@ -246,13 +247,90 @@ ul.task-list li input[type="checkbox"] {
 <p>The workshop will be hosted on <strong>Santa Cruz Island, Galápagos</strong>.</p>
 <p>The current venue is <strong>Charles Darwin Foundation</strong>, Santa Cruz, Galápagos. Additional access details and meeting instructions will be shared closer to the workshop date.</p>
 </section>
-<section id="venue-map" class="level2">
-<h2 class="anchored" data-anchor-id="venue-map">Venue map</h2>
-<p>The map below shows the current venue location on Santa Cruz Island. Accommodation pins can be added later once hotels are confirmed.</p>
+<section id="accommodation" class="level2">
+<h2 class="anchored" data-anchor-id="accommodation">Accommodation</h2>
+<p>Participants will be accommodated at the following hotels in Puerto Ayora:</p>
+<ul>
+<li><p><strong>CASA GALÁPAGOS by Hostal Fragata</strong><br>
+Calle Escalecia y Petrel #069<br>
+200102 Puerto Ayora, Ecuador</p></li>
+<li><p><strong>Isla Azul</strong><br>
+Fragata y Floreana<br>
+200350 Puerto Ayora, Ecuador</p></li>
+</ul>
+</section>
+<section id="venue-and-accommodation-map" class="level2">
+<h2 class="anchored" data-anchor-id="venue-and-accommodation-map">Venue and Accommodation Map</h2>
+<p>The map below shows the workshop venue and accommodation locations in Puerto Ayora. Blue marks the venue, and orange marks accommodation.</p>
+<p><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""></p>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
 <div class="map-embed">
-<iframe title="Workshop venue map" src="https://maps.google.com/maps?q=Charles%20Darwin%20Research%20Station%2C%20Puerto%20Ayora%2C%20Santa%20Cruz%2C%20Gal%C3%A1pagos&amp;z=15&amp;output=embed" width="100%" height="360" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-</iframe>
+<div id="venue-accommodation-map" class="leaflet-map" aria-label="Venue and accommodation map">
+
 </div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const mapElement = document.getElementById("venue-accommodation-map");
+  if (!mapElement || typeof L === "undefined") return;
+
+  const locations = [
+    {
+      name: "Charles Darwin Foundation",
+      type: "Venue",
+      address: "Charles Darwin Research Station, Puerto Ayora, Santa Cruz, Galápagos",
+      lat: -0.7441,
+      lng: -90.3023,
+      markerClass: "venue-marker"
+    },
+    {
+      name: "CASA GALÁPAGOS by Hostal Fragata",
+      type: "Accommodation",
+      address: "Calle Escalecia y Petrel #069, 200102 Puerto Ayora, Ecuador",
+      lat: -0.7399,
+      lng: -90.3147,
+      markerClass: "accommodation-marker"
+    },
+    {
+      name: "Isla Azul",
+      type: "Accommodation",
+      address: "Fragata y Floreana, 200350 Puerto Ayora, Ecuador",
+      lat: -0.7446,
+      lng: -90.3144,
+      markerClass: "accommodation-marker"
+    }
+  ];
+
+  const map = L.map(mapElement, { scrollWheelZoom: false });
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+
+  const bounds = [];
+  locations.forEach((location) => {
+    const marker = L.marker([location.lat, location.lng], {
+      icon: L.divIcon({
+        className: `custom-map-marker ${location.markerClass}`,
+        html: '<span></span>',
+        iconSize: [22, 22],
+        iconAnchor: [11, 11]
+      })
+    }).addTo(map);
+
+    const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(location.address)}`;
+    marker.bindPopup(`
+      <strong>${location.name}</strong><br>
+      ${location.type}<br>
+      ${location.address}<br>
+      <a href="${mapsUrl}" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
+    `);
+    bounds.push([location.lat, location.lng]);
+  });
+
+  map.fitBounds(bounds, { padding: [28, 28] });
+});
+</script>
 </section>
 <section id="travel-note" class="level2">
 <h2 class="anchored" data-anchor-id="travel-note">Travel note</h2>

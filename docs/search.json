@@ -119,11 +119,18 @@
     "text": "Sede\nEl taller se llevará a cabo en Santa Cruz, Galápagos.\nLa sede actual es la Fundación Charles Darwin, Santa Cruz, Galápagos. Más adelante se compartirán detalles adicionales de acceso e instrucciones para las reuniones."
   },
   {
-    "objectID": "logistics/01_logistics_es.html#mapa-de-la-sede",
-    "href": "logistics/01_logistics_es.html#mapa-de-la-sede",
+    "objectID": "logistics/01_logistics_es.html#alojamiento",
+    "href": "logistics/01_logistics_es.html#alojamiento",
     "title": "Logística del taller",
-    "section": "Mapa de la sede",
-    "text": "Mapa de la sede\nEl mapa a continuación muestra la ubicación actual de la sede en la isla Santa Cruz. Más adelante se podrán añadir los alojamientos una vez que se confirmen los hoteles."
+    "section": "Alojamiento",
+    "text": "Alojamiento\nLos participantes se alojarán en los siguientes hoteles en Puerto Ayora:\n\nCASA GALÁPAGOS by Hostal Fragata\nCalle Escalecia y Petrel #069\n200102 Puerto Ayora, Ecuador\nIsla Azul\nFragata y Floreana\n200350 Puerto Ayora, Ecuador"
+  },
+  {
+    "objectID": "logistics/01_logistics_es.html#mapa-del-taller-y-alojamiento",
+    "href": "logistics/01_logistics_es.html#mapa-del-taller-y-alojamiento",
+    "title": "Logística del taller",
+    "section": "Mapa del taller y alojamiento",
+    "text": "Mapa del taller y alojamiento\nEl mapa a continuación muestra la sede del taller y los alojamientos en Puerto Ayora. El punto azul marca la sede y los puntos naranjas marcan los alojamientos."
   },
   {
     "objectID": "logistics/01_logistics_es.html#nota-de-viaje",
@@ -408,11 +415,18 @@
     "text": "Venue\nThe workshop will be hosted on Santa Cruz Island, Galápagos.\nThe current venue is Charles Darwin Foundation, Santa Cruz, Galápagos. Additional access details and meeting instructions will be shared closer to the workshop date."
   },
   {
-    "objectID": "logistics/01_logistics.html#venue-map",
-    "href": "logistics/01_logistics.html#venue-map",
+    "objectID": "logistics/01_logistics.html#accommodation",
+    "href": "logistics/01_logistics.html#accommodation",
     "title": "Workshop logistics",
-    "section": "Venue map",
-    "text": "Venue map\nThe map below shows the current venue location on Santa Cruz Island. Accommodation pins can be added later once hotels are confirmed."
+    "section": "Accommodation",
+    "text": "Accommodation\nParticipants will be accommodated at the following hotels in Puerto Ayora:\n\nCASA GALÁPAGOS by Hostal Fragata\nCalle Escalecia y Petrel #069\n200102 Puerto Ayora, Ecuador\nIsla Azul\nFragata y Floreana\n200350 Puerto Ayora, Ecuador"
+  },
+  {
+    "objectID": "logistics/01_logistics.html#venue-and-accommodation-map",
+    "href": "logistics/01_logistics.html#venue-and-accommodation-map",
+    "title": "Workshop logistics",
+    "section": "Venue and Accommodation Map",
+    "text": "Venue and Accommodation Map\nThe map below shows the workshop venue and accommodation locations in Puerto Ayora. Blue marks the venue, and orange marks accommodation."
   },
   {
     "objectID": "logistics/01_logistics.html#travel-note",
