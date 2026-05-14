@@ -67,9 +67,9 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       name: "Fundación Charles Darwin",
       type: "Sede",
-      address: "Charles Darwin Research Station, Puerto Ayora, Santa Cruz, Galápagos",
-      lat: -0.7441,
-      lng: -90.3023,
+      address: "G.T. Corley Smith Library, Charles Darwin Research Station, Puerto Ayora, Santa Cruz, Galápagos",
+      lat: -0.74255,
+      lng: -90.30485,
       markerClass: "venue-marker"
     },
     {
