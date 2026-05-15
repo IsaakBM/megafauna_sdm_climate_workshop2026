@@ -95,25 +95,50 @@ Reunir los principales resultados del taller, traducirlos en productos concretos
 
 ------------------------------------------------------------------------
 
-# Sesión 10: Hoja de ruta y coordinación (14.00 - 16.00)
+# Sesión 10: Hoja de ruta y coordinación, parte 1 (14.00 - 15.00)
 
 ::: {.callout-note appearance="simple"}
-- **Enfoque**: Definir cómo continúa el trabajo más allá del taller.
+- **Enfoque**: Definir cómo continúa el trabajo más allá del taller, con énfasis en la integración entre componentes del proyecto y direcciones futuras.
 
 - **Puntos clave**
 
-    - Acciones prioritarias para los próximos meses
     - Coordinación entre equipos e instituciones
     - Cómo mantener el impulso *(grupos de trabajo, seguimientos)*
     - Cómo los productos se conectan con procesos regionales y globales
+    - **Gemelos digitales como marco integrador**  
+      <a href="https://www.conservation.org/experts-list/dr-lee-hannah" target="_blank" rel="noopener noreferrer">Lee Hannah</a> y <a href="https://www.researchgate.net/profile/Sebastien-Villon" target="_blank" rel="noopener noreferrer">Sebastien Villon</a>  
+      Discusión sobre los gemelos digitales como un posible marco para integrar proyecciones climáticas, modelación oceanográfica, distribuciones de especies, vulnerabilidad y necesidades de apoyo a la toma de decisiones.
 
 - **Resultado esperado**  
-  Una hoja de ruta simple y compartida para la siguiente fase del proyecto.
+  Una comprensión compartida de cómo los distintos componentes científicos y aplicados del proyecto pueden conectarse más allá del taller.
 :::
 
 ------------------------------------------------------------------------
 
-# Discusión final y cierre (16.00 - 16.30)
+:::: text-center
+::: section-small
+*Pausa para café (15.00 - 15.30)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Sesión 11: Hoja de ruta y coordinación, parte 2 (15.30 - 16.15)
+
+::: {.callout-note appearance="simple"}
+- **Enfoque**: Consolidar la discusión más amplia sobre la hoja de ruta en necesidades de coordinación y estructura de seguimiento.
+
+- **Puntos clave**
+
+    - Principales dependencias entre líneas de trabajo
+    - Necesidades de coordinación después del taller
+    - Mecanismos de seguimiento y canales de comunicación
+    - Puntos que requieren alineación entre instituciones o socios
+:::
+
+------------------------------------------------------------------------
+
+# Discusión final y cierre (16.15 - 16.45)
 
 ::: {.callout-note appearance="simple"}
 - **Reflexiones finales**

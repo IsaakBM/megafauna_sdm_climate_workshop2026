@@ -94,25 +94,50 @@ Bring together the main outcomes from the workshop, translate them into concrete
 
 ------------------------------------------------------------------------
 
-# Session 10: Roadmap and coordination (14.00 - 16.00)
+# Session 10: Roadmap and coordination, part 1 (14.00 - 15.00)
 
 ::: {.callout-note appearance="simple"}
-- **Focus**: Define how the work continues beyond the workshop.
+- **Focus**: Define how the work continues beyond the workshop, with emphasis on integration across project components and future directions.
 
 - **Key points**
 
-    - Priority actions for the next months
     - Coordination across teams and institutions
     - How to maintain momentum *(working groups, follow-ups)*
     - How outputs connect to regional and global processes
+    - **Digital Twins as an integrative framework**  
+      <a href="https://www.conservation.org/experts-list/dr-lee-hannah" target="_blank" rel="noopener noreferrer">Lee Hannah</a> and <a href="https://www.researchgate.net/profile/Sebastien-Villon" target="_blank" rel="noopener noreferrer">Sebastien Villon</a>  
+      Discussion of Digital Twins as a possible framework for integrating climate projections, oceanographic modeling, species distributions, vulnerability, and decision-support needs.
 
 - **Expected outcome**  
-  A simple, shared roadmap for the next phase of the project.
+  A shared understanding of how the project's different scientific and applied components can connect beyond the workshop.
 :::
 
 ------------------------------------------------------------------------
 
-# Final discussion and closing (16.00 - 16.30)
+:::: text-center
+::: section-small
+*Coffee break (15.00 - 15.30)*
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Session 11: Roadmap and coordination, part 2 (15.30 - 16.15)
+
+::: {.callout-note appearance="simple"}
+- **Focus**: Consolidate the broader roadmap discussion into coordination needs and follow-up structure.
+
+- **Key points**
+
+    - Main dependencies across workstreams
+    - Coordination needs after the workshop
+    - Follow-up mechanisms and communication channels
+    - Points that require alignment across institutions or partners
+:::
+
+------------------------------------------------------------------------
+
+# Final discussion and closing (16.15 - 16.45)
 
 ::: {.callout-note appearance="simple"}
 - **Final reflections**
