@@ -18,7 +18,7 @@ Esta sección contiene documentos clave, presentaciones y materiales de referenc
 
 ## 📄 Documentos
 
-- 📎 [Agenda del taller (PDF)](workshop-agenda.pdf)
+- 📎 [Agenda del taller (PDF)](workshop-agenda_es.pdf)
 - 📎 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Resumen del proyecto Save the Blue Five (PDF)</a>
 - 📎 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Presentación general del taller (PDF)</a>
 

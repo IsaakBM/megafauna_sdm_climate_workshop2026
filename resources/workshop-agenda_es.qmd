@@ -1,0 +1,177 @@
+---
+title: "Agenda del Taller"
+lang: es
+format:
+  pdf:
+    pdf-engine: typst
+    toc: false
+    number-sections: false
+    mainfont: "Helvetica Neue"
+---
+
+Save the Blue Five | Santa Cruz, Galápagos | 8-12 de junio de 2026
+
+# Llegada
+
+Santa Cruz, Galápagos, Ecuador  
+8 de junio de 2026
+
+- 5:00 - 5:30 pm: Traslado desde el aeropuerto a la isla Santa Cruz. Transporte coordinado por [Isaac Brito-Morales](https://isaakbm.github.io/) y [Dylan Glave](https://example.com).
+- 6:00 pm: Registro en el hotel. Dependiendo de la asignación de habitaciones, por favor revise su correo electrónico para las instrucciones del hotel. Dirección: por confirmar.
+- 7:30 - 9:00 pm: Cena y objetivos del taller. Lugar: por confirmar.
+
+# Día 1 - Avances científicos e integración de modelos
+
+Martes, 9 de junio de 2026
+
+## Objetivo
+
+Revisar los avances científicos y de modelación realizados desde el taller de 2025, identificar qué está listo para avanzar, aclarar las brechas e incertidumbres más importantes y recopilar retroalimentación específica para fortalecer el trabajo durante el próximo año.
+
+## Sesión 1: Bienvenida y contexto de los avances desde 2025
+
+09.00 - 10.30
+
+- Bienvenida de la Fundación Charles Darwin. [Rakan Zahawi](https://example.com) o [María José Barragán](https://example.com). Breve bienvenida a Galápagos y a la sede anfitriona.
+- Palabras de apertura. [Isaac Brito-Morales](https://isaakbm.github.io/) y [Lee Hannah](https://www.conservation.org/experts-list/dr-lee-hannah). Breve bienvenida y panorama de los objetivos y resultados esperados del taller.
+- Presentación de participantes. Presentaciones breves para alinear experiencia y contribuciones en curso al proyecto.
+- Panorama de los avances desde el taller de 2025.
+- Logros clave. Resumen de los principales hitos alcanzados en datos, modelación y coordinación.
+- Estado actual del proyecto. Situación actual de las líneas de trabajo y colaboraciones.
+- Objetivos del Día 1. Construir una comprensión compartida de los avances desde el taller de 2025, identificar las brechas científicas y técnicas más importantes y generar retroalimentación enfocada para fortalecer el trabajo durante el próximo año.
+- Objetivos del taller. Fortalecer la base científica del proyecto y asegurar que sus productos sean relevantes, accionables y útiles para la coordinación regional, la planificación de la conservación y la toma de decisiones orientada a políticas.
+
+Pausa para café: 10.30 - 11.00
+
+## Sesión 2: Avances científicos y de modelación desde 2025
+
+11.00 - 13.00
+
+Esta sesión presenta avances clave en la evaluación de vulnerabilidad al cambio climático, la modelación física, los conjuntos de datos biológicos y la modelación de distribución de especies en el proyecto. En conjunto, estos componentes ayudan a definir qué se ha logrado y dónde se necesitan mejoras enfocadas para fortalecer la siguiente fase de trabajo.
+
+Mientras escucha, por favor tome nota de qué hallazgos parecen más útiles para la planificación de la conservación, la coordinación regional o la toma de decisiones relevante para políticas, y qué información adicional haría que estos resultados sean más accionables. Estas reflexiones ayudarán a orientar las discusiones en grupos más adelante en el taller.
+
+- Evaluación de vulnerabilidad al cambio climático. [Lee Hannah](https://www.conservation.org/experts-list/dr-lee-hannah), presentada por [Sarayu Ramnath](https://example.com). Panorama del marco de evaluación, los conjuntos de datos y los resultados iniciales entre taxones.
+- Marco de modelación física y downscaling. [Isaac Brito-Morales](https://isaakbm.github.io/), incluyendo resultados de Toulouse 2025. Resumen de los conjuntos de datos oceanográficos, los enfoques de downscaling y la integración con los datos biológicos. Los materiales relacionados están disponibles en el [repositorio de downscaling oceánico CESM Large Ensemble](https://github.com/IsaakBM/cesmle-ocn-fetch) y la [aplicación Shiny para visualizar el downscaling oceánico](https://isaakbm-ocean-downscaling-viewer.share.connect.posit.cloud/).
+- Estado de los datos biológicos para la modelación de distribución de especies (SDMs). [Isaac Brito-Morales](https://isaakbm.github.io/). Estado actual de los conjuntos de datos compilados, vacíos de información y preparación para la modelación. Los recursos relacionados son el [repositorio de datos (IsaakBM/pre_sdm_bio_data_prep)](https://github.com/IsaakBM/pre_sdm_bio_data_prep) y la [aplicación Shiny para visualizar datos de megafauna](https://isaakbm-megafauna-data-viewer.share.connect.posit.cloud/).
+- Avances en modelos de especies. Estas actualizaciones presentan resultados preliminares a intermedios y buscan orientar la siguiente fase de mejora de los modelos. Dado el cronograma del proyecto, el objetivo es identificar las mejoras más importantes y realistas para fortalecer los productos finales. Se invita a los participantes a concentrar su retroalimentación en lo más importante de mejorar durante el próximo año. Delfines: [Mario Pardo](https://www.linkedin.com/in/mario-a-pardo-cicese/) y [Ariadna Juarez](https://scholar.google.com/citations?user=NE7puCcAAAAJ&hl=es). Sistemas mesopelágicos: [Yulia Egorova](https://people.miami.edu/profile/4fd08a9092e08f6da5b330184ade8d86). Primera generación de SDMs: [Isaac Brito-Morales](https://isaakbm.github.io/).
+
+Almuerzo: 13.00 - 14.30
+
+## Sesión 3: Síntesis entre taxones y sistemas
+
+14.30 - 16.00
+
+Esta sesión integra conocimientos entre especies, modelos y variables ambientales para construir una perspectiva regional. Comenzará con una breve síntesis de patrones clave e ideas emergentes, seguida de una discusión en grupos pequeños para reflexionar sobre qué es más relevante, qué sigue siendo incierto y cómo podrían usarse estos hallazgos en la práctica.
+
+- Patrones entre taxones e ideas emergentes.
+- Variables ambientales clave y uso de hábitat.
+- Integración de procesos biológicos y físicos.
+- Discusión: ¿Qué estamos aprendiendo a escala regional? ¿Cuáles son las principales brechas de conocimiento o incertidumbres? ¿Qué hallazgos parecen más relevantes para la conservación, la planificación o la coordinación regional?
+
+Pausa para café: 16.00 - 16.30
+
+## Sesión 4: Discusión estratégica y próximos pasos
+
+16.30 - 17.00
+
+- Brechas prioritarias a abordar.
+- Acciones de corto plazo y próximos pasos.
+- Alineación entre equipos y líneas de trabajo.
+- Preparación para los próximos hitos del proyecto.
+
+# Día 2 - De los modelos a las decisiones: vinculando ciencia y necesidades regionales
+
+Miércoles, 10 de junio de 2026
+
+## Objetivo
+
+Traducir los avances científicos y de modelación en próximos pasos concretos, alineando el desarrollo técnico con las prioridades regionales y las necesidades de toma de decisiones.
+
+## Sesión 5: Grupos de trabajo - Desarrollo técnico y prioridades regionales
+
+09.00 - 12.30
+
+Esta sesión se estructura en torno a grupos de trabajo paralelos, reuniendo participantes para enfocarse en aspectos complementarios del proyecto y definir prioridades para la siguiente fase. Las discusiones serán facilitadas por [Fausto Arias](https://www.researchgate.net/profile/Fausto-Arias-Zumbado) y [Dylan Glave](https://example.com).
+
+- 09:00 - 09:30: Introducción y encuadre de los grupos de trabajo. [Fausto Arias](https://www.researchgate.net/profile/Fausto-Arias-Zumbado) y [Dylan Glave](https://example.com) presentarán los objetivos de los grupos, explicarán la estructura de las discusiones y destacarán las preguntas clave que guiarán la sesión.
+- 09:30 - 10:45: Grupos de trabajo paralelos. Grupo técnico: desarrollo de modelos, escenarios climáticos, integración de datos y definición de lo que es alcanzable de manera realista en la siguiente fase del proyecto. Grupo de participación de actores y prioridades regionales: necesidades regionales, relevancia para políticas, productos esperados y cómo los resultados pueden apoyar la toma de decisiones entre instituciones.
+
+Pausa para café: 10.45 - 11.00
+
+## Sesión 6: Síntesis plenaria - Alineación entre capacidad técnica y necesidades regionales
+
+11.00 - 12.00
+
+- Grupo técnico: lo que podemos hacer. Enfoques de modelación factibles, escenarios climáticos seleccionados, preparación de datos y restricciones clave.
+- Grupo de participación de actores y prioridades regionales: lo que necesitamos. Productos prioritarios, necesidades regionales y expectativas desde una perspectiva de políticas e implementación.
+- Discusión: ¿Dónde se encuentran las capacidades técnicas con las necesidades de los actores? ¿Dónde están las principales brechas o desajustes? ¿Qué ajustes se necesitan para avanzar de manera efectiva?
+
+## Sesión 7: Discusión y acuerdo sobre próximos pasos
+
+12.00 - 12.30
+
+Esta discusión de cierre se utilizará para identificar las acciones más importantes a seguir, alinear prioridades entre equipos y aclarar entregables de corto plazo. Los participantes contribuirán ideas en plenaria, y las prioridades se consolidarán y agruparán en temas compartidos.
+
+- Identificación de acciones prioritarias. Las ideas se recopilarán y agruparán en temas clave emergentes de la discusión.
+- Alineación entre equipos y líneas de trabajo. Los participantes ayudarán a identificar dónde se superponen con mayor claridad las prioridades científicas, técnicas y regionales.
+- Definición de entregables de corto plazo. La sesión buscará destacar los próximos pasos más inmediatos y ampliamente respaldados.
+
+Almuerzo: 12.30 - 14.30
+
+## Actividad social y networking por la tarde
+
+- 14:30 - 17:30: Actividad al aire libre, snorkel o visita a un sitio local. Diseñada para fomentar el intercambio informal, fortalecer conexiones entre participantes y experimentar el entorno local.
+- 19:00 - 21:00: Cena grupal, lugar por confirmar.
+
+# Día 3 - Ciencia aplicada, síntesis y próximos pasos
+
+Jueves, 11 de junio de 2026
+
+## Objetivo
+
+Reunir los principales resultados del taller, traducirlos en productos concretos y definir una ruta clara para la colaboración y el impacto regional.
+
+## Sesión 8: Síntesis de ideas clave y perspectivas aplicadas
+
+09.00 - 10.30
+
+- Enfoque: conectar el trabajo científico y de modelación del Día 1 con las discusiones de alineación del Día 2, con énfasis en cómo estos resultados pueden informar la conservación y la planificación regional.
+- Temas de discusión: de la modelación a la aplicación; relevancia para la planificación regional; manejo de la incertidumbre; ideas entre taxones; coordinación regional.
+- Resultado esperado: una visión compartida de cómo los resultados del taller se traducen en prioridades aplicadas de conservación y regionales.
+
+Pausa para café: 10.30 - 11.00
+
+## Sesión 9: Definición de productos y próximos pasos
+
+11.00 - 12.30
+
+- Enfoque: pasar de la discusión a la definición. Identificar los productos clave que surgen del taller y lo que se necesita para entregarlos.
+- Productos a definir: productos científicos como artículos, conjuntos de datos y flujos de trabajo de modelación; productos aplicados como mapas, productos relevantes para políticas e insumos regionales.
+- Para cada producto, definir responsable, colaboradores y cronograma.
+- Discusión de cronograma: corto plazo 0-3 meses, mediano plazo 3-6 meses y largo plazo 6-12 meses.
+- Pregunta guía: ¿A qué nos comprometemos realmente después de este taller?
+- Resultado esperado: productos claros con responsables identificados y cronogramas realistas.
+
+Almuerzo: 12.30 - 14.00
+
+## Sesión 10: Hoja de ruta y coordinación
+
+14.00 - 16.00
+
+- Enfoque: definir cómo continúa el trabajo más allá del taller.
+- Puntos clave: acciones prioritarias para los próximos meses, coordinación entre equipos e instituciones, cómo mantener el impulso y cómo los productos se conectan con procesos regionales y globales.
+- Resultado esperado: una hoja de ruta simple y compartida para la siguiente fase del proyecto.
+
+## Discusión final y cierre
+
+16.00 - 16.30
+
+- Reflexiones finales.
+- Confirmación de próximos pasos.
+- Palabras de cierre por [Isaac Brito-Morales](https://isaakbm.github.io/), [Lee Hannah](https://www.conservation.org/experts-list/dr-lee-hannah) y el equipo de CI.
+- Noche: cena grupal.
+
+# Salida
+
+Salida y arreglos de viaje.

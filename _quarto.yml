@@ -6,6 +6,7 @@ project:
   render:
     - "*.qmd"
     - "!resources/workshop-agenda.qmd"
+    - "!resources/workshop-agenda_es.qmd"
 
 website:
   title: "Marine Megafauna and Climate Modeling Workshop – SB5"

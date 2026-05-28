@@ -84,11 +84,15 @@ Mientras escucha, por favor tome nota de qué hallazgos parecen más útiles par
 
 - **Marco de modelación física y downscaling**  
   <a href="https://isaakbm.github.io/" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales</a> *(incluyendo resultados de Toulouse 2025)*  
-  Resumen de los conjuntos de datos oceanográficos, los enfoques de downscaling y la integración con los datos biológicos. Los materiales relacionados están disponibles en el <a href="https://github.com/IsaakBM/cesmle-ocn-fetch" target="_blank" rel="noopener noreferrer">repositorio de downscaling oceánico CESM Large Ensemble</a>.
+  Resumen de los conjuntos de datos oceanográficos, los enfoques de downscaling y la integración con los datos biológicos. Los materiales relacionados están disponibles en:
+    - <a href="https://github.com/IsaakBM/cesmle-ocn-fetch" target="_blank" rel="noopener noreferrer">repositorio de downscaling oceánico CESM Large Ensemble</a>
+    - <a href="https://isaakbm-ocean-downscaling-viewer.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">aplicación Shiny para visualizar el downscaling oceánico</a>
 
 - **Estado de los datos biológicos para la modelación de distribución de especies (SDMs)**  
-  <a href="https://isaakbm.github.io/" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales</a>, <a href="https://example.com" target="_blank" rel="noopener noreferrer">Sarayu Ramnath</a>  
+  <a href="https://isaakbm.github.io/" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales</a>  
   Estado actual de los conjuntos de datos compilados, vacíos de información y preparación para la modelación.
+    - <a href="https://github.com/IsaakBM/pre_sdm_bio_data_prep" target="_blank" rel="noopener noreferrer">repositorio de datos (IsaakBM/pre_sdm_bio_data_prep)</a>
+    - <a href="https://isaakbm-megafauna-data-viewer.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">aplicación Shiny para visualizar datos de megafauna</a>
 
 - **Avances en modelos de especies**
 
