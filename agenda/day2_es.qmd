@@ -91,7 +91,7 @@ Mientras escucha, por favor tome nota de qué hallazgos parecen más útiles par
 - **Estado de los datos biológicos para la modelación de distribución de especies (SDMs)**  
   <a href="https://isaakbm.github.io/" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales</a>  
   Estado actual de los conjuntos de datos compilados, vacíos de información y preparación para la modelación.
-    - <a href="https://github.com/IsaakBM/pre_sdm_bio_data_prep" target="_blank" rel="noopener noreferrer">repositorio de datos (IsaakBM/pre_sdm_bio_data_prep)</a>
+    - <a href="https://github.com/IsaakBM/pre_sdm_bio_data_prep" target="_blank" rel="noopener noreferrer">repositorio de datos</a>
     - <a href="https://isaakbm-megafauna-data-viewer.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">aplicación Shiny para visualizar datos de megafauna</a>
 
 - **Avances en modelos de especies**
