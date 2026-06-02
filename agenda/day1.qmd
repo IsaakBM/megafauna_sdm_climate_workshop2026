@@ -16,16 +16,21 @@ format: html
 :::
 
 ::: {.callout-note appearance="simple"}
-- **5:00 - 5:30 pm**  
-  Transfer from the airport to **Santa Cruz Island**  
-  *Transportation coordinated by <a href="https://isaakbm.github.io/" target="_blank" rel="noopener noreferrer">Isaac Brito-Morales</a> and <a href="https://example.com" target="_blank" rel="noopener noreferrer">Dylan Glave</a>*
+- **Upon arrival at Baltra Airport**  
+  Galápagos arrival procedures  
+  *Please have your Certificado de Transeúnte ready for airport arrival controls.*
 
-- **6:00 pm**  
-  Hotel check-in  
-  *Depending on your room assignment, please check your email for hotel instructions*  
-  *Address: TBD*
+- **After luggage collection**  
+  Transfer from Baltra to Puerto Ayora  
+  *The route includes the Lobitos bus to the Itabaca Channel, the ferry crossing to Santa Cruz Island, and onward transport toward Puerto Ayora.*  
+  *Conservation International will coordinate transport from the Santa Cruz dock toward Puerto Ayora. Final meeting points, contacts, and hotel assignments will be shared separately.*  
+  *The full transfer from Baltra to Puerto Ayora usually takes approximately 1.5 to 2 hours.*
+
+- **Hotel check-in**  
+  Hotel check-in in Puerto Ayora  
+  *Please check your email for your assigned hotel and specific check-in instructions.*
 
 - **7:30 - 9:00 pm**  
   Dinner and workshop objectives  
-  *Location: TBD*
+  *Location: [Bahía Mar Restaurant](https://www.facebook.com/BahiaMarRestaurant/), Puerto Ayora*
 :::
