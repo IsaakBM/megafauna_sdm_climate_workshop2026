@@ -24,8 +24,17 @@ This section contains key documents, presentations, and shared reference materia
 
 ## 🧰 Technical Resources
 
-- 🔗 <a href="https://github.com/IsaakBM/cesmle-ocn-fetch" target="_blank" rel="noopener noreferrer">CESM Large Ensemble ocean downscaling workflow</a>
-  Workflow and notes related to ocean-variable extraction, climate-model handling, and downscaling-oriented preparation relevant to the workshop's physical modeling discussions.
+- 🔒 <a href="https://github.com/IsaakBM/cesmle-ocn-fetch" target="_blank" rel="noopener noreferrer">Ocean downscaling pipeline</a>  
+  Private GitHub repository authored by Isaac Brito-Morales containing the project's main pipeline for producing downscaled oceanographic products. The workflow supports preparation, vertical matching, downscaling, organization, and export of ocean model outputs across multiple data sources, including GLORYS, Global Ocean Biogeochemistry Hindcast, IPCC/ESGF products, and CESM-based workflows. Access is currently restricted while the pipeline is under active development as a technical product of the project.
+
+- 🔒 <a href="https://github.com/IsaakBM/pre_sdm_bio_data_prep" target="_blank" rel="noopener noreferrer">Pre-SDM biological data preparation pipeline</a>  
+  Private GitHub repository authored by Isaac Brito-Morales for preserving, harmonizing, quality-controlling, and exporting biological telemetry and observation records before species distribution modeling. Access is currently restricted because the repository includes project working data and sensitive biological information.
+
+- 🌐 <a href="https://isaakbm-ocean-downscaling-viewer.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">Ocean downscaling viewer</a>  
+  Interactive Shiny app for exploring selected downscaled oceanographic products generated through the project's downscaling pipeline.
+
+- 🌐 <a href="https://isaakbm-megafauna-data-viewer.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">Megafauna data viewer</a>  
+  Interactive Shiny app for reviewing compiled megafauna telemetry and observation data used to support species distribution modeling, including spatial coverage and data availability.
 
 ------------------------------------------------------------------------
 
@@ -36,9 +45,7 @@ This section contains key documents, presentations, and shared reference materia
 - 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Mario Pardo / Ariadna Juarez - Dolphins</a>
 - 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Yulia Egorova - Mesopelagic systems</a>
 - 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Sebastien Villon - Physical modeling and regional context</a>
-- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Shaleyla Kelez - Sea turtles</a>
-- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Gabriel Vianna - Sharks and rays</a>
-- 🎞 <a href="https://example.com" target="_blank" rel="noopener noreferrer">Frank Garita - Marine mammals</a>
+- 🎞 Presentations will be added as they are confirmed.
 
 ------------------------------------------------------------------------
 
