@@ -99,15 +99,15 @@ Esta discusión de cierre se utilizará para identificar las acciones más impor
 
 :::: text-center
 ::: section-small
-*Almuerzo (12.30 - 14.30)*
+*Almuerzo (12.30 - 13.30)*
 :::
 ::::
 
 ------------------------------------------------------------------------
 
 ::: {.callout-note appearance="simple"}
-- **14:30 - 17:30**: Actividad al aire libre *(snorkeling o visita a un sitio local)*
-- **Descripción**: Actividad diseñada para fomentar el intercambio informal, fortalecer las conexiones entre participantes y conocer el entorno local. Dependiendo de la logística y de las condiciones climáticas, puede incluir snorkeling o una visita a un sitio de interés cercano.
+- **13:30 - 17:30**: Opciones de actividad social
+- **Descripción**: Actualmente hay tres opciones para la actividad social de la tarde: Tour de Bahía, Tour Parte Alta o tarde libre. Según la asistencia y preferencias de los participantes, se compartirá más información durante la semana del taller antes de la actividad.
 :::
 
 ------------------------------------------------------------------------
