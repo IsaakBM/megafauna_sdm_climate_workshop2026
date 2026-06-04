@@ -32,9 +32,8 @@ La sede actual es la **Fundación Charles Darwin**, Santa Cruz, Galápagos. Más
 
 Los participantes se alojarán en los siguientes hoteles en Puerto Ayora:
 
-- **CASA GALÁPAGOS by Hostal Fragata**  
-  Calle Escalecia y Petrel #069  
-  200102 Puerto Ayora, Ecuador
+- **HOSTAL: CASA FRAGATA**  
+  Dirección: CALLE FRAGATA 361 Y SEYMOUR
 
 - **Isla Azul**  
   Fragata y Floreana  
@@ -73,11 +72,11 @@ document.addEventListener("DOMContentLoaded", () => {
       markerClass: "venue-marker"
     },
     {
-      name: "CASA GALÁPAGOS by Hostal Fragata",
+      name: "HOSTAL: CASA FRAGATA",
       type: "Alojamiento",
-      address: "Calle Escalecia y Petrel #069, 200102 Puerto Ayora, Ecuador",
-      lat: -0.7399,
-      lng: -90.3147,
+      address: "CALLE FRAGATA 361 Y SEYMOUR, Puerto Ayora, Ecuador",
+      lat: -0.74066836,
+      lng: -90.31297077,
       markerClass: "accommodation-marker"
     },
     {
